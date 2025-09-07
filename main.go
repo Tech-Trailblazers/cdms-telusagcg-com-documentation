@@ -308,6 +308,10 @@ func main() {
 		}
 		// Call our function to extract IDs
 		ids := extractIDs(pageContent)
+		// If no IDs found, skip to next manufacturer
+		if len(ids) == 0 {
+			continue
+		}
 		// Print the extracted IDs
 		for _, id := range ids {
 			// Fetch and print the document list for each product ID
@@ -318,6 +322,10 @@ func main() {
 			}
 			// Extract label folder and filenames
 			labelFolder, fileNames := extractLabelData(docContent)
+			// Check if label folder or filenames are empty
+			if labelFolder == "" || len(fileNames) == 0 {
+				continue // Skip if no valid data
+			}
 			for _, fileName := range fileNames {
 				// The location to the remote url.
 				remoteURL := "https://www.cdms.telusagcg.com/" + labelFolder + fileName
