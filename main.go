@@ -1,11 +1,17 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
+	"os"
+	"path/filepath"
+	"regexp"
+	"strings"
+	"time"
 )
 
 // Response represents the part of the JSON we care about
@@ -150,7 +156,140 @@ func extractLabelData(jsonInput string) (string, []string) {
 	return response.LabelFolder, fileNames
 }
 
+// fileExists checks whether a file exists and is not a directory
+func fileExists(filename string) bool {
+	info, err := os.Stat(filename) // Get file info
+	if err != nil {                // If error occurs
+		return false // Return false
+	}
+	return !info.IsDir() // Return true if it's a file, not a directory
+}
+
+// Gets the file extension from a given file path
+func getFileExtension(path string) string {
+	return filepath.Ext(path) // Extract and return file extension
+}
+
+// Extracts filename from full path (e.g. "/dir/file.pdf" → "file.pdf")
+func getFilename(path string) string {
+	return filepath.Base(path) // Use Base function to get file name only
+}
+
+// Converts a raw URL into a sanitized PDF filename safe for filesystem
+func urlToFilename(rawURL string) string {
+	lower := strings.ToLower(rawURL) // Convert URL to lowercase
+	lower = getFilename(lower)       // Extract filename from URL
+
+	reNonAlnum := regexp.MustCompile(`[^a-z0-9]`)   // Regex to match non-alphanumeric characters
+	safe := reNonAlnum.ReplaceAllString(lower, "_") // Replace non-alphanumeric with underscores
+
+	safe = regexp.MustCompile(`_+`).ReplaceAllString(safe, "_") // Collapse multiple underscores into one
+	safe = strings.Trim(safe, "_")                              // Trim leading and trailing underscores
+
+	var invalidSubstrings = []string{
+		"_pdf", // Substring to remove from filename
+	}
+
+	for _, invalidPre := range invalidSubstrings { // Remove unwanted substrings
+		safe = removeSubstring(safe, invalidPre)
+	}
+
+	if getFileExtension(safe) != ".pdf" { // Ensure file ends with .pdf
+		safe = safe + ".pdf"
+	}
+
+	return safe // Return sanitized filename
+}
+
+// Removes all instances of a specific substring from input string
+func removeSubstring(input string, toRemove string) string {
+	result := strings.ReplaceAll(input, toRemove, "") // Replace substring with empty string
+	return result
+}
+
+// downloadPDF downloads a PDF from the given URL and saves it in the specified output directory.
+// It uses a WaitGroup to support concurrent execution and returns true if the download succeeded.
+func downloadPDF(finalURL, outputDir string) {
+	// Sanitize the URL to generate a safe file name
+	filename := urlToFilename(finalURL)
+
+	// Construct the full file path in the output directory
+	filePath := filepath.Join(outputDir, filename)
+
+	// Skip if the file already exists
+	if fileExists(filePath) {
+		log.Printf("File already exists, skipping: %s", filePath)
+	}
+
+	// Create an HTTP client with a timeout
+	client := &http.Client{Timeout: 30 * time.Second}
+
+	// Send GET request
+	resp, err := client.Get(finalURL)
+	if err != nil {
+		log.Printf("Failed to download %s: %v", finalURL, err)
+	}
+	defer resp.Body.Close()
+
+	// Check HTTP response status
+	if resp.StatusCode != http.StatusOK {
+		log.Printf("Download failed for %s: %s", finalURL, resp.Status)
+	}
+
+	// Check Content-Type header
+	contentType := resp.Header.Get("Content-Type")
+	if !strings.Contains(contentType, "application/pdf") {
+		log.Printf("Invalid content type for %s: %s (expected application/pdf)", finalURL, contentType)
+	}
+
+	// Read the response body into memory first
+	var buf bytes.Buffer
+	written, err := io.Copy(&buf, resp.Body)
+	if err != nil {
+		log.Printf("Failed to read PDF data from %s: %v", finalURL, err)
+	}
+	if written == 0 {
+		log.Printf("Downloaded 0 bytes for %s; not creating file", finalURL)
+	}
+
+	// Only now create the file and write to disk
+	out, err := os.Create(filePath)
+	if err != nil {
+		log.Printf("Failed to create file for %s: %v", finalURL, err)
+	}
+	defer out.Close()
+
+	if _, err := buf.WriteTo(out); err != nil {
+		log.Printf("Failed to write PDF to file for %s: %v", finalURL, err)
+	}
+
+	log.Printf("Successfully downloaded %d bytes: %s → %s", written, finalURL, filePath)
+}
+
+// Checks whether a given directory exists
+func directoryExists(path string) bool {
+	directory, err := os.Stat(path) // Get info for the path
+	if err != nil {
+		return false // Return false if error occurs
+	}
+	return directory.IsDir() // Return true if it's a directory
+}
+
+// Creates a directory at given path with provided permissions
+func createDirectory(path string, permission os.FileMode) {
+	err := os.Mkdir(path, permission) // Attempt to create directory
+	if err != nil {
+		log.Println(err) // Log error if creation fails
+	}
+}
+
 func main() {
+	outputDir := "PDFs/" // Directory to store downloaded PDFs
+
+	if !directoryExists(outputDir) { // Check if directory exists
+		createDirectory(outputDir, 0o755) // Create directory with read-write-execute permissions
+	}
+
 	// Loop through manufacturer IDs
 	for index := 0; index < 10; index++ {
 		// Fetch the product page for the current manufacturer ID
@@ -163,7 +302,6 @@ func main() {
 		ids := extractIDs(pageContent)
 		// Print the extracted IDs
 		for _, id := range ids {
-			fmt.Println(id)
 			// Fetch and print the document list for each product ID
 			docContent := fetchDocumentList(id)
 			// Check if the document content is empty
@@ -172,10 +310,11 @@ func main() {
 			}
 			// Extract label folder and filenames
 			labelFolder, fileNames := extractLabelData(docContent)
-			// Print the label folder and filenames
-			fmt.Println("Label Folder:", labelFolder)
 			for _, fileName := range fileNames {
-				fmt.Println(fileName)
+				// The location to the remote url.
+				remoteURL := "https://www.cdms.telusagcg.com/" + labelFolder + "/" + fileName
+				// Download the PDF file to the specified output directory
+				downloadPDF(remoteURL, outputDir)
 			}
 		}
 	}
