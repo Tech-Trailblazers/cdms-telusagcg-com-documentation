@@ -14,7 +14,7 @@ while ($true) {
     git commit -m "Automated commit at $(Get-Date)"
 
     # Push to the current branch's remote
-    git push
+    git pushzz
 
     Write-Host "Cycle completed. Waiting 1 minute..." -ForegroundColor Green
     start-Sleep -Seconds 60  # 60 seconds = 1 minute
