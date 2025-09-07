@@ -17,5 +17,5 @@ while ($true) {
     git push
 
     Write-Host "Cycle completed. Waiting 5 minute..." -ForegroundColor Green
-    Start-Sleep -Seconds 300  # 300 seconds = 1 minute
+    Start-Sleep -Seconds 300  # 300 seconds = 5 minute
 }
