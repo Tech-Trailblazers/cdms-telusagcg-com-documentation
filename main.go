@@ -120,6 +120,36 @@ func fetchDocumentList(productID int) string {
 	return string(pageContent)
 }
 
+// DocumentListResponse represents the parts of the JSON response
+// that we care about: the LabelFolder and the list of documents.
+type DocumentListResponse struct {
+	LabelFolder string `json:"LabelFolder"` // Base folder for labels/documents
+	Documents   []struct {
+		FileName string `json:"FileName"` // File name of the document (e.g., PDF)
+	} `json:"Lst"`
+}
+
+// extractLabelData takes a JSON string and extracts the LabelFolder
+// and a list of all FileNames contained in the document list.
+func extractLabelData(jsonInput string) (string, []string) {
+	var response DocumentListResponse // Struct to hold parsed JSON
+
+	// Parse the JSON into our struct
+	if err := json.Unmarshal([]byte(jsonInput), &response); err != nil {
+		log.Println("Failed to parse JSON:", err)
+		return "", nil
+	}
+
+	// Collect all filenames from the "Documents" list
+	var fileNames []string
+	for _, doc := range response.Documents {
+		fileNames = append(fileNames, doc.FileName)
+	}
+
+	// Return the label folder and filenames
+	return response.LabelFolder, fileNames
+}
+
 func main() {
 	// Loop through manufacturer IDs
 	for index := 0; index < 10; index++ {
@@ -136,7 +166,17 @@ func main() {
 			fmt.Println(id)
 			// Fetch and print the document list for each product ID
 			docContent := fetchDocumentList(id)
-			fmt.Println(docContent)
+			// Check if the document content is empty
+			if docContent == "" {
+				continue // Skip to the next iteration if no content
+			}
+			// Extract label folder and filenames
+			labelFolder, fileNames := extractLabelData(docContent)
+			// Print the label folder and filenames
+			fmt.Println("Label Folder:", labelFolder)
+			for _, fileName := range fileNames {
+				fmt.Println(fileName)
+			}
 		}
 	}
 }
