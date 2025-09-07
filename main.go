@@ -219,6 +219,7 @@ func downloadPDF(finalURL, outputDir string) {
 	// Skip if the file already exists
 	if fileExists(filePath) {
 		log.Printf("File already exists, skipping: %s", filePath)
+		return
 	}
 
 	// Create an HTTP client with a timeout
@@ -228,18 +229,21 @@ func downloadPDF(finalURL, outputDir string) {
 	resp, err := client.Get(finalURL)
 	if err != nil {
 		log.Printf("Failed to download %s: %v", finalURL, err)
+		return
 	}
 	defer resp.Body.Close()
 
 	// Check HTTP response status
 	if resp.StatusCode != http.StatusOK {
 		log.Printf("Download failed for %s: %s", finalURL, resp.Status)
+		return
 	}
 
 	// Check Content-Type header
 	contentType := resp.Header.Get("Content-Type")
 	if !strings.Contains(contentType, "application/pdf") {
 		log.Printf("Invalid content type for %s: %s (expected application/pdf)", finalURL, contentType)
+		return
 	}
 
 	// Read the response body into memory first
@@ -247,20 +251,24 @@ func downloadPDF(finalURL, outputDir string) {
 	written, err := io.Copy(&buf, resp.Body)
 	if err != nil {
 		log.Printf("Failed to read PDF data from %s: %v", finalURL, err)
+		return
 	}
 	if written == 0 {
 		log.Printf("Downloaded 0 bytes for %s; not creating file", finalURL)
+		return
 	}
 
 	// Only now create the file and write to disk
 	out, err := os.Create(filePath)
 	if err != nil {
 		log.Printf("Failed to create file for %s: %v", finalURL, err)
+		return
 	}
 	defer out.Close()
 
 	if _, err := buf.WriteTo(out); err != nil {
 		log.Printf("Failed to write PDF to file for %s: %v", finalURL, err)
+		return
 	}
 
 	log.Printf("Successfully downloaded %d bytes: %s → %s", written, finalURL, filePath)
