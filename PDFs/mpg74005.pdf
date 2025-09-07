@@ -1,0 +1,3411 @@
+%PDF-1.4%‚„œ”
+1 0 obj<</Lang(en-US)/Metadata 2 0 R/Pages 3 0 R/Type/Catalog/ViewerPreferences<</Direction/L2R>>>>endobj2 0 obj<</Length 18279/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 79.328f76e, 2022/08/01-19:10:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:FA1="http://ns.InsiderSoftware.com/fontlist/1.0/">
+         <xmp:CreateDate>2023-03-16T09:01:29-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2023-03-16T09:01:30-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2023-03-16T09:01:30-05:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 18.0 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:a7e5d1dd-150d-9f48-99b2-7a39fcb560a5</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:1390dd0b-07a4-4c1b-ab1e-beaa64661340</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:1a559738-7044-46b8-885a-34dea1d6e056</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign 18.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2023-03-16T09:01:29-05:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:a1d94527-f965-40cc-a523-c8263bd2dfb2</stRef:instanceID>
+            <stRef:documentID>xmp.did:1390dd0b-07a4-4c1b-ab1e-beaa64661340</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:1390dd0b-07a4-4c1b-ab1e-beaa64661340</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <dc:format>application/pdf</dc:format>
+         <pdf:Producer>Adobe PDF Library 17.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+         <FA1:PostscriptName>
+            <rdf:Bag>
+               <rdf:li>AkzidenzGroteskPro-Bold</rdf:li>
+               <rdf:li>AkzidenzGroteskPro-BoldEx</rdf:li>
+               <rdf:li>AkzidenzGroteskPro-It</rdf:li>
+               <rdf:li>AkzidenzGroteskPro-Regular</rdf:li>
+               <rdf:li>ArialMT</rdf:li>
+            </rdf:Bag>
+         </FA1:PostscriptName>
+         <FA1:FamilyName>
+            <rdf:Bag>
+               <rdf:li>Akzidenz-Grotesk Pro</rdf:li>
+               <rdf:li>Akzidenz-Grotesk Pro</rdf:li>
+               <rdf:li>Akzidenz-Grotesk Pro</rdf:li>
+               <rdf:li>Akzidenz-Grotesk Pro</rdf:li>
+               <rdf:li>Arial</rdf:li>
+            </rdf:Bag>
+         </FA1:FamilyName>
+         <FA1:FaceName>
+            <rdf:Bag>
+               <rdf:li>Bold</rdf:li>
+               <rdf:li>Bold Extended</rdf:li>
+               <rdf:li>Italic</rdf:li>
+               <rdf:li>Regular</rdf:li>
+               <rdf:li>Regular</rdf:li>
+            </rdf:Bag>
+         </FA1:FaceName>
+         <FA1:FontType>
+            <rdf:Bag>
+               <rdf:li>OpenTypeCFFFont</rdf:li>
+               <rdf:li>OpenTypeCFFFont</rdf:li>
+               <rdf:li>OpenTypeCFFFont</rdf:li>
+               <rdf:li>OpenTypeCFFFont</rdf:li>
+               <rdf:li>OpenTypeTTFont</rdf:li>
+            </rdf:Bag>
+         </FA1:FontType>
+         <FA1:VersionString>
+            <rdf:Bag>
+               <rdf:li>Version 001.001;Core 1.0.01;otf.5.04.2741;08.08W</rdf:li>
+               <rdf:li>Version 001.001;Core 1.0.01;otf.5.04.2741;08.08W</rdf:li>
+               <rdf:li>Version 001.001;Core 1.0.01;otf.5.04.2741;08.08W</rdf:li>
+               <rdf:li>Version 001.001;Core 1.0.01;otf.5.04.2741;08.08W</rdf:li>
+               <rdf:li>Version 5.01.2x</rdf:li>
+            </rdf:Bag>
+         </FA1:VersionString>
+         <FA1:FileName>
+            <rdf:Bag>
+               <rdf:li>akzidgroprobol.otf</rdf:li>
+               <rdf:li>akzidgroprobolext.otf</rdf:li>
+               <rdf:li>akzidgroproita.otf</rdf:li>
+               <rdf:li>akzidgroproreg.otf</rdf:li>
+               <rdf:li>Arial.ttf</rdf:li>
+            </rdf:Bag>
+         </FA1:FileName>
+         <FA1:Composite>
+            <rdf:Bag>
+               <rdf:li>false</rdf:li>
+               <rdf:li>false</rdf:li>
+               <rdf:li>false</rdf:li>
+               <rdf:li>false</rdf:li>
+               <rdf:li>false</rdf:li>
+            </rdf:Bag>
+         </FA1:Composite>
+         <FA1:ProfileBlob>
+            <rdf:Bag>
+               <rdf:li>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGF0YT4KSDRzSUFBQUFBQUFFRTYxV2JXL2lPQkQrdnI5aTFNK1FKcFJTNkg0Q0NyMUtiSHZxeTU1TzZoZVRHT0tyWStkc0J6Wjd1djkrTTNZUwoyaXVyN1VsWGlRcnM4YncrODh6ODlRbmdKT05XYkJVM3Q2emdKM0FKSjErWkVicXlNT1BHNVZwbTBFcFlFQ3FWVlNiVUZxNHJyaHczCmNNMU56a3dHSzZhMi9LUkhDbzNlZitYR0NxMjh1amljN2w0ZE5kY1F4MG1Fbjg5emJUamcxd2kvYTdlSnpxTjRHQTB1aHNubmVCekYKNDk4YXZjeWg1ZGM2VTEzV1JteHo1dy9uN1M4WXhQSG80UDVxTlk5Z0tpWGNrNmlGZTI2NTJmRXNnc2RjV05obzVjRHFqZHN6OUNMVgpSVmxSWUtYUlc4TUtRQW1YYy9wWllqNXEwSnRPY3dTLzZ3b0tWb1BTRGd4SG1heEtlUThLbllsTjNRT1dzZEwxd0JtbXJHUU9iNWdrCjNVb2JTQTNIRTh5dEVUc01iTWRocjgyTEpmMWs3NDFYL3paRXVlVEExVllvemswUGxaRGJRcUlCL0dwcU1wb0p5NnpseFpwT3lhRGwKL0FXY3BvdFVvd1p2eHVyS3BCUjF4bzliRHFrbmI1YmFGQ3hrK2lLYzdqa2w5TkV3RVk3amFOZ1VXeFNsTnU2QnUrdWJLMSticzJReQpuY2ZMWVQ4ZW5zLzd3K2xzMEI4UEpvdisrWFE2RzEzTWs2dDRzUXhLQzZhcURVdGRaVjVCc29WaUVFRThwa2FVRGhIV2diYVZnSTB3CjFrRlpyYVd3T2M5Zyt2SmRaRng5NzE4YjdiaDlRUXhETXA2TXFQcVVmZ0kvYUVTUlVGZ1BoSVBSQmR6cm1rbG9YMGdLRTlZMUxMbEIKOERPVjBWdWhDUGdPOXJuR3Nsb050aXBMS2RBazFjL3diU1VaMXFiZ21hZ0tvRWRyYXFhUU5Fdm1qYTYydWE2Y2YxQnpabXl2d3hiawp6QUwvVnVJN3J4Rmh5TDg1d3dzdWF5aDFTY3E5VXNJQzRrY2laRmdoWkkxUXY0YUhDc0VLZTFTUjhSMlhDTjNNeHowWmpTbU9vODNyCnRhRVpwdEJTeXFYRUJvYzAxd0x4c1VIODVKeGxFZ0dIcnQ4b2FyR2s5eU5GR2ZsY1VGTTMwWG9GWFlrT0xCTDh2SEZNaXRUYlgyQ00KREdhVUtPRlBvMUJ5dk9mSzhxN2N0M2VQTi9NRjNDMWh0cmgvL09WdWRRVXJQTGg5V0dENDk0dkZsOFh0NDdONVZ2VDVQN3JjUUlVZApkNnczaVNCc3RmNkRwMWhIN1V1SkxWNVFIalBzSzVVSndtblgxMTBTRm5qOWhFUUVxeEFhVExlR1kzbVZpNkQxSE9uRmdDYzRVazBlCnZLTUdNaTlGSVJ5aEpKaEgxQmh1YlhpSXpqbkV0UzkvVGVvNkI0N1l4UmJIMnJPaUpNNUE2WTdiQXFGaG13UktlKy9HVzNGUGVCdU0KRFI4ZzNUZ2oxc2lwNzErUngwd2huaEhEV25rVzlkU0U3aUpLZitJdWtpbW04TFdYeHhQRVhJQ2l5eEhaV2lHVjU3VVZLZmEzMUNsMgpEaHF1bEtTRU5ZbWpCak42aDZ5UmdjYUVtNzNBekNOdC9NU2hCcXJFbFo0VGw1SnRyV2UvSkthL2dHU2tOay80V3MxMXBRSnhKdUVLCmkxZ2NIdmszNFY4U0ZMdzY2ZFJ0S2ltN3JuakhkYjhhN1pzcDZNY2hRZmdLUG9XalVsdjM0TWwwZm5QVjZXazhyWnllQm05NU5xdDkKSk9HbVV1TFA2dENNYjhkNWZHeWNENkxCWUpKOFRuQ3lqNXB4dmhlWnkxOFBqelpEMmpkVE96bW1rK1haZkh3UjkwZkpZTm0vbUY3RgovY25WWk5ZZkRTK20wK0haZURRZk41T2pxa1RtbmZ6NEU1ektUYkg4UTF4QW1pcXRLNVZKZm9PRHc0bU40TVpmWS80aW9Td0NBK0VhCjlvVm9ONG1vNEd5TGtpRTVnWWE3WEI2clNTT0k5YzlNM1VtMm5kbmU0c2hGV2cvVllqVEZ0cmlER0kxVEpNSWxLVWlGTFNLRVBZZ0gKU1Q4ZTl3Y2pTT0xMUVh5WkRLTHg2QXo2OFhrYkZybmEyV3M5YThZY1lxVlB4TnVZUjlNUDRudllDQ2VqWkR4KzY1WlB5SSs4SWxTRgpFZjB4WTM0Zk04MnEwRlNnWFRxZjdsZWRrdHk1OHZMNTlQbDB2OTlINjJZOWRYV0pNd2xyODN3cTFFWS9uN1l2YlpTN1FnYTNrWkV5ClhqRHowdWxxb3ovc0JValp0S29GdWRkN0hqeVNDU1JxVDdOTm0zY3J6dFBUZjk1eGRseGwybnc4c2hDRFpOWjlvYzBTZHd5Zi9nOFUKdkptYkh6ZlZKcEYxMCtpUXhLMnN5L3pBV3VkbkRTYXNxK1dCRFR5R1B2MzlEd2g4TktsY0RBQUEKPC9kYXRhPgo8L3BsaXN0Pgo=</rdf:li>
+               <rdf:li>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGF0YT4KSDRzSUFBQUFBQUFFRTYxV1hXL2JOaFI5NzY4Zzhtd3JraDA3ZHZyaytDTUw0S1ZENG5RWWtCZGFvaTB1RkttUlZCeDEySC9mSVNuWgpUdU5nTGJBQ2FSVHlmdkh5bk1QNzl5ZEN6Z1JQbVRUc2poYnNqRnlSczdzdnE5dnBuSHhaa092NS9lcVhMOHNaV1dMaDdtRk9KamYzCjgvbXY4N3ZWazM2UzdtZVZjME0yU2xwaTFNYnVxR1lrVlVWWldhWkpxZFZXMDRMQXd1Yk0vVmt5Yld1aU51UWFIN2tTV1VUK1VKVW0KbFdGdTFWbTlqUVZYVTYzL1pLa2xWdmw5QkM0TW9USkRIcGx4eTVVMHJXOGJsY3l4L1doUXdqSWNqVXkybXJHQ1NSdVJ0bktmV1BOdAo3a083Q2s2bUY3emdsbVZ0ZXZaYWFtWU04WTRvemxLM3lTV3AzVG4yQlp6SXUxQ2FzRmRhbElKMW5EVXBhRTJrc3FSUUdkK2dLNXJRCmpKYW81dnN1dkRXM21rcXp3ZG5na0hGak5WK2oyKys5WE1WVTFnUTlOMHI2VEtsNllScmxydXYvS3Jmak8zeGM1ZWtHVVZjKzd0em0KVkJJbGNjbDViWGhLQlJFcXBlNXlTQ1dGYTFqVE9JR0N0SHJoR2NwUU9LbmVjWFQrQi9wMzFuRlF6WmpoVzhuMDQvMXlEOWZjMnZMcQo2ZnpwZkxmYlJlc0dXTFl1bVlrQXhhZHpMamZxNmJ6MU5GRnVDeEdpMGNxcVNXcjVpN3ZFNjlxRFArdzBsUGo1TkhRUHRFTWFCK2w5CnRaUG5iemk4L0hhamxXWG0rVGV0dXRjZ3d2dzFKTjR4aDhpVnB0ejZjdUxvSWc0N3ZDaVZ0Zy9NM3R6Ty9GWS9HVSttOGVLaUcxOE0KcHQyTHlYV3ZPK3FONTkzQlpISTl2SndtczNpK0NLNEZsZFdHcHJiU1RPOExhYkVhVERhcWtwbXVQOXlWb2FhRm9Gc1RDb3ZkditDTQpOanR1aFkyd3BOWHVLNEFIQUFUcnNBcEtBb0ZOL1kwekZ2Wm1qUXVKNHlUQ3orZXB3eFkrSTN3cnU0a0dVWHdSOVM0dmtzL3hLSXBICnZ6ZTVBRFM1UGM1VFNmNVhkUkMwdDJIalUyRjdVYTgzVGo0bnlEQnN3Z0l4cWVhbEEvRzd0cEFOMThhU3Nsb0xibkpndWIzV2JuT3YKRHRMSmFEeU15QXAwRHVBRFkvbVdTNEFOa3FsVlFlNVZEYWEwSHNKckViaTVZRHFER1RRTXZsem1WR2VXN0hMUVdSZ0ZQU3hMd1pIUwo2WVJtMjBwUTNTRUZ5M2hWZU5hdUFTY1NjR1JjZXEycWJhNnFJQ3cxbzlwMERrS1ZVMDlOSlBNUm9iZnMxV3BJcFNPcUtsMXdIOVRkCkV0b3NJTkMwNEtLTzhCU1Fod3JpUW5ZSWtiRVhKaUR2WGdxVDhYRGtOT2FtQWloZ2NNTzBPd05aVXJsbFBoclNRQy9ZYThxRWdBMUoKY3dXaGh2WnJrak9hQ1M1QlhuSXJTUThvNkh3VUtITTFlL2xwVHVzRHRMakdEYVNpUWlPM1RaMjNsb0xXUHY4Y1o2VEU4WTV3dnhvRgpKRG1tTG5ESWdHVHFxTHJGcTZVVmVvcStSTUJnQTJSQkcwWUUyQUd0WVdNTkdnbDJDNFpidnVGTSsyM3dJK0xTZ1BlUTR2QktSaS9qCnlHV2pXMWdHVjVTVXNZTHE1ejNhM29NS2ZTTjd1K09IbEt5YzRPRzk4Ni9WOFhHVUxtalFrc3Zta0pVUUg2ZUFJSVhHb0VmQnZsVEcKUG5nbVRHOW5lOGV3MTZycWZ2a3IxVnhWNWdDdzFzSWMzY2RKWURURmVYVHR3NzNyQU1vTGhsWEZNOS9jU2Y5eUdzOUdpKzV3ZU5udgpUb2F6UVhjd1d5VDRtczRIczhrazdrLzdoNE1FU3IrTC80RWFLejk2dElMNzQ1azJ3TkFEL3hiR3FmR3dmOWtMRmV3MS9QSHhwMFU4ClZXWHRwdzUvNm1uN2w2UEk4TkR1NVhJS2FncEI3cDJhR0hMUHZPWmkwUG8vSnJYOXpLSVpTSkZWS1VhWk1MNWdZSEREUzhlaFV4b0IKamNPS2NPeVhJSFdxR1ZhZ0V0cTl0ZnlGa1ozU3ovdTU3YzNNNTBmQ28wUk9lUmhoRXNySkdKUXVZMjdBUklQOXA2NWRVc3hCMUJoVwpyTjJxUzJnWWUzWURFRGI4ME9QRjBtQkVnOHFrS2pzOWJUYXNDY1VHY1BYaVh0S05SOTNla0NUeFZTKytTbnJSYU5nbjNYalFNaDd2CnFqK1VrbE84b1lGcFNYUGRsaFhmdjVqKzJVd1MvK3Z0ZjhISDJGb2NYaTR2VVdBaWMvb2NESFk4cy9ucWFFRG9OZEt6RlhXWkgyb1kKOUVmQjRRWE82aWNtcHVBbHFMRy91c2tVVDQxSDNBKzBvcFZQYjM5YVBULzk4eThEQkVObWN3d0FBQT09CjwvZGF0YT4KPC9wbGlzdD4K</rdf:li>
+               <rdf:li>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGF0YT4KSDRzSUFBQUFBQUFFRTZWV1cwL2pPQmg5bjE5aDhVeERrbWxMQzArOXNrZ01zK0l5cTVWNGNSTzM4ZUxZV2R1aGsxbnRmOTlqT3dsRgpkRFJJaTRUVTJKKy9tODg1bi8vNVJNakpscFpjTkxlMFpDZmtncHpNbm4vd25Na2ZneXV0TERQUDVIZXRUazY5b1pMMlFWTnUxNEx1CmpEZU80emlKNDdCdEJHMzN3MVlVbjRjTmJsbjU1Z2hPK2I4RVo5Lzl0Ykc0WVBmOFIwaHBPaDZQMHJDdU5uK3h6RjVkTDMyTVpUSkwKUjhua2ZIQStYdzRIcTNROEhheUg1N1BCZURyOW5FN21vK2xxT1EzbmNtWXl6U3ZMbGV3cm5UTnRDeVZ5c3VYYVdGTFZHOEZOd1hMeQpyZ1Zja21ReUhVZmtvV0FFcnZoT0VxWDVqa3VLRnBHdFZpVzVVdzBWcEd1YTRMdkNrazFEMWt6bk1KTzVPOHRsUVhWdXliNVFoQXFqCmlLbXJTbkNFdEhDczJhNFdWSitTa3VXOExvazd0SEg1N1puelpseDRyZXBkb1dyckR6U01hbk5LK2pvS2FnajdYdUdjOThqZGw5V3MKWktJaGxhcWNjKy8waFdsRExUcE13dDFIWkhaRjd1dUthYktIaTV5OU1LRXErSEIxVDhjVFY4ZFZ6YVNGd1JYVHJnWnlRK1dPZVc4SQpReVVpWlV3STJKQ3NVRHlEYTZWSndXZ3V1R1JJL1ZxU0ZHQTUvWm1qM09WY0tzMjZhcjJEdmpRdU0xR2prYnMyejJ0TEJjOTgvQlZxCnBHVHVHc1g5YWhTdVhGQmp2NmljYjlGZmo1WTBUcE5CUEJta1k1TEVGMmw4a2FUUlpKeVNRVHpxTU16TFNtbDd6K3pqWXd1eHo4bDAKdG9qWHcwRThIQzBHdzlrOEhVelM2V293bXMzbTQvTkZzb3hYNnhDdmx2enZtdlhvK29ZbUEyMEVSVWNBK2VYQzFZYWZVWnhjS3J1TgpSbEdjUm1rNlRTNFQvQnovRVp4c1ZTMXovY3JHcmdGaGR5ZWFxbGpBeFBxQ1JwOG4zU2xwKzhBZGVsc29ncjZEYXh2czBESW16V3VPCnQxOGZyaGNyOG5WTjVxdTdoOSsrM2l6SkRSWnU3MWRBeE4xcTlXVjErL0NrbjZUN2Z5aHcwVnRJQURGcWEvY1UxV1NxckdvSGlrcXIKbmFZbGdZVURNajZCSmRzUXRlM0JHWkUvVmExSmJaaGJkVlp2ZmVHb3FUMjVpVlYrSDQ1TEI2MGNjV1RPSFhWTmQ3WnJDMWxoKzlFZwpoWnRRR3BudE5BUGlwWTFJbDdrUERMYUNrSER0TWpnYVh2QVNTZ1VxaHZBZ2ttYkdFSDhReVZsUTNUT2ljWFgwQ1J5SnV3YnkyWGRhClZvS2RFbGlUa2paRUtndDRBNDNvQ2xpWTB5cHcrRTBYM3BvRDF0SnNVUnNPNU54WXpUZm85cEhra1RHVm9EZ1FCOEM1U0prQ3g1RXUKaVB1TGRFOTlodyt6UE40ZzZ0TEhuZHNDWkZjU2wxdzBobWVRUEtFeWlBa0MxMUs0aHJXTmM1cWoxUXRtU1U0VUdxNzNISjJIb3Z3aQpvWmE5V3UxYkJvVnBFZ0FjbE5BUG9iQU1hb1VkbWxuKzR2TjQ1VWZ5QnZXUGR6YzlSd3BycTR1bnM2ZXovWDRmYmRvNVlKc0tTZ1ZRClA1MXh1VlZQWjdUSFVtRkxFWndGOVdlNmQvV05hcTVxODRxSXpzS2cyRTYwanFwbmNMaXRoZWlkZGR3OUhMNGthRjJ3M2tBZUJMdkcKZ0xaTzJMVHZBbEtPdURSb05RQVF1Qm05VENNSExicURaUnNJbjJ1SWZwamMxSTM1SFlpcUZWUXpnaUs5dGZLT2YyWmtiQ05lVmVRdwp2MG9aR3lidHU1cU82QkdJQzV5MlN0dGVaRWxsdmNWdDF2cWd5UjNkRG5KVXVxUkJCdHRuUmwzem9QTWZmeFc4TUprci9YRmdoUEJvCnR4T1kwTWV3aENxYzJQdW10YkJ0aFQ4NUp2ekRLRDBmSnBmeEpJb25yZkQzazZkNzIzeDg4R2pBWHU0Q0g5b01OWE5xNVpjK01QVWcKTkRrcnFYNStkMmM5RHQyUUo3M2RvYkNUQjBjYjZLOVh6NWE5ZTU3YjRoaE5NMVUxWGxGOWJvdnV5NzBOeHE4VXVybFo0RTBpQkxuegpEeDl5eHp4U2N2Y0MrdjlUcU5kanpZRCt2TTRnMDBHYUlZWk9tRTlkcFJMdldZc2RLdHlFazlEZ3pIY1Z6eVB0bGVZRlR4V2xuL3VaCjlFYkovYmc3Q09RQXdnaVRlREl5aGlkZXp0endCQnY5VDkyNG9OQjRhZ3dyTjI3VkJUU01QYnR4aEEwdjZGNzZEY1lQbmxlWnlvOVAKMHZZR0hCSHYvWk4zY2Izczd6WEFnOVpXellKZXNuemUrS3NJTzUxMmZad1NuVloySjAza3RmTFR2LzhCdXJ5YXZWd01BQUE9CjwvZGF0YT4KPC9wbGlzdD4K</rdf:li>
+               <rdf:li>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGF0YT4KSDRzSUFBQUFBQUFFRTVWVzIyN2JPQkI5NzFjTThtd3JrcEk0VHZya2F6YUFteGE1ZExGQVhtaHBiSEZEa1ZxU3NxTXU5dDkzU0ZweQp2SFc3YVlBQXNqVDNtWE5tL3Y0QWNMSlMwczZWTHBrOWdXczR1VHpwdWJkR01Ha2ZOZVBoYlJ6RmNmaXdRWmtyL1hTL3VHTWxlbzNDCjJ1cjYrZlQ1ZEx2ZFJrdlV0bEFpdDAyRkpzcFVHYlJLSnVzVnkyeXRVWGVLNDUxc0VQRnhjSUhHRzJVdjMzaSsxcXJTU3VNNlVuWVYKcEt4bU9aWk12M1JXUms0UzViZitqVllXelF0d0F3dzZPVkFyYUIzQm80c0tGcnprRnZObzcvYzdZenRiWDdUcTMrTzZGa3dIWVY1VwpTdHNIdEU5UHQxTWY2Rmx5TlpyRTgvTitmSDR4NlorUHhtbC9tRjdOK2hlajBYaHdPVW1tOFd3ZWREV3pYSzY5MHE2V0sxWExYRGVkCjl6Yk9JTDhXVFZWTVNDUzA0T0pzR040TG5xRTAyR25kZlg2OG5jemc4eHpHcy92SDN6NHZwckNnRjNjUE14amQzTTltbjJaM2o4LzYKV2JyL3g0S3E0eW9OUnEzc2xta0U2bEZWVzlSQXBWNXJWcnI2MlFMZHo0b2ExTHd0WUFSL3FGcERiZEM5ZFZLSHRralYxTXMvTWJOZwpsZjlPaGt2cWg4ekpqOHk1NVVxYVZyZE5GMmIwK2NsUUNJdVFHb3pXR3JGRWFTTm9JL2VPTlY4WDNyU0w0S2g3RVhyYnVzZlhTcU14CjRCVXBPTXVvOGNBbE5DNlBMb0FqZmdrU2dLK3NyQVQybkRTVXJBR3BMSlFxNXl1cWlnYVdzNHFpK1c4VkRzVnBFS1ZaVVc2a2tITmoKTlY5U3RiL1hjaEV6MlFEVjNDanBQV1ZxZzVyQ1hUYi9GMjdQVi9odGxNY0x4Rno0MUhOYk1BbEtVcE9MeHZDTUNSQXFvL0VreDdVawpDQnBLM1JkT1VFQmFiUWhnT1NqS1ZHODVWZjRkOVRzWTFmZXp4Zk1wbHl2MWZNcTZBU2hzS1hiR21MR2ZYUEU1NWg1RmFad20vWGpZClR3ZVF4TmRwZkoyazBYQ1FRaisrYU5tcUpaV2Zja3FtMFkzRmUyMVd5bGlUYVY3WkRvSXRCLzJJTnFpUGhvcnJQWHdOenhESENaRnEKOG5IaUdrS1BFVDBUelVVWFVYd2VwWmZueWNkNEdNWEQzMFB5VzU3YjRoZ2Y1Mmo0V3I1aDFhOU1jMVdiL1hDM0VvYjZsb2s2SnhLQwptNXJBUlVONWc3cGdPb2NGazJzTW5vZ1BIUElDRFlkWGRjMURkYWJKNVdnK1BwdjJoNVBCdUovT3g2UCtkSHFXOWk4bTgzUXlTb2J4CjdISzNQN2Jvb1BxRGdIM3hxQjVkL1RvZ3JyZzJGcXA2S2JncGFPYmF3dTdKWFVJeXZCcEU4RWl3QzVrUnN2aWFTMm9oVVp0V0pkeXIKaGlhNlhRZkNjd1poYUk2YWNuZFVSTHBjdXJ3dGJBdUNuVENLZUt1cUJFMldSeWF0SE1mNVBTZ3g1M1hwMGJXa3JRWWhMZVBjYTFXdgpDMVVIQW1pUWFkUGIxN3hnSGtMa3pGc2tYc1JYcTRuU0hLQlU1WXg3bzI0d0NIZUNpSlNWWERRUlVUWTgxRVFDc0NVVE9XNVFFQTE3CnlrcXVCa1BIQlVkNzU2MlJHOEkxdm1Zb0JMVVFza0lSb1JKSGF5aVE1WUpMMnNsd0t5R2x3ZXY5eUZEdVl2WTBzY3ZXRytoYXRCK2kKRU9ldFpiU1J2UDhaNWNoZzdBckYvZHQyeFZLQ0QveGJPQmV1QnVROXpGWEl1WnVDNzVwTjZ6Y0l0aVA4NjBUU2FwcG9UeVJhYlhjZwo5SUJzZzZtRitHa29jSEFKT0JaNDhJTTh1WjEyZWlGY1l4dXgzODhIYXNwdng1dmQ4ZkIrUEhXSFI2djYvcnVEYnAxeUx0ZzZJRHJlCi95WEovcmw3MmlGZThyL3FmUXFIbkJVZjQ2dzBTdE9yNUdOQzlEWFljZGFTcmh1QnQzU2NXVWZhMmxlYjZDWGkwdEJHb1QwWFRwQm8KY3hVNW9tWnJrdHhWRURWQlkxZWx0a0VrNGdsbG4wemkvNEpLcHFyR3IzbnZadEwrY3JNKzJBTnpzWmdReG9TQWUwY0xobnBLZDhlRwpqa0ZDTk1IbjhKejU1ZE9vT3hJMDB0ck02NHh1aDNBdjBJWjIxMExQSGFhU2ptdExYNWh3RkN3Sm5XRURFZHcxM3hBZGJCQzJTcjkwCmg5SkJWUDRHZStQSVVRZ0NTcUpBUktLc0hGM1loRGovcUJ2bmxBNFBaZ3lXUy9mV09UU0lMKzdpb0EvK3l2Q3NaK2dtSXJySVZINzgKdk51aG1kVldqVEtLMGkzTmNlUExIVnBBQjc2UFg4bjkyWnFjZlBqblg4WlRKRXhvREFBQQo8L2RhdGE+CjwvcGxpc3Q+Cg==</rdf:li>
+               <rdf:li>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGF0YT4KSDRzSUFBQUFBQUFFRTQxVnpZNGFSeEMrK3lsS25OYVNHUVl3dXdzNWpaY1FyZVIxTE5pTkZJbExNMTBEbmZSMFQ3cDd3Sk1vRCtUWAp5Sk9sZWdvR3ZGNWI1Z0JEL1h6MTkxWE5QNjhBZW50MFhsblRneG4wZnVObm1DVHBNQmw5NnIySkJxVXdkU0h5VUR0MEgwU0pyZVhqCkR1SEJHaHVhQ3VIT3VzbzZFU0pNNjZJQ2xnc3R0cjYxVFM4L3c4cy8vTXcrVzkxVXV6dGJtOUE2amNlM1ExWTRlempteFdnczFjS0gKQnl0Vm9WQzI4bEU2R3ZiVFNYLzBGdEtiMlhnNG94S213d21RTEUyUFBpcEg0N0VyNG5kYlF5a2FxRDFDMkNrUGhUVUJnZ1dwZktWSgpJWXlFeWlrUzVxUkIraFVlS25TbENnRWxiQnB5UTlBTUM0RVVFY08xMHNwWldlY0JsSUhEVHVXN2l3Z1VTWmxjMXhKbEFxY2tyTkVOClhLblhnT1dHc00vNUVNRDNvcmZtVXBrdE9QVEJxVHlPNFJ3Z3h1K3dmbW9ydWxJVWhTWVVaK1lVUlpYMllMUVZsMEdwQ1lKTFJ3ZFUKa2FWQzZic09WUjFBNHA1S2pvM2FvYTYrN0ZEQ3JTYStxSDNMaVBOSWoxTVFkYkFacTFHK2E5cmhzZE1CMVhZWEhwMVF6SUUwT1UzTwpidjdBUFB4eVAyY0t2SnRuMTlmRGFULzdtV2FlVGNZTGVscU0rbG1XamliejlHMDZUVE5Hckd2RjdFaC8yS1VRSmZXazQwam1sTkFNCkZ0bnhrbHlpejUycVl0ODdOWHQ0TGN5TDlSeVVETHVYQ3Eyc0Q2c1c3ZTUrL2d5TjRxaXRRZmUwZlA5TUV6TmJXRmNLN3R2dE9kK0YKMHJ5dzY4R3E4VFQwOWVDOTJ0RGNtL1ZnUVY2ZTVIVlZhU3lKM1VLdkIyMjlTUWpGR2FQTjgvazZuOVV4QkMvNlY3NjFrZTdjeXUvZgpEQjhhZlY3TkpXNXJMUnhIMlJDT3hudEpLY1o5ZHkwSmNsc215bmdsNldiWkloeUV3MlEvVFdJcnhKWXMyVlZGbG9jVmR0eGg4UjZOCnRDODBra0JqSTdnY05nMU9TQ3lGKzdQcmVWc20wQklMNkpSZ0MvaFdmYnlDQ0UrRzdxS0VWUkFCeWRuSTlhRGJyRHdlUHFmUUgvY24KZDBoV1AzelpDcHJCU3YzTm83NjVHWS9HMTV4OTVCT3o4OHYwSHg1WmY3eGRYMU9xTnVxditqeVAwNjJmY2ZISDhjd3VYeGh3OWFCeQpaK013WGpQNGliQmQ2Qk1LUE1iWHh0eUpRN3hidnhaRlBDZDlXTm9OWGFzUGRDd3RuZmMzOEZIRWU2WUVyQVF4Z09ZTXcrbnRpTEZ6Cld6VXVub3VXRFA5OWhsR2FYbjl6QkFsa1dzTXkybnRZb2tlM3A5dkxTTzBmZHpvdExDdHFyYnVzMjVKWkhsOXlac3RIaUNVZHdaNmUKamhDOVYvLytEMUtrTk8xWkJ3QUEKPC9kYXRhPgo8L3BsaXN0Pgo=</rdf:li>
+            </rdf:Bag>
+         </FA1:ProfileBlob>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj3 0 obj<</Count 3/Kids[5 0 R 6 0 R 7 0 R]/Type/Pages>>endobj5 0 obj<</ArtBox[0.0 0.0 612.0 792.0]/BleedBox[0.0 0.0 612.0 792.0]/Contents 8 0 R/CropBox[0.0 0.0 612.0 792.0]/MediaBox[0.0 0.0 612.0 792.0]/Parent 3 0 R/Resources<</ColorSpace<</CS0 9 0 R/CS1 10 0 R>>/ExtGState<</GS0 11 0 R/GS1 12 0 R/GS2 13 0 R>>/Font<</T1_0 14 0 R/T1_1 15 0 R/T1_2 16 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 17 0 R/MC1 18 0 R/MC2 19 0 R>>/XObject<</Fm0 20 0 R>>>>/TrimBox[0.0 0.0 612.0 792.0]/Type/Page/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/LastModified<FEFF0044003A00320030003200330030003300310036003100340030003100320039005A>/NumberOfPageItemsInPage 1/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/PageItemUIDToLocationDataMap<</0[770.0 0.0 3.0 221.04 362.08 279.0 379.0 1.0 0.0 0.0 1.0 250.02 370.54]>>/PageTransformationMatrixList<</0[1.0 0.0 0.0 1.0 0.0 0.0]>>/PageUIDList<</0 199>>/PageWidthList<</0 612.0>>>>>>>>endobj6 0 obj<</ArtBox[0.0 0.0 612.0 792.0]/BleedBox[0.0 0.0 612.0 792.0]/Contents 21 0 R/CropBox[0.0 0.0 612.0 792.0]/MediaBox[0.0 0.0 612.0 792.0]/Parent 3 0 R/Resources<</ExtGState<</GS0 11 0 R/GS1 12 0 R>>/Font<</T1_0 14 0 R/T1_1 15 0 R/T1_2 22 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 20 0 R>>>>/TrimBox[0.0 0.0 612.0 792.0]/Type/Page/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/LastModified<FEFF0044003A00320030003200330030003300310036003100340030003100330030005A>/NumberOfPageItemsInPage 1/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/PageItemUIDToLocationDataMap<</0[770.0 0.0 3.0 221.04 362.08 279.0 379.0 1.0 0.0 0.0 1.0 250.02 370.54]>>/PageTransformationMatrixList<</0[1.0 0.0 0.0 1.0 0.0 0.0]>>/PageUIDList<</0 215>>/PageWidthList<</0 612.0>>>>>>>>endobj7 0 obj<</ArtBox[0.0 0.0 612.0 792.0]/BleedBox[0.0 0.0 612.0 792.0]/Contents 23 0 R/CropBox[0.0 0.0 612.0 792.0]/MediaBox[0.0 0.0 612.0 792.0]/Parent 3 0 R/Resources<</ExtGState<</GS0 11 0 R/GS1 12 0 R>>/Font<</T1_0 14 0 R/T1_1 15 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 20 0 R>>>>/TrimBox[0.0 0.0 612.0 792.0]/Type/Page/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/LastModified<FEFF0044003A00320030003200330030003300310036003100340030003100330030005A>/NumberOfPageItemsInPage 1/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00310033003900300064006400300062002D0030003700610034002D0034006300310062002D0061006200310065002D006200650061006100360034003600360031003300340030>/PageItemUIDToLocationDataMap<</0[770.0 0.0 3.0 221.04 362.08 279.0 379.0 1.0 0.0 0.0 1.0 250.02 370.54]>>/PageTransformationMatrixList<</0[1.0 0.0 0.0 1.0 0.0 0.0]>>/PageUIDList<</0 216>>/PageWidthList<</0 612.0>>>>>>>>endobj23 0 obj<</Length 13382>>stream
+q
+/GS0 gs
+0 TL/Fm0 Do
+Q
+BT
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+8.5 0 0 8.5 580.0446 27.545 Tm
+(3)Tj
+ET
+27 765 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 753.5 Tm
+[(1)42 (3. CON)-42 (S)-41.9 (I)-42 (D)-42 (E)-42 (RA)20 (CI)-21 (ON)-41.9 (E)-42 (S P)62 (ARA LA E)-41.9 (LI)-42 (M)-42 (I)-42 (NA)20 (CI)-20.9 (\323N)]TJ
+0 0 0 1 k
+/GS1 gs
+-0.001 Tc -0.043 Tw 8.82 0 0 9 27 734.06 Tm
+[(E)-42 (LI)-42 (M)-42 (I)-42 (NA)20 (CI)-21 (\323N D)-42 (E)-42 (L PE)-42 (STI)-21 (CI)-42 (D)20 (A: )]TJ
+/T1_0 1 Tf
+0 Tc -0.04 Tw 8.91 0 0 9 162.1221 734.06 Tm
+[( Los residuos result)-21 (antes del uso de )]TJ
+-0.009 Tw -15.165 -1.2 Td
+[(este producto pueden desec)19.9 (harse en la misma localidad o en un centro )]TJ
+0 Tw 0 -1.2 Td
+[(aprobado para la eliminaci\363n de desec)20 (hos.)]TJ
+/T1_1 1 Tf
+-0.001 Tc 0.405 Tw 8.82 0 0 9 27 698.636 Tm
+[(E)-42 (LI)-42 (M)-42 (I)-42 (NA)20 (CI)-21 (\323N D)-42 (E)-42 (L R)-42 (E)-21 (CI)-42 (PI)-42 (E)-42 (NTE: )]TJ
+/T1_0 1 Tf
+0 Tc 0.376 Tw 8.91 0 0 9 180.2109 698.636 Tm
+(Recipiente no rellenable. No )Tj
+0.212 Tw -17.195 -1.2 Td
+[(reutilice este recipiente. Para consult)-20.9 (ar instrucciones espec\355\037cas de )]TJ
+0 Tw 0 -1.2 Td
+[(eliminaci\363n, vea la etiquet)-21 (a del producto.)]TJ
+ET
+27 662.236 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 650.736 Tm
+[(1)22 (4. I)-42 (N)-42 (F)-21 (OR)-41.9 (MA)20 (CI)-21 (\323N D)-42 (E TRAN)-41.9 (S)-42 (P)-21 (ORTE)]TJ
+0 0 0 1 k
+/GS1 gs
+-0.001 Tc 8.82 0 0 9 27 631.296 Tm
+[(Departamento de transporte \(D)-21 (O)20 (T\) de E)-42 (E. U)-42 (U.:)-1 ( )]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 27 620.496 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+13.131 0 Td
+(No regulada )Tj
+/T1_1 1 Tf
+-13.131 -1.536 Td
+[(I)-42 (M)-42 (D)-21 (G: )]TJ
+0 -1.2 Td
+(Envases \035 1.3 gal. \(5 L\) en empaque exterior resistente:)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+0 -1.2 Td
+( )Tj
+EMC 
+/T1_0 1 Tf
+13.131 0 Td
+(No regulada)Tj
+/T1_1 1 Tf
+-13.131 -1.536 Td
+(Envases > 1.3 gal. \(5 L\):)Tj
+/T1_0 1 Tf
+7.83 0 0 9 27 560.448 Tm
+[(T)82 (ransport)-20.9 (ado internacionalmente)]TJ
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+0.708 Tw 9 0 0 9 144 560.448 Tm
+[(U)-42 (N3)-21 (0)-21 (82, Sust)-21 (ancia peligros)-20.9 (a para )]TJ
+0 Tw 17 0 Td
+( )Tj
+7.83 0 0 9 27 549.648 Tm
+(por barco:)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+9 0 0 9 144 549.648 Tm
+( )Tj
+/Span<</ActualText<FEFF0007>>> BDC 
+7.83 0 0 9 146.439 549.648 Tm
+( )Tj
+EMC 
+0.579 Tw 9 0 0 9 146.439 549.648 Tm
+(el medio ambiente, l\355quida, N.O.S. )Tj
+0.154 Tw 0 -1.2 Td
+[(\(imidacloprid\), 9, P)-21 (G I)-42 (I)-42 (I, cont)-21 (aminante )]TJ
+0 Tw 0 -1.2 Td
+(marino)Tj
+/T1_1 1 Tf
+8.91 0 0 9 27 517.248 Tm
+[(IA)82 (T)103 (A: )]TJ
+/T1_0 1 Tf
+0 -1.2 Td
+[(T)82 (ransport)-20.9 (ado por v\355a a\351rea:)]TJ
+/Span<</ActualText<FEFF00090007>>> BDC 
+[( )-1252.4 ( )]TJ
+EMC 
+13.131 0 Td
+[(U)-42 (N3)-21 (0)-21 (82, )-765.7 (Sust)-21 (ancia )-765.7 (peligros)-21 (a )-765.6 (para )]TJ
+0.69 Tw 0 -1.2 Td
+[(el )0.5 (medio )0.5 (ambiente, )0.6 (l\355quida, )0.5 (N.O.S. )]TJ
+0.265 Tw 0 -1.2 Td
+[(\(imidacloprid\), 9, P)-21 (G I)-42 (I)-42 (I, cont)-20.9 (aminante )]TJ
+0 Tw 0 -1.2 Td
+(marino)Tj
+0.469 Tw 9 0 0 9 27 461.024 Tm
+[(Est)-21 (a informaci\363n no tiene el prop\363sito de transmitir todos los )]TJ
+0.408 Tw 0 -1.111 Td
+(requisitos/datos normativos u operativos espec\355\037cos relacionados )Tj
+0.192 Tw 0 -1.111 Td
+(con este producto. Las clasi\037caciones del transporte pueden variar )Tj
+0.417 Tw 0 -1.111 Td
+[(seg\372n el )0.5 (volumen del )0.5 (contenedor )0.5 (y pueden verse )0.5 (in\036uidas por )]TJ
+0.25 Tw 0 -1.111 Td
+(variaciones regionales o nacionales de los reglamentos. Se puede )Tj
+0.083 Tw 0 -1.111 Td
+(obtener informaci\363n adicional sobre el sistema de transporte a trav\351\s )Tj
+0.104 Tw 0 -1.111 Td
+[(de un represent)-20.9 (ante de vent)-21 (as o de servicio al cliente autorizado. La )]TJ
+-0.002 Tw 0 -1.111 Td
+[(organizaci\363n )0.6 (de )0.5 (transporte )0.6 (tiene )0.5 (la )0.6 (respons)-21 (abilidad )0.6 (de )0.5 (acat)-21 (ar )0.5 (todas )0.6 (las )]TJ
+0.12 Tw 0 -1.111 Td
+(leyes, reglamentos y normas aplicables en relaci\363n con el transporte \)Tj
+0 Tw 0 -1.111 Td
+(del material.)Tj
+ET
+27 358.384 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 346.884 Tm
+[(1)40 (5. I)-42 (N)-41.9 (F)-21 (OR)-42 (MA)20 (CI)-21 (\323N R)-42 (E)-21 (G)-41.9 (U)-42 (LA)82 (T)20 (OR)-42 (IA)]TJ
+0 0 0 1 k
+/GS1 gs
+-0.001 Tc 0.001 Tw 8.82 0 0 9 27 329.684 Tm
+[(FI)-42 (FRA:)]TJ
+/T1_0 1 Tf
+0 Tc 0.133 Tw 9 0 0 9 27 319.684 Tm
+(Este producto qu\355mico es un pesticida registrado por la Agencia de )Tj
+0.128 Tw 0 -1.111 Td
+[(Protecci\363n Ambient)-20.9 (al \(E)-41.9 (E. U)-42 (U.\) y est)-20.9 (\341 sujeto a ciertos requisitos de )]TJ
+0.136 Tw 0 -1.111 Td
+[(etiquet)-21 (ado )0.5 (en )0.5 (virtud )0.5 (de )0.5 (la ley )0.5 (federal )0.5 (de )0.5 (pesticidas. )0.5 (Estos )0.6 (requisitos )]TJ
+0.058 Tw 0 -1.111 Td
+(di\037eren de los criterios de clasi\037caci\363n y la informaci\363n so\bre riesgos )Tj
+0.111 Tw 0 -1.111 Td
+[(exigidos para las hojas de datos de seguridad y las etiquet)-20.9 (as de los )]TJ
+-0.044 Tw 0 -1.111 Td
+(productos qu\355micos no pesticidas en el lugar de trabajo. La siguiente\ es )Tj
+-0.029 Tw 0 -1.111 Td
+[(la informaci\363n sobre riesgos como se exige en la etiquet)-20.9 (a del pesticida:)]TJ
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 8.82 0 0 9 36 246.66 Tm
+[(PR)-42 (E)-21 (C)41 (A)41 (U)-21 (CI)-21 (ON)-42 (E)-42 (S)]TJ
+0.586 Tw 0 -1.111 Td
+[(PE)-42 (LI)-21 (G)-42 (R)-21 (O P)62 (ARA L)20 (OS S)-42 (E)-42 (R)-42 (E)-42 (S H)-42 (U)-42 (MAN)-21 (OS Y AN)-42 (I)-41.9 (MALE)-41.9 (S)-1 ( )]TJ
+0.001 Tw 0 -1.111 Td
+[(D)-21 (OM\311)-42 (STI)-21 (COS)]TJ
+0 -1.111 Td
+[(PR)-42 (E)-21 (C)41 (A)41 (U)-21 (CI)-21 (\323N: )]TJ
+/T1_0 1 Tf
+0 Tc 0 Tw 8.91 0 0 9 103.4497 216.66 Tm
+( )Tj
+0.133 0.122 0.122 rg
+/GS0 gs
+0.311 Tw 9 0 0 9 108.6383 216.66 Tm
+(Este producto es perjudicial si se ingiere, se )Tj
+-0.003 Tw -8.071 -1.111 Td
+[(absorbe a trav\351s de la piel o se inhala. Caus)-20.9 (a irrit)-20.9 (aci\363n moderada en )]TJ
+-0.021 Tw 0 -1.111 Td
+(los ojos. Evite respirar el vapor o la niebla del roc\355o de este produ\cto.)Tj
+-0.058 Tw 0 -1.447 Td
+[(Consulte el folleto interior de la etiquet)-21 (a para acceder a precauciones )]TJ
+0 Tw 0 -1.111 Td
+(adicionales.)Tj
+0 0 0 1 k
+/GS1 gs
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 36 160.612 Tm
+[(PE)-42 (LI)-21 (G)-42 (R)-21 (OS P)62 (ARA E)-42 (L M)-41.9 (E)-42 (D)-42 (I)-21 (O AM)-42 (B)-42 (I)-42 (E)-42 (NTE)]TJ
+/T1_0 1 Tf
+0 Tc -0.014 Tw 8.91 0 0 9 36 150.612 Tm
+[(No )0.5 (lo aplique )0.5 (direct)-21 (amente )0.5 (en el )0.5 (agua, )0.5 (en \341reas )0.5 (en las )0.5 (que haya )0.5 (agua )]TJ
+0.097 Tw 0 -1.111 Td
+(super\037cial, ni en \341reas intermareales que se encuentren por debajo\ )Tj
+-0.011 Tw 0 -1.111 Td
+[(del nivel medio )0.5 (de pleamar)41 (. )0.5 (No cont)-21 (amine el )0.5 (agua cuando desec)20 (he el )]TJ
+0 Tw 32.323 69.72 Td
+(agua residual del lavado del equipo.)Tj
+0.294 Tw 0 -1.447 Td
+[(Este producto es alt)-20.9 (amente t\363)20 (xico para las abejas expuest)-21 (as al )]TJ
+0.284 Tw 0 -1.111 Td
+[(trat)-21 (amiento directo o los residuos sobre cultivos o malezas que )]TJ
+0.312 Tw 0 -1.111 Td
+[(\036orecen. No aplique este producto ni permit)-21 (a su arrastre hacia )]TJ
+0.266 Tw 0 -1.111 Td
+[(cosec)20 (has/plant)-21 (as )0.5 (o malezas )0.5 (que )0.5 (est\351n )0.5 (\036oreciendo )0.5 (si )0.5 (hay )0.5 (abejas )]TJ
+0 Tw 0 -1.111 Td
+(buscando alimento. )Tj
+-0.001 Tc 0.069 Tw 8.82 0 0 9 324 691.792 Tm
+[(Este producto es t\363)20 (xico para la vida silvestre y alt)-21 (amente t\363)20 (xico para)-1 ( )]TJ
+0 Tw 0 -1.139 Td
+(los invertebrados acu\341ticos.)Tj
+0.055 Tw 0 -1.475 Td
+[(Este producto qu\355mico tiene propiedades y caracter\355sticas asociada\s)-1 ( )]TJ
+-0.029 Tw 0 -1.139 Td
+[(con los productos qu\355micos detect)-21 (ados en aguas subterr\341neas. El uso)-1 ( )]TJ
+-0.027 Tw 0 -1.139 Td
+[(de este producto qu\355mico en \341reas en las que el terreno es permeab\le,)-0.9 ( )]TJ
+0.24 Tw 0 -1.139 Td
+[(particularmente donde la capa fre\341tica sea poco profunda, puede)-1 ( )]TJ
+0 Tw 0 -1.139 Td
+[(caus)-21 (ar la cont)-21 (aminaci\363n de las aguas subterr\341neas.)]TJ
+/T1_1 1 Tf
+0 -1.475 Td
+[(R)-42 (I)-42 (E)-42 (S)-21 (G)-21 (OS F\315S)-41.9 (I)-21 (COS O QU\315M)-42 (I)-21 (COS)]TJ
+/T1_0 1 Tf
+0.002 Tw 0 -1.139 Td
+[(No lo mezcle ni permit)-21 (a que entre en cont)-21 (acto con agentes o)20 (xidantes.)-1 ( )]TJ
+0 Tw 0 -1.139 Td
+[(ya que puede ocurrir una reacci\363n qu\355mica peligros)-21 (a.)]TJ
+0 Tc 0.284 Tw 8.91 0 0 9 315 580.67 Tm
+[(T)103 (odos los pesticidas se rigen bajo la Ley F)20 (ederal de Insecticidas, )]TJ
+-0.067 Tw 0 -1.089 Td
+[(Fungicidas y Raticidas \(F)-21 (I)-42 (F)-21 (RA, de los E)-42 (E. U)-42 (U.\). La informaci\363n normativa )]TJ
+-0.054 Tw 0 -1.089 Td
+[(que se present)-21 (a a continuaci\363n solo es pertinente cuando este producto )]TJ
+0 Tw 0 -1.089 Td
+(se maneja fuera del uso y aplicaci\363n normales como pesticida.)Tj
+/T1_1 1 Tf
+-0.001 Tc 0.103 Tw 8.82 0 0 9 315 538.246 Tm
+[(Ley SARA, T\355tulo I)-42 (I)-42 (I, Secci\363n 3)-21 (02, Sustancias extremadamente)-1 ( )]TJ
+0.001 Tw 0 -1.111 Td
+(peligrosas)Tj
+/T1_0 1 Tf
+0 Tc 0 Tw 8.91 0 0 9 315 518.446 Tm
+[(No incluido en la list)-21 (a)]TJ
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 505.422 Tm
+[(Ley SARA, T\355tulo I)-42 (I)-42 (I, Secci\363n 31)98 (1/31)42 (2, Categor\355as de riesgos)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 495.622 Tm
+(Inmediato)Tj
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 482.598 Tm
+[(Ley SARA, T\355tulo I)-42 (I)-42 (I, Secci\363n 31)42 (2, Cantidad umbral plani\036cada)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 472.798 Tm
+[(No incluido en la list)-21 (a)]TJ
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 459.774 Tm
+[(Ley SARA, T\355tulo I)-42 (I)-42 (I, Secci\363n 31)42 (3, Ingredientes reportables)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 449.974 Tm
+(Ninguno.)Tj
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 436.95 Tm
+[(Ley CE)-42 (R)-21 (CLA:)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 427.15 Tm
+[(No incluido en la list)-21 (a)]TJ
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 414.126 Tm
+[(E)-42 (ST)103 (A)82 (TU)-21 (S FR)-42 (E)-42 (NTE A LA PR)-21 (OP)62 (. 65 D)-42 (E C)41 (ALI)-42 (F)-21 (OR)-42 (N)-41.9 (IA:)]TJ
+/T1_0 1 Tf
+0 Tc 0.244 Tw 8.91 0 0 9 315 404.326 Tm
+(Este producto no contiene ning\372n producto qu\355mico que, seg\372n el\ )Tj
+0 Tw 0 -1.089 Td
+[(est)-21 (ado de California, sea caus)-21 (ante de c\341ncer o da\361os reproductivos.)]TJ
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 8.82 0 0 9 315 381.502 Tm
+[(C)41 (ANAD)20 (\301)]TJ
+/T1_0 1 Tf
+0 Tc 0.05 Tw 8.91 0 0 9 315 371.702 Tm
+(Este producto se ha clasi\037cado de acuerdo con los criterios de riesgo\ )Tj
+0.124 Tw 0 -1.089 Td
+[(del Reglamento de Productos Controlados \(C)-21 (P)-20.9 (R\) y la S)-21 (D)-21 (S contiene )]TJ
+0 Tw 0 -1.089 Td
+[(toda la informaci\363n que requiere el C)-21 (P)-21 (R.)]TJ
+ET
+315 337.302 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 325.802 Tm
+[(1)63 (6. O)20 (TRA I)-41.9 (N)-42 (F)-21 (OR)-42 (MA)20 (CI)-21 (\323N)]TJ
+0 0 0 1 k
+/GS1 gs
+0.227 Tw 8.91 0 0 9 315 306.362 Tm
+[(CON)-42 (S)-21 (U)-41.9 (L)103 (TE LA ETI)-20.9 (QU)-42 (ET)103 (A D)-42 (E)-42 (L PR)-21 (OD)-42 (U)-20.9 (C)20 (T)19.9 (O P)62 (ARA CON)-20.9 (OCE)-42 (R )]TJ
+0 Tw 0 -1.2 Td
+[(L)20 (OS T\311)-42 (R)-41.9 (M)-42 (I)-42 (N)-21 (OS Y CON)-42 (D)-42 (I)-21 (CI)-21 (ON)-42 (E)-42 (S D)-42 (E U)-20.9 (S)-21 (O)]TJ
+0 -1.536 Td
+(Exenci\363n de responsabilidad sobre la garant\355a)Tj
+/T1_0 1 Tf
+-0.03 Tw 0 -1.536 Td
+[(T)103 (acoma Ag, LL)62 (C garantiza que este producto cumple con la descripci\363n )]TJ
+0.141 Tw 0 -1.2 Td
+[(qu\355mica )0.5 (de )0.5 (la )0.5 (etiquet)-21 (a )0.5 (y es razonablemente )0.5 (apto )0.5 (para )0.5 (los )0.5 (prop\363sitos )]TJ
+0.122 Tw 0 -1.2 Td
+[(referidos en )0.5 (la etiquet)-21 (a cuando se )0.5 (utiliza )0.5 (en )0.5 (cumplimiento )0.5 (estricto )0.5 (de )]TJ
+0.075 Tw 0 -1.2 Td
+[(las indicaciones, en sujeci\363n a los riesgos intr\355nsecos est)-20.9 (ablecidos en )]TJ
+0.171 Tw 0 -1.2 Td
+[(la etiquet)-21 (a del producto. T)103 (acoma Ag, LL)62 (C N)-21 (O O)-21 (F)-21 (R)-42 (E)-20.9 (C)-21 (E N)-42 (I)-41.9 (N)-21 (G)-42 (U)-42 (NA )]TJ
+0.324 Tw 0 -1.2 Td
+[(GARANT\315A, E)-21 (X)-21 (P)-21 (R)-42 (E)-21 (SA O I)-42 (M)-41.9 (P)-21 (L\315C)-21 (IT)103 (A D)-21 (E C)-21 (O)-21 (M)-41.9 (E)-42 (R)-21 (C)-21 (IAB)-42 (I)-41.9 (LI)-42 (D)20 (AD N)-42 (I )]TJ
+0.227 Tw 0 -1.2 Td
+[(I)-42 (D)-21 (O)-21 (N)-41.9 (E)-42 (I)-42 (D)20 (AD P)62 (ARA U)-42 (N F)-21 (I)-41.9 (N D)-21 (ETE)-42 (R)-42 (M)-42 (I)-41.9 (NAD)-21 (O, N)-42 (I N)-42 (I)-42 (N)-20.9 (G)-42 (U)-42 (NA O)41 (TRA )]TJ
+0 Tw 0 -1.2 Td
+[(GARANT\315A E)-21 (X)-21 (P)-21 (R)-42 (E)-21 (SA O I)-41.9 (M)-42 (P)-21 (L\315C)-21 (IT)103 (A.)]TJ
+0.145 Tw 0 -1.536 Td
+[(Los t\351rminos de la exenci\363n de respons)-21 (abilidad sobre la garant\355a no )]TJ
+0.299 Tw 0 -1.2 Td
+(pueden modi\037carse mediante declaraciones o acuerdos escritos o )Tj
+0.085 Tw 0 -1.2 Td
+[(verbales. Ning\372n empleado o agente de vent)-21 (as de T)103 (acoma Ag, LL)62 (C o )]TJ
+0.052 Tw 0 -1.2 Td
+[(el vendedor est)-21 (\341 en modo alguno autorizado a modi\037car o exceder los )]TJ
+0 Tw 0 -1.2 Td
+[(t\351rminos de la exenci\363n de respons)-21 (abilidad sobre la garant\355a.)]TJ
+0 -3.072 Td
+[(V)62 (ersi\363n de S)-21 (D)-21 (S: 1.2 )]TJ
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+12.428 0 Td
+[(F)20 (ec)20 (ha de vigencia: 12 de agosto de 2021)]TJ
+ET
+endstreamendobj20 0 obj<</BBox[0.0 792.0 612.0 0.0]/Length 2563/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ColorSpace<</CS0 10 0 R/CS1 24 0 R/CS2 25 0 R>>/ExtGState<</GS0 11 0 R/GS1 12 0 R>>/Font<</T1_0 26 0 R/T1_1 27 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 28 0 R>>>>/Subtype/Form>>stream
+/CS0 CS 1  SCN
+1 w 4 M 0 j 0 J 
+/GS0 gs
+q 1 0 0 1 -9 72 cm
+0 0 m
+630 0 l
+S
+Q
+/PlacedPDF /MC0 BDC 
+q
+18 15.097 208.776 31.404 re
+W n
+/CS1 cs 1  scn
+q 1 0 0 1 62.0734 32.4751 cm
+0 0 m
+1.485 4.454 l
+-2.057 4.454 l
+-2.057 7.423 l
+-6.51 7.423 l
+-6.51 4.454 l
+-12.129 4.454 l
+-12.129 7.423 l
+-16.582 7.423 l
+-16.582 -8.906 l
+-16.582 -10.885 -15.592 -11.874 -13.613 -11.874 c
+-7.259 -11.874 l
+-8.697 -7.422 l
+-12.129 -7.422 l
+-12.129 0 l
+-6.51 0 l
+-6.51 -8.906 l
+-6.51 -10.885 -5.521 -11.874 -3.542 -11.874 c
+2.547 -11.874 l
+1.101 -7.422 l
+-2.057 -7.422 l
+-2.057 0 l
+h
+f
+Q
+65.635 20.601 4.453 16.329 re
+f
+q 1 0 0 1 65.9584 39.5592 cm
+0 0 m
+3.79 0 l
+4.5 4.453 l
+-0.737 4.453 l
+h
+f
+Q
+q 1 0 0 1 83.5055 32.4751 cm
+0 0 m
+1.437 4.454 l
+-8.763 4.454 l
+-10.741 4.454 -11.731 3.464 -11.731 1.485 c
+-11.731 -8.906 l
+-11.731 -10.885 -10.741 -11.874 -8.763 -11.874 c
+1.437 -11.874 l
+0.023 -7.422 l
+-7.278 -7.422 l
+-7.278 0 l
+h
+f
+Q
+q 1 0 0 1 97.1494 25.0536 cm
+0 0 m
+-6.699 0 l
+-6.699 11.875 l
+-11.151 11.875 l
+-11.151 -1.485 l
+-11.151 -3.464 -10.163 -4.453 -8.185 -4.453 c
+1.487 -4.453 l
+3.466 -4.453 4.454 -3.464 4.454 -1.485 c
+4.454 11.875 l
+0.015 11.875 l
+h
+f
+Q
+q 1 0 0 1 115.5538 31.0062 cm
+0 0 m
+-8.183 0 l
+-8.183 1.485 l
+1.498 1.485 l
+2.968 5.938 l
+-9.668 5.938 l
+-11.647 5.938 -12.636 4.943 -12.636 2.954 c
+-12.636 -1.499 l
+-12.636 -3.47 -11.647 -4.453 -9.668 -4.453 c
+-1.485 -4.453 l
+-1.485 -5.923 l
+-11.771 -5.938 l
+-13.208 -10.391 l
+0 -10.391 l
+1.979 -10.391 2.968 -9.401 2.968 -7.418 c
+2.968 -2.958 l
+2.968 -0.987 1.979 0 0 0 c
+f
+Q
+/CS2 cs 1  scn
+q 1 0 0 1 22.6423 29.6951 cm
+0 0 m
+0 0.001 l
+0.031 0.064 0.068 0.139 v
+5.803 11.92 l
+5.839 11.996 5.9 11.996 5.938 11.92 c
+11.673 0.139 l
+11.71 0.064 11.741 0 y
+11.741 -0.001 l
+11.709 -0.064 11.67 -0.139 v
+6.766 -9.758 l
+6.728 -9.835 6.692 -9.827 6.688 -9.742 c
+5.878 5.69 l
+5.873 5.775 5.866 5.775 5.862 5.69 c
+5.054 -9.742 l
+5.049 -9.827 5.014 -9.835 4.975 -9.758 c
+0.071 -0.139 l
+0.032 -0.064 0 -0.002 y
+0 -0.001 l
+h
+f
+Q
+/CS1 cs 1  scn
+q 1 0 0 1 21.5017 27.6508 cm
+0 0 m
+-3.502 -7.038 l
+2.114 -7.041 l
+2.818 -5.527 l
+h
+f
+Q
+q 1 0 0 1 33.306 46.5 cm
+0 0 m
+-2.425 0 l
+-3.992 -3.147 l
+3.006 -16.784 l
+1.262 -20.251 l
+4.461 -20.251 l
+7.265 -25.891 l
+12.295 -25.893 l
+h
+f
+Q
+0 0 0 1 K
+0.996 w []0 d 
+/GS1 gs
+q 1 0 0 1 125.0069 19.7984 cm
+0 0 m
+0 18.639 l
+S
+Q
+Q
+BT
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+0 Tc 0 Tw 0 Ts 100 Tz 0 Tr 5.9739 0 0 5.9739 131.0962 35.5814 Tm
+(Manufactured for:)Tj
+/T1_1 1 Tf
+0 -1 Td
+(Atticus, LLC)Tj
+/T1_0 1 Tf
+0 -1 Td
+(940 NW Cary Parkway, Suite 200 )Tj
+0 -1 Td
+(Car)Tj
+(y)Tj
+1.927 0 Td
+(, NC 27513)Tj
+ET
+EMC 
+endstreamendobj28 0 obj<</Metadata 29 0 R>>endobj29 0 obj<</Length 14231/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 79.328f76e, 2022/08/01-19:10:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:egGr="http://ns.esko-graphics.com/grinfo/1.0/"
+            xmlns:egInk="http://ns.esko-graphics.com/inkinfo/1.0/"
+            xmlns:egInkCovL="http://ns.esko-graphics.com/inkcovlist/1.0/"
+            xmlns:egLayL="http://ns.esko-graphics.com/laylist/1.0/"
+            xmlns:egLay="http://ns.esko-graphics.com/layer/1.0/"
+            xmlns:egExtFL2="http://ns.esko-graphics.com/extfileslist/2.0/"
+            xmlns:egExtFL="http://ns.esko-graphics.com/extfileslist/1.0/"
+            xmlns:egPagL="http://ns.esko-graphics.com/pagerangelist/1.0/"
+            xmlns:egPag="http://ns.esko-graphics.com/pagerange/1.1/"
+            xmlns:egFontL="http://ns.esko-graphics.com/fontlist/1.0/"
+            xmlns:egFont="http://ns.esko-graphics.com/fontinfo/1.0/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">AtticusFooter</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2023-03-08T06:11:49-06:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2023-03-08T06:11:49-06:00</xmp:ModifyDate>
+         <xmp:CreateDate>2023-03-08T06:11:49-06:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 26.5 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:6377ce1d-e4e7-ec4b-8f6b-1ad1ce2091a0</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:e20cf053-d573-446f-99c5-341c9c3421bf</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:d1c078a0-2746-42b2-b0d1-25aedff8fb1e</stRef:instanceID>
+            <stRef:documentID>xmp.did:1b6690ed-28a8-c141-9479-b6a9cf6be651</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e20cf053-d573-446f-99c5-341c9c3421bf</stEvt:instanceID>
+                  <stEvt:when>2017-12-19T09:54:58-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2017 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:Type>Document</illustrator:Type>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <illustrator:CreatorSubTool>AIRobin</illustrator:CreatorSubTool>
+         <xmpTPg:HasVisibleOverprint>True</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>3.000000</stDim:w>
+            <stDim:h>2.000000</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>AkzidenzGroteskBE-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Berthold Akzidenz Grotesk</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>Type 1</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>AkzidGroBEReg; akzidenzgroteskbe regular</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>AkzidenzGroteskBE-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Berthold Akzidenz Grotesk</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Type 1</stFnt:fontType>
+                  <stFnt:versionString>001.000</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>AkzidGroBEBol; akzidenzgroteskbebold</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Black</rdf:li>
+               <rdf:li>PANTONE 298 C</rdf:li>
+               <rdf:li>PANTONE 281 C</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>PANTONE 281 C</xmpG:swatchName>
+                           <xmpG:type>SPOT</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>85.000002</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>20.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>PANTONE 298 C</xmpG:swatchName>
+                           <xmpG:type>SPOT</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>68.000001</xmpG:cyan>
+                           <xmpG:magenta>3.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 16.07</pdf:Producer>
+         <pdfx:CreatorVersion>21.0.2</pdfx:CreatorVersion>
+         <egGr:trapped>False</egGr:trapped>
+         <egGr:nrpages>1</egGr:nrpages>
+         <egGr:startlogpage>1</egGr:startlogpage>
+         <egGr:units>mm</egGr:units>
+         <egGr:vsize>50.8</egGr:vsize>
+         <egGr:hsize>76.2</egGr:hsize>
+         <egGr:margtop>0</egGr:margtop>
+         <egGr:margbot>0</egGr:margbot>
+         <egGr:margleft>0</egGr:margleft>
+         <egGr:margright>0</egGr:margright>
+         <egGr:vshrink>1.000000</egGr:vshrink>
+         <egGr:hshrink>1.000000</egGr:hshrink>
+         <egGr:readerspread>False</egGr:readerspread>
+         <egGr:screenreg>False</egGr:screenreg>
+         <egGr:inks>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>black</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>black</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>82.5</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.137405396</egInk:r>
+                  <egInk:g>0.122756958</egInk:g>
+                  <egInk:b>0.126052856</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>298</egInk:name>
+                  <egInk:type>pantone</egInk:type>
+                  <egInk:book>pms1000c</egInk:book>
+                  <egInk:egname>298</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>45</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.036315918</egInk:r>
+                  <egInk:g>0.736160278</egInk:g>
+                  <egInk:b>0.935821533</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>281</egInk:name>
+                  <egInk:type>pantone</egInk:type>
+                  <egInk:book>pms1000c</egInk:book>
+                  <egInk:egname>281</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>45</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.080657959</egInk:r>
+                  <egInk:g>0.222763062</egInk:g>
+                  <egInk:b>0.498519897</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+            </rdf:Seq>
+         </egGr:inks>
+         <egInkCovL:coverage>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+            </rdf:Seq>
+         </egInkCovL:coverage>
+         <egLayL:layers>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egLay:name>Layer 1</egLay:name>
+                  <egLay:printable>True</egLay:printable>
+                  <egLay:locked>False</egLay:locked>
+               </rdf:li>
+            </rdf:Seq>
+         </egLayL:layers>
+         <egExtFL2:files>
+            <rdf:Bag/>
+         </egExtFL2:files>
+         <egExtFL:files>
+            <rdf:Bag/>
+         </egExtFL:files>
+         <egPagL:pagelist>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egPag:start>0</egPag:start>
+                  <egPag:end>0</egPag:end>
+                  <egPag:inks>
+                     <rdf:Seq>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>2</rdf:li>
+                        <rdf:li>3</rdf:li>
+                     </rdf:Seq>
+                  </egPag:inks>
+               </rdf:li>
+            </rdf:Seq>
+         </egPagL:pagelist>
+         <egFontL:fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <egFont:name>AkzidenzGroteskBE-Bold</egFont:name>
+                  <egFont:type>Type 1</egFont:type>
+                  <egFont:location>local</egFont:location>
+                  <egFont:fontfile/>
+                  <egFont:protection>False</egFont:protection>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egFont:name>AkzidenzGroteskBE-Regular</egFont:name>
+                  <egFont:type>Type 1</egFont:type>
+                  <egFont:location>local</egFont:location>
+                  <egFont:fontfile/>
+                  <egFont:protection>False</egFont:protection>
+               </rdf:li>
+            </rdf:Bag>
+         </egFontL:fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj26 0 obj<</BaseFont/IEDPYR+AkzidenzGroteskBE-Regular/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 30 0 R/LastChar 121/Subtype/Type1/Type/Font/Widths[271 0 0 0 0 0 0 0 0 0 0 0 229 0 0 0 583 583 583 583 583 583 0 583 0 583 271 0 0 0 0 0 0 0 0 750 0 0 0 0 0 0 0 0 0 812 708 0 625 0 0 667 0 0 0 1021 0 0 0 0 0 0 0 0 0 500 0 521 562 521 271 0 0 208 0 458 0 0 521 542 0 0 313 0 292 521 0 729 0 437]>>endobj27 0 obj<</BaseFont/IEDPYR+AkzidenzGroteskBE-Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 31 0 R/LastChar 117/Subtype/Type1/Type/Font/Widths[271 0 0 0 0 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 708 0 688 0 0 0 0 0 0 0 0 542 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 292 0 0 0 0 0 0 0 0 0 521 354 604]>>endobj31 0 obj<</Ascent 927/CapHeight 706/CharSet(/space/comma/A/C/L/c/i/s/t/u)/Descent -250/Flags 32/FontBBox[-166 -250 1222 927]/FontFile3 32 0 R/FontName/IEDPYR+AkzidenzGroteskBE-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 156/Type/FontDescriptor/XHeight 522>>endobj32 0 obj<</Filter/FlateDecode/Length 936/Subtype/Type1C>>stream
+HâDQ_LSwæ∑•∑ ÖQj’ﬁ+õb[&àÜdi-aËÉäÆÆYRÏm≠TÌMªF√ü§ƒÄ¥ ≠ñ¶0j°•≥÷ƒ-˚C\&˚É<lÛ¡8ÉOò,sYñsÎOì›&[vNŒ˘ŒwŒ˘Né	0«ïm-˙ì∆ˆ⁄Æ^õôπ‘€Ít∞å´K◊¢÷9ÏÊc/ß¿π "t]Ÿ]tˇEÉhÜ K¡Q√Ø}˘Ç™(ê∆é:∫ΩNõı<K◊ú´•65§µfG'Cüˆ∫XÊ¢ãnªtŒ·Ïv8M,c÷–Zªùn/–]t;„bún‘1Nˆ<øî˛O˝Ø⁄Ê¢M¥ì±⁄¯QN∆L≥Nìôπhrv—˝éÜ˛ø≥UÉÒÜc•X5ˆ¶∆Ùÿ1Ïˆ.f¿J¯s1&‰¡l€∆u∏ˇM@	HÂ–åﬂÖC¬ª;ø#FˆΩΩ87≥~#˝£$zk<w´
+*—!1˘<Ê»8ãÀÑ0õ7»Q¯ïA'ââ‡±ÇDÖ]ÀD£/-r‘JDVáWCô–ß¡åÑ|‰ÜÆˆ·Y–π,Ù…;]ñ„u
+UÛC®É‚µøÅ∏ôÍNSK=3ÆÙÊ.œ
+õ}?+πc8ö8¢@®5!¡¥N¸˛ KRﬂdníìê«PÀ›Û‡¸çù‹{Pãnr˜êû È^ ·'ÿÅß†^»©‡∏‹ﬂÁ˜ı˜I¨]L`H—d€z∞ûxˆx>:4¶º!o# ~ÿx[M‰îÈP%R!4ú¯„˛W—ƒmÍN2ñä&%$⁄àππ9œ(©ÿïÏÕMÓâ\äÅ
+Jêäê=u∂T‹ìç˝∞~_5_Ø^~*∑ß~iÅ}
+(ÉÚµÇCd¢:JÉ&ìU·Ÿ˘µÃg3_(ü=-Xµ´®LÅˆkÎÕkú•‚ÏrˇÚ`|xﬁI˙3£qü$ËüˆVôO˚,ßŒ.ÂLJMé@|æçoÅJ∏≈M…ﬂVˇä&„∏%fW~ê˙vtUëòª2ë¢@*>sY‘X\ß¿˜Áˆ~x©≈‰h Øª3n.Í©¯ûˇO#hdÕ≤Î\9Âcé±ûI?Î*ÏÓŸôA 	ƒ„U’°GbY«·	˚"£4f÷˝iE:=Y¢dÕâŸ`(|]bE1ÈéÂ»rˆÑøæJ@˜‘À√”È´b(.M	œI•†ôúòññéKIòØ‰˛íˇ#¿ '©iendstreamendobj30 0 obj<</Ascent 944/CapHeight 707/CharSet(/space/comma/zero/one/two/three/four/five/seven/nine/colon/C/M/N/P/S/W/a/c/d/e/f/i/k/n/o/r/t/u/w/y)/Descent -250/Flags 32/FontBBox[-155 -250 1227 944]/FontFile3 33 0 R/FontName/IEDPYR+AkzidenzGroteskBE-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 76/Type/FontDescriptor/XHeight 471>>endobj33 0 obj<</Filter/FlateDecode/Length 2645/Subtype/Type1C>>stream
+HâDTiTYÆ"IUTà#eM3)Mõ›]Z=(Ó≤é≠Õ@Díƒ1Æê Ç:∏ãÌ6 »@pap\ wA	´ƒmtZ˚æxzä>3gŒ˚Ûﬁ;ﬂ˜Ówø{Ô√1°Ü„∏˝_üÄ¿ÔΩï[6ƒ(í∂¯©UZÖFπ–◊%Póí©M‡ú≥"7î;Nx˜´èh<Üe?∂Õh∏8¶f‹»|€aîaëjSözC\ºVÓÌ$˜ò3«CÓ£äR»É“4ZE¢Fæ$)Z•ﬁ§RGj1ÆrÔÑy‡0\#ThjπP°÷∆´b‰ˇ”#ˇØ ˘ç<RÆVƒm‡üR+b‰Zudå"1R≠î´bÂ˛ÆÚˇ3˝\1ÁfÉacDòÜIqlÜπ‚òÜM«∞Ÿ∂√|ÿR[éa´p,√Çq,√"0LŒ˚ÇYal
+∂;œÁuo∂oeı»
+AÇB¡=·Daç7—q—g"Ä(&z…‰\2áÏK≈A‚”‚Å”%Ù–8ﬁ¸A–8çjrÔ©A;u‚Z‚B◊¡ úAÒuRRπ€ƒ˝≠øjÜ;}Æ˙hÿåƒ@"πNGS—üQhö .‡‹ˆ∞NÊa†WÈQ$ö∞hc˝ôm≤§;ü4KÎÚÃ•∑d.5‰ùe`‘E‰àFXIÂ)ßoÇQ©8@ı–L:Õ1`≥≥Aº&[ÙÉC3˘F˜s;nÍÖ˝Øf¢ªÊ_´ﬂæ#>Ä\
+VÛ?!{ø Õ∆xYpË^_•4&_óü*Î%ˆú‹UT"ÌøZ’ﬁY1◊=¿«πlÈä≈´Ω¢ƒ3∏¶·Ã: √…OmõÕPÿÁ=H}gnùSù[U|Q\QZìS»P‹≥;?˘»—Hcbä>;;çùCÊ >ÀPükA`DD“Æ¯Ñd6)6<+ÖA∑øjŒd›âÏ∏}k.Öâó]È÷v1‡›ÙÔ,®H>ÃR\Òâ¬#«JƒgÚäœH˚óºCû^≥TÓ
+Ÿ÷∏¨ÑÃ(Ò∞)0≥çÛÁM˘ÙR¿˘¡öÛ˜%Qõ≈G‰∑–Ã^ò˘æç¥L˙#$A√^‘ .¥µ√ËºÁ)Z‡›Eú˝ky”+f‡∆
+Wá@◊Iqù˜v≤ûªE»ÈËg∞f`·]ˇêã@Ç¶ŒXßÿ≤ô= ãE∏√2ñ¯Ω4˝ù¯€(|*xÀ≈“-0
+âÏƒ,Ωrm‚èvHàV˙ ôç!éÛ ∆µÉCY£]˘ùÏ¸úRÒ;ã«∞¡m‡ÿ	7ü·ıf®!hÖYÙAÂÒ’7¢ƒ Í™›ÂLO√π[5lÛÀ| ÔI¡g5x† ‰‚çdçÏˇ5¨+ÔÔhî≈f†p‰Ëæπ•B/É3êOOÀÙ˝q>≥–øˆmOU«ª/unÛ≤XâDpÑ∂_ﬁS?}·“ik	ﬂÉê§N9Y¨áO¢˜ "%ï÷ŒΩ|Ü_˝E0D¡)9•»&0hñ'åÜE-Gû^˛'{ª∂µ¯cnäéº»ûK‹Ø=ò¸¶–ÆnÀ*òá2¥ëhZã¬@àA:DÚÅÂ -f%pä∑≠F#c™Ì√Wø·∞˚ŸéQ«áÑC!4J≤¥°DÆMÑlæÖ‘==èWY:E≠U
+ŒºÕbΩ
+!$0˚în($oŒ—=Æä'Ô≥4[(ÆY4Ì[H/±ì{¬}gy"z1Ó‚õ¶æˆv·m˝ÎkGB=]]f,(cã ˚L“nÖivëÏPl¥1ûA∑æÖÙC=BH"JÀ…ÿR’>ÖFØè◊hdJe¨1òA·ºÜ—i≠‹ÎV€äè˛Ô‡ÌèOT+gËGÈ˜RÊH›DLëQÊ–êCe—lH]fì·º√6;î~T˙ªLu◊æ⁄álsı˘¶˚“∫øº∞Øë©%ÂûWhGôVôw¢]⁄ˆ¨Ï≈ÂÀ;ìÀeˇà… Nyìo∑´:Ω≈˜∫∏nŸÇºp&b˛Ó‡ÂÏ&≠bΩØ9¿‘üt2	ólõ):ÆlxãO|M§¬®√Ci`C£ï\∑»ç@~ñn‰≈o	H¸"$®xÁÒ+-›¢ÜBDS	…˙mbt†øç∂%ΩKüCLU«wWçÏ∑á+7Eã”uª‘j©◊√5}WÍœûëQ∫’*2*ò”GÚr≥è»Ã];≤ÙÃF„ÈÀ\»ÏfcChï∏(6∞`=„µF™b∑™≤í≥∂<ﬂcw÷¯Ù„„úYôFSuã€3íe⁄µ)kòÄƒíK•GK{O≤îÓzAU˛Ö<±Dõﬁ»çπÖWˆ¬E˛pÜ≈tÏûm.àd"¢
+´7±∫}ÕuiU>8¡¯_è{nŒïı¡w	Hp~É<|êí"q¢¡˚’ÉíñJˆdYﬁπ‹ìb…âÙ'q:Œ≥íSm+_@m'uïõ1J£Î‰„‡y˚gdΩ-GS;'√∏5ıßyQ[WvÖíHÉjÈªÜÆHÙ')uâ˝‹'ØÎz'£∂¬DsE£A∆kææ7ar„∞Ïü_	8pßóßGØıaê0Ú}G_âBc˘éøÀ`î Ì tf
+Îá£i˝Œ¸¸LØ™§ÄE0ÙõÉ7Ø=d*Õ:Ùá˝¨Ñü)ß˚0˜.ﬁgÄwçÆ»Æª]p"+Î®¨âÃŸö∫OÀ†QY.—÷ΩËá%'ÁdæÔIHêôÁ*Sa÷ÄÌ#Â˛àü!kÃÕ4@RÁ£⁄¢4qJR2„?4UmHSaUÏﬁw≠y+ﬂ‰•{£¸„üä£D¬R+â
+4fJr—$ñ7õ+c)xØŸ¨∂t4úS(©≠…Ü-
+"äí‹`âMÕ¨ÇP¡ü;ﬁEΩC˙Œ·<Œy÷AwÂÃ»|ñV°I∆|ñÓ–9F´,˘S3%ËÌ{⁄¸vÊ7K$ò`83%ÏõÈîs"s`â„YéPRJöÉÑg˝ÍSø_w˙˘…gr˝êh∑®÷∫\‚âÉ’G∂á¬s˘¯I˛bŸÕ√ÁEé!Æ◊:≠È¶3Éﬂ!DìS†À∆ær»&˚yrºñ‰Ô&[bÑÉb»˚∂{˙ƒÇÌu "ê|^„¬/»ò¸∫ˆz™mØ[Ï∑ˆ_VZt±Pì;ª”&q˛;lE86©Ñ<~a¬t?Áä‚óê§ı÷–·¿‚à›ˆ—ÃÂÖ,8öÃ0"˘eU3‰[≠®ıÀ¸¯ìÅ[CbıX⁄ª;˘fuÙçﬁ•h!‚Ã◊g“YÊD‚È`¬®5ñ™çæBáÀ◊Âæòvâ¯Jy\ìJI¬·3jSk≥pIníM|ìip &ˆﬁWoøÃÖëR:’’ÎUßÇŒ‰Y‹ãÙ :í zH0Ö,LIt:¡*0dï˘»¬MbäY≤ôb6P∑ãX?7¥'´‰ú{Z’X°dkJOÙöû)b° ’ ‡Ä|ö9fæ÷|ä7_µ˜wâ∏≠·@œÉ—Ó«¸Ô´ü&ç~⁄w≤∆MÓ√	K:ê‡©tÿ˛6~“«7EúC‹e7d√Ë6-d¸'¿ n•;Ûendstreamendobj11 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj12 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj10 0 obj[/Separation/PANTONE#201815#20C 34 0 R<</C0[100.0 0.0 0.0]/C1[30.1961 39.0 21.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 100.0 -128.0 127.0 -128.0 127.0]>>]endobj24 0 obj[/Separation/PANTONE#20281#20C 34 0 R<</C0[100.0 0.0 0.0]/C1[12.9412 9.0 -41.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 100.0 -128.0 127.0 -128.0 127.0]>>]endobj25 0 obj[/Separation/PANTONE#20298#20C 34 0 R<</C0[100.0 0.0 0.0]/C1[68.6274 -22.0 -35.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 100.0 -128.0 127.0 -128.0 127.0]>>]endobj34 0 obj[/Lab<</BlackPoint[0.0 0.0 0.0]/Range[-128.0 127.0 -128.0 127.0]/WhitePoint[0.964203 1.0 0.824905]>>]endobj14 0 obj<</BaseFont/HWTJKT+AkzidenzGroteskPro-Regular/Encoding 35 0 R/FirstChar 29/FontDescriptor 36 0 R/LastChar 252/Subtype/Type1/ToUnicode 37 0 R/Type/Font/Widths[724 479 479 271 0 0 0 0 896 0 0 315 319 0 724 229 370 229 333 583 583 583 583 583 583 583 583 583 583 271 271 0 0 724 0 0 646 688 764 708 604 542 812 729 229 0 0 521 812 708 812 625 812 667 667 542 688 604 1021 625 0 0 277 0 276 0 0 0 500 562 521 562 521 271 562 521 208 208 458 208 771 521 542 562 562 313 479 292 521 437 729 396 437 417 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 840 0 0 0 0 0 0 564 0 0 0 0 0 0 0 0 0 0 0 646 0 0 0 0 0 0 0 0 0 0 0 229 0 0 0 0 0 0 0 0 0 0 0 0 688 0 0 0 0 0 0 500 0 0 0 0 0 0 0 521 0 0 0 208 0 0 0 521 0 542 0 0 0 0 0 0 521 0 521]>>endobj15 0 obj<</BaseFont/HWTJKT+AkzidenzGroteskPro-Bold/Encoding 38 0 R/FirstChar 29/FontDescriptor 39 0 R/LastChar 250/Subtype/Type1/ToUnicode 40 0 R/Type/Font/Widths[724 646 646 292 0 0 0 0 0 0 0 335 336 0 0 250 376 250 479 562 562 562 562 562 562 562 562 562 562 292 0 0 0 724 0 0 708 708 702 729 646 625 750 750 313 396 0 542 917 729 792 688 792 708 688 562 729 667 0 771 708 625 0 0 0 0 0 0 583 625 539 604 583 354 604 0 292 292 0 292 896 604 625 604 604 375 521 354 604 500 0 521 500 542 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 708 0 0 0 0 0 0 0 646 0 0 0 313 0 0 0 729 0 792 0 0 0 0 0 0 0 0 0 0 0 0 0 583 0 0 0 0 0 0 0 0 0 0 0 292 0 0 0 0 0 625 0 0 0 0 0 0 604]>>endobj38 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[29/lessequal/fi/fl]/Type/Encoding>>endobj39 0 obj<</Ascent 998/CapHeight 706/CharSet(/lessequal/fi/fl/space/parenleft/parenright/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/greater/A/B/C/D/E/F/G/H/I/J/L/M/N/O/P/Q/R/S/T/U/V/X/Y/Z/a/b/c/d/e/f/g/i/j/l/m/n/o/p/q/r/s/t/u/v/x/y/z/Aacute/Eacute/Iacute/Ntilde\/Oacute/aacute/iacute/oacute/uacute)/Descent -276/Flags 32/FontBBox[-165 -276 1222 998]/FontFamily(Akzidenz-Grotesk Pro Bold)/FontFile3 41 0 R/FontName/HWTJKT+AkzidenzGroteskPro-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 156/Type/FontDescriptor/XHeight 522>>endobj40 0 obj<</Filter/FlateDecode/Length 583>>stream
+Hâ\î_ã£0≈ﬂ˝yúy¨zs”)m°˚áÌŒ∞övÖ≠äµ˝ˆõìSf`Õâﬁ‰¸8ƒõVá˙0ÙãIŒc{Ùã9˜C7˚€xü[oN˛“IñõÆoóÁ,>€k3%iX||‹=Á1)Kì˛
+oÀ¸0/€n<˘◊$˝1w~Óáãy˘®éØ&=ﬁßÈØø˙a1+≥ŸòŒü√FﬂöÈ{sı&çÀﬁ]¯ﬁ/è∑∞Ê´‚˜cÚ&èÛå0Ìÿ˘€‘¥~nÜãO U∏6¶‹ákì¯°˚Ôª[sŸÈ‹˛iÊ§ÃÍPúÁ*õ†wAØV™·~«|ˇ5Ø¬<_≈yÇ^SØ°ﬂ©±&Ø®c}M]CsÔ0Õ}√êî˜,∞gëQg–9u]P–Bﬁ¬R[h•VhGÌ†…YÄ≥ gŒbKΩÖ&[6!ÉÄA» `2Ñ!ÉÄA» `2Ñ!ÉÄA» `Ê&»Mòõ 7!õD6Ê&»Õ27ã‹,ô-ò-ô-ò-ô-ò-ô-ò-ô-ò-ô-ò-9-8-9-8-9-8ï^
+/•ó¬KÈ•Rz≈3•ÙRx©>œ4ÛQ‰£ÙägNÈ•—ãôƒ≥ßÃDëâ>œ)2—ÁE&éô8d‚»È¿È»È¿È»È¿È»È¿È»È¿È»È¿ÈòâC&éúúéúúΩ*xU¨©PSëπsÕö55j0Ï¯~á˜;÷ÔPøgÕ5{zÖ?ÙÛœ≈Ø:ê˘ÏÌ}ûCÀàm*ˆ
+tâ~üùl'V·N˛	0 £*'endstreamendobj41 0 obj<</Filter/FlateDecode/Length 4945/Subtype/Type1C>>stream
+HâlñTÁ«gvôôeÅeaw¿ÓÍÓXy,O)">Ç`êÄØ(Ã¬Ü«‚Ó≤+JâØDÏ⁄„ãhj¨ßE4A{j1©$H4&õh=IL(1πC.9ßﬂ“szN{zÊÃÃ˜ÕΩÛª˜˚ﬂÔŒöÚëQ4Mü))Zö[≥†zìµB¨€îm∑9EGırª-6ÀVS·uâí¶“í÷GöÊœ„\<5’Á∆Oõòiu¶&@*îé´•+Aúz'òí$•§Õt]çËpàÃ5ßÖÖ∂˙Fªµ≤ )$%$§
+Y¢›YE»B^ﬁ¬8aAMçPË5:ÑB—!⁄]bEúPTeu[ùSpÿ,N∑Ÿ.
+Â∂⁄˙ßhÍÌ∂JªπV Œ*—;≠'¿F¡f˘9NXekjÕçBùÕ)ÿE‚S—P.öÑZ[Ö’“hÃÊzßIp⁄Õué≥ìXÃ5^vùÕ.î€EÚD®ÌVóŸiuâÇ€fØvx˘ﬁxˇï’ˇrâvá(àuï÷:Q¥õƒõ∂µFú⁄ΩA+¨3ë¶∂Ã˚‘–!ä’Ç”Ê5î€a2å√÷`/˜Æ∫B¸ˇë„ó¨(j¨ÖdB∂PDuö¢|i*@E)*ÃóäURseTK-•©eJjïå™•©6äÍ§®nä∫BSÔQ‘ä¶®Ωì¢˝*í6©2®æy ï23k•kîeTÅ∑¢˘T’J=§Èp:ç^AßádQ≤?»û»ó»{‰_˘‘˚|¡(ô8¶ú˘ê5∞Îÿ]ÏNÀ-‰Vs€π£‹#ÖZQ°8Â‰[Ê;Ë;™åQ([îóî˜˝Ú˝ﬁÚ{‚üÌˇÜˇGπ∫TI™z’€Å!ÅŒ¿v5Ø^£>¢æ™ö¥&Ëb–œ¡Ÿ¡/_–h4õµ¥6Z€¢˝î˜C≠ßOÎ£…5¢OÓÒëZ∆ã'ZXx˚yÃÄ}|≈¢Ä◊y»ÄÉÃD+7¡ÆõCí9+ıÛﬁzg*^∆◊O´›Ùàî√àâü˛èÂãt†=Ï¿óÜ£'¥^Ë~ˆ›)ÖÎKK≈ïäÃôe®FçC/¢ﬂΩCª˘ ⁄~≥BÖΩ8cI%iºéw£qëµ/ õoÿXø•Y,Ì/ò2p≠££„m≈hÇV°e‡õ˛ƒ`Ì.Ì^÷´PM®–‰Çb§ªÈ^Hñ˜B:èÈÔq;◊Ó∞¨nT,‚Ä=›{î:ò∆©Uÿ
+·4<Ü≠<Ñ„5Á‡òÊy_Ní√˙òáI8è∏Fsçªi©lºò«0ˇ¸s1a¨*ß	‘“¢ª r!Zﬁ#<⁄>Fí°‰*¨Ç∏oúp k1-„pÖ"_‡!n˜—ooÎÔ˛˝QÜÙØQ1?ÌEPﬂ3™rHò4¢√fHë?íj˘ëﬂÓﬂ”qD1±R∆”P≈5◊7oXÔ¥l¥∂îµ(ºﬁ†uK"¯“mê·ê.áÁ§~◊±]'ﬁ–›ærË‰ê'ß^x∂pﬁb√‚Ç™˙í2*âªñ≥·ñù#¨ÜòÅ«^5B>A#Í#a≤¡¡©rH6P ÅüÅxRó$åÄçÎ§j˛îghËlWC—OVÍˆ¶›rúÁı›˚ößó˙∑f‰UZäü∑t‹<∞˚®«à	ÕLá˙ø&B4T_ÇËÅ{Îˇízÿ†ën˛˛ùûœuÔìÏ1iÙ1„ÏÕÜ…5%ÄenÈÇ;∫ Q”+ùÅD^3≤D)c8<;¡xvE:u&@´ÈÖDN3åâ „1ÖÖÿŒ®rö! vıw–“=Ãëˇ	ÓÚ`t2oæˆ˙Ÿ>˝Â.ÎÀÀIÈÀ]=ÉFúıÉäPiêsB@	ÅY£ö_„ÿ“d8jˆ≥@ÀLËH…∑≥8–q.Å	Mê	”a∆B¨Ê©tH⁄√˜m≥Å3ı∏°Û»q‘Û¡¬ø{1÷?7£ÿlŸd¸¸ï˝¿?‘ü?a+76söØq:û‡où;yxœØ6lÙ$ŒY≤ÌN«§$RÑ“Á§>a±ÎJEW¨ÚŸ}CØ]m˚Ó"h˙æ_®&ºÂ€˛P2sA‹	©®#]©Öô‰Æ#g™fD2¬8ˆ»Õ”£:P≈†£ÊDP~r≥AÛœä¶π§ÎtËˇ(Lﬂ√‘w»êßuî1hFVÇÜ/k¨\W⁄–~ı“õó;èW4c≠xöœÆ©]#Vúº˝~g[◊ıc%Îˇ.Åû(e%â¥A,Q(»$äô4__ÜL~ıﬁ6ú
+Ûı`ÎÅ•ê{êyÄ!ˆÀdå!ﬁT—ßÌÏ0ŒnŸÜ!)zã˝d∑Ò ßyJ('¯lkÂÛ;Ôù8Íy¸`hˇBã¡€ªn(u√r7˝i¯¸»C:&c:…¯£˜ÎïåúÍõk.iÑ¥Û˜∞ó7!Çã¡Ÿb‚48’}Bc@#Y‹Ù¯s!ÿ:^Ã`ãáΩùøúmÜÅV∂&vòÕ>Ñ´åÍæá(=ﬂ´6L	æÈ∞çl”‰&…÷å›
+ÅoYà ≈-≤«‘(kœﬁk‘H›Øu¸tcπüaæ?cI∆m<!Ã‡Œ›h…Œz¶E4‚/O¿&≤¯Û∑w•¶•∑Uw])≠Öt',íKù–ƒó9,πÒzS˙0©ôÚ›ÄΩs≥®¯∞ÑôV°rCÙ∏√»øâà€!Üà_ 3Gˇˆ‰∫Q5ÍÅ0iD—É∞N√b˘`úa·‹G∞å¨£È_DWkTW›M4¥BßG3É›Q2<E—!Äû††àÄÉòc|cT¿]¡(J$ö(Dà ¡%‡[@EE£≥ ¢Æ&q›∏uŸjœŸ…û¸õÓ{˚÷W∑æ˙Í|pøä˘<D¢ß|èüÔ|Iæ'%†∑«ãªã@•ç§˛0ƒ¶É uËŸIP5zŸEÃÎ¢Ög0D+„≈∫⁄ZBíÈL—¬uÌ§™Ø ú^>Ä!¯Ä≤≤gA1ÜÀ¢˘cÄpu:B[~OÈDo,kìkóö¿cç∏Ÿì≤èìûa,;“Ω˘ßª™î
+s∆V"¸HA:·æ>hIå3¿£\ËÓˆ˘§ƒ
+ïBñ&“¶ílI°"tΩf}oF`	5n	F≤H⁄RäM4:˙Å5l∞nï@Øsã¿Öµír˚–˜_ìÄ w|ïUcÑV $f:FY¿ã£ä¿ì5eøæ∂Kû¯-kÍ;Í˚é&÷∞8÷ıﬁ∑_*‡ m-æ√÷rXJH&ÚEÖ,¥‡ôÓZ&Ü≥
+n*Eö°» >ˇ?º	∞Ã∫^Îf-L¿-,å√P:a¶âØs"å…/6<lÍ©1!Ø&cÙ√»Élê!
+¶¡xwXÄ€±ƒÑÛqîaüÀøí‡PI[‹mèqJâ`ú"∂“uÊ¿ XzB≈ñ7Ç\bÅ3LÇ—«q*Ü¢^éoÓ)tÛç_A/Ïy¬5'´ÅÓië±ûJﬁÔÈzœ]êK“JSÏÎöﬁˇŸ y8úIóQoLƒdúo„XX~≠~˜¡6•Î˝ùÕ∑◊Ÿ¯cËˇs=ù£?∆Q$-Éì¡·•Ú∫≈ã	ÏtRW+Î∑¸	6ílä≈$5‹Õ é„ñ,\9LADM º±—˜ì¸w›y±5Tñ™ÕqÇΩ’
+{0ª+_âÙÈ@O#Fªz—î¯|\•ﬁ^√]Z◊ö7À0’º|fH°≥)
+FsA◊ÓLÖ±F∞@ˇ'$€!-8eøj.ÂbøX∫ª÷P]]≠Î‹ÇÑS}c°çBA<DÍÿ	jj∂zTaä÷ë¨MüÁÄ;ªûmsë≤ŸdÂµ…Í^"¥>xâ≈|r˘#Ö•b§#‡Lx'ÄÜ_<)^?àPƒ∫>ı˙Xøò £õVàÓ¨ê£ﬂêoU¿(*ìÀõ∂Îâ≈1¶ã√4\H∫≤ê√y<|ä]∏_ì8∞dèˆ¿d‹√YØ›˙=ÜÈz≠fÛTîu$íÎ8§ùª5ªâì˜±ÄdÖÖë§∞ﬂŸeçÙ˛+hF-ä£∂xJIKÇh…Œ„T¡h˜ÁN4e«¬i	+◊Ø.€∏´— ÁpB„>‰á¶††Ä/Ì*ﬂÚeÌecÀfÀJ5]@·ìÈkÊÁ⁄Gdômòx:˙ﬂ™˚kÂﬂiIäêõÂÂBËÏ±©π5ªÀwTúŸ•ày¿ˇ~;0g;uíÑdÄóî€Ÿ«üaÕ§:ãˆùôˇ£ÃÁ	êB<EG”b˙Á•BÆ Zå<˚/Ë‡‚ªº˚‡–Rw˘Ò®KQƒë´@ÑvËgSM&îyCåºhÕRK¨qÙíüØ\˙ˆQwkUj˙N¯ÀÿáπnO1“¸&Á6aàƒ[ø8Øäô}n–¯ùêM&ŒRH9sYµU<1S¯:€r8Ãà√B»ì˚™“	·™öäœùU§‹$ÁA©|£‚~wœó—pëüÅ›QE¥¨ éËø €◊∂sËÿyX)o¿m2¯c"ŒâA?“ÛÔÓ o<<˝ÏºÇˆ≠‹úú9≥¬å·…MW’≠¬cª˙m.\7^™≥L˚\±íË¯®õ¨Ù/`“¡o,P~‰zP®-ﬁ—¶TÅ=øi˝¨í˘Fˇ®4u‚XS∑&(àô˚/7à›oRÒÖµ÷LhVò§ÊÃ ‰dA˙ærŸ‹!FtÙÛ T©0(ÈŒ’Cﬂî◊®·¬‘Öôqäî>.˜dy¿˘ßqdÂ&‹ogÖm–ÑÂÑ¸1~AyÌ7È˚Í‚Á˜lõlu¨,˚Ù∑È¥ÇÕ`=2Ùß›˝0i=2+CìVFc!l f≥ÔíÍ$””≥;2È´7ˆ&€iEÇ•0=IëV¨ˇlSÅëæ‘∏±‚õ¢r#Ëé4Ä¢≤Ø±ØY˙‚Xkgz=,ˆ∞C;‚µc∂S;ê… Òå2oßƒµ2znJ⁄:èWfÑ)xôVØRŸ•}5ÕÕª>àP∞ânP§ö1'Gòì?ÃLWjßñG˝SgÊ¨V•vwô≈l…p∫J≥Õ|»é“≥˛¬À¯¶°aIÈK3ÈÊQÙ£x>–(\›~Úáã;Á&)¯#µn˝Iª"—ƒ6Éüé=Äù28FëZÜ3«ëås¡5ú·Ωó§—f˝ÚeÛº—˛vﬁõÁzé%°N°2fë˝—¡Õ'^`„‘Ft˛ <§'mîÍ´xzZ,,k¨ i6Ç˙œ√xU∫n@B/ﬂ9≥W≠!„zJ(≈Ω28ú9yˆa)æµ 8=`|¯Ç+˜¨GdÅxËz<lâ?ﬁê>Ë.dî´1JÓç√w-Çtª.u·û˜çËâÓHb˛2l€´À+à:K…ºó≤8mífƒOüuÒÈı™∑Zé∆π*"n}Mï˝÷ô§Œ?JcÇcBÀW{oÔPNïp“aÚ:+
+”“V-ÃÀÀ[Ω∆^Í§ªw5q˙65¥›€*π,M>>e‹ÅëF:j‰∏S3``ñzl◊≤∂r]∫aQ⁄ ƒ¯iáéÃSº∏πµwbAoPNÉ˛…ƒ£ˇ#ΩÏB¢äÇ8é∆Ω«Æ∫.{º≤Îíª/ΩÈ…ö})
+ÖE
+e/)àï-}`BKThXZ¶ª∫ó§MDl˝*¡RR"§"jE"≠2#®¿9zˆ°π∫ÊïTñzº0wŒÃ93ˇ˘ö-óê´î∫[‚€z<É•ß;1¿÷J0@ˇîÕ	wùÜèX§£0≈R‰©çêÜe∫%k2iÑ∑Æ{U2>‰´ª—ê ë§∫®™ºÙºª_j∞P. äÖC8€‰ƒ«IÜTL˜∂8µ¯)(9ñìS÷€ï üx2ˇI∏<∞»á«õnaÒÁcßƒŒ_S´ƒ‚õE;ü±¡2πÈÅ;ÿEù5hq;éÔÆ§WæUÃ‰¶›`xñà+jB[∑ È»‚©ﬂy™Äny6ƒ∞6ìËÿêÏLxöâÅ2¡}¶¶¸b¸πKŒ√	{x¨˚}uùÌñ÷6•]π˚ÿ£ këH•Rs«aá˚û|gd èKPKxÔ8!:Ôºz)™$xúT0πIÙ^YËÎåıÕîEQ„ˆ^Çø‹–w´8ZZg¶ÅËD»;’#Àpôgãπú”ÀA}!À“/´¬>’≥ùêß˘=à–jH—‘øÑ—‘
+ıs≤∆tÅf«æˆ~6ôñ>[j©˛ \º\Qu˘¯I3çpÙÂô3Om?xÕÚF¨ø^€Ì3Skœ–°ßÊÁù/ﬂ÷Xñ¯	Ü§`:˙ﬂåô Î÷d¢ÂìA0˝A«öà‚	Q+#
+çÄ"V%ÛΩb7	?ƒÖ©5é«´≥»%j{&™Âheˆ®∆pQπ°mPºÈË?´7µ1≠wçX®¡,ÍEGàzq"üP˝ØeÒNWÉëΩGqòÄvÓáh√z\êH†òcï'V 2Ò”HtgõŸ∂ÜI/lhllQ\"?‡πŸ–‰b·.8¢ê$∞EÇ‘∂∫ZOT4Ù≈ŒF»ø ê;Œçendstreamendobj35 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[29/greaterequal/fl/fi]/Type/Encoding>>endobj36 0 obj<</Ascent 998/CapHeight 706/CharSet(/greaterequal/fl/fi/space/percent/parenleft/parenright/plus/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon/greater/A/B/C/D/E/F/G/H/I/L/M/N/O/P/Q/R/S/T/U/V/W/X/bracketleft/bracketright/a/b/c/d/e/f/g/h/i/j/k/l/m/\n/o/p/q/r/s/t/u/v/w/x/y/z/endash/registered/mu/Aacute/Iacute/Uacute/aacute/eacute/iacute/ntilde/oacute/uacute/udieresis)/Descent -292/Flags 32/FontBBox[-123 -292 1225 998]/FontFamily(Akzidenz-Grotesk Pro Regular)/FontFile3 42 0 R/FontName/HWTJKT+AkzidenzGroteskPro-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 76/Type/FontDescriptor/XHeight 471>>endobj37 0 obj<</Filter/FlateDecode/Length 630>>stream
+Hâ\‘ﬂé¢0{û¢ó3êûûjbL!Òbˇdù} ÖÍí¨@êπÌ∑üôI÷D˘mœèc”¥8Ï];ôÙÁÿ◊«0ôK€5c∏˜cÃ9\€.Y‰¶iÎÈy7ˇ÷∑”ê§qÚÒqü¬Ì–]˙dΩ6ÈØ¯>çÛ≤m˙sxM“c∆∂ªöóﬂ≈Ò’§«èa¯n°õLf6”ÑK\Ë€i¯~∫ìŒ”ﬁM|ﬁNè∑8Ákƒ˚c&üÔƒ‘}Ó√©„©ªÜdù≈œ∆¨´¯Ÿ$°k˛{æ\r⁄˘Rˇ9ç…z±èÉÛ\›&Ê2Ê,Sçﬂ˜’◊˝*ﬁÁŸ|/1;fÃÀóÃK‰Û<~«ºC.ò±nægﬁ#≥fºƒÃzÒí¨-kY‘≤ÊrŒú#[fã,ÃÇLõÖÕ*≥"{fèL≥ÖŸ“la∂[Ê-2˝~KßÖSËxÑÅGËxÑÅGËxÑÅGËxÑÅGËxÑ}ÙMÿ7AﬂÑô=Ïõ†oé}sËõ£”¡ÈËtp::úéNß£”¡ÈËtp::úéNßc˙„hs∞)Î*Í*Î*Í*Î*Í*Î*Í*ÎŒ{PıπÁêYWQWYWQWŸüyO*ˇ/≈ˇ•Ù(< æÕ˚Xi”Ÿˆ‹„Ëõ>˜7˙ÊŸ7èæy˙=¸û~øßﬂ√ÔÈ˜{˙=¸û~øßﬂ√ÔÈ˜{˙=¸û~ˇ
+sÛlÅı∑tn·‹q˝÷/h+`+¯^ﬁkœuˆXß‰òcJ÷*Q´‰¯„+é©0¶‚{U®[qù
+ÎTÏaº‡ yû8R‚…g>œ´˙c„Q5èÛÖ”©Ì¬Á	:ÙÉâ≥M˛	0 &–?Lendstreamendobj42 0 obj<</Filter/FlateDecode/Length 5769/Subtype/Type1C>>stream
+HâîTkTT◊>ó·Œp`Ü;‡å^Æ®	(æPâ/P|? A•*f`.000xgò‘DMâoÃS´V—"æb%jä"—àä¢∏D‘Z+Ë“H5ıë}«M⁄ﬁ!]]´]˝”Á¨}ŒŸ˚˚æ≥˜Ÿá"ﬁ^Ñ¢®–ìfÕNõSl1y≈”EõC∞ÁÃmÉÖÃ´IÙxÖKΩ)©è∑ƒ©YÙ√o{{7º-¶˚r ´ßîÔ'ùój{„µ›®§'e¶≤)W¶(òÇ(,/0Y´¯…∂¸"—íôÂ‡#áã‚'	¢#Àf5Ûqqìá±V+üË9¥ÛâÇ]ùÇyüîe±Û∂<o∑e8\&Q‡”mπ˘2&ü/⁄2ES./{8≤œ2_,‚mˇF¬ßÿ
+¯\Sügs¢ ˚ò“Ö>◊f∂dE&≥)ﬂ¡;DSû›*+ïw¨Ï<õ»ßwkÁÕÇhqöß¿ªlbé›ÉÔ·˚UˇM‰Dª¿yôñ<A#dèlãUË6≈"©Ÿb7ŸÌBnög◊ChÑﬁaÛ§€dÑnª≠@L˜‹⁄,¸oÊõòk≤ù6?©(_‡G ¯D. Eàíä®˝I!°*2XM∆C»§^$◊ãl'§ÇêÉÑú ‰,!ói"§ôêä‹'‰°÷ ó'H5»?Üƒ™‚‘ã…RbÍER<N Û»Sj ı>µé˙ö˙é∫Euzçˆ2y’+%äGﬁsΩ∑“~t1Ωón£ﬂ*+Kïòf
+ì…\a^©T*Nµ@µZuÀGÎ≥¬ÁºÔt_≥Ô.ﬂZﬂ7=˜HÍ±BÕ™-Í√=ΩzŒÔπM£÷Ã”ÿ55öN? o•_çﬂ?¸ì˝˘w§Tº÷ÍµÒ⁄µu⁄á∫h››oUÅ˚`Yì^ß/‘Ô“YÉÆè^ÜÅõj•óµî<˜ØUlÚñ÷ªt≠WB)÷≥ü”Dâ<~œB|Awmg∫î©›6ƒ†ºVJı¨«BœJÉnîØ≠Ot¬ßı†8SŒk+Æ¬¢FàˆÃ∫Wªâª?õ\Å7~é=∑ú∆*©Ä≈‡ãÉ^AØ*} C∆∑E°_:q∞cã˛Àñ%áoÇw™’⁄t∞©#9¯ W∞∫∫’ˇgòØb®Ûm≤ã™~¢ÄfÙaQ˘h2LÑŸà´áﬁ†/.ªö∆±Ëç	8›Ä)èqCï€Ä!›±ê¯D±’Ωéf¯úÄ≥79@/ÓêôÜ·Ø⁄!Ê y$L¬‡√iûùuBQ ±7⁄Ó∞Ém√(ÅÖËàµC£ÈÍáF'LuÂ¢.?W\äEÍ$≥pERÒØ∏Â˛∆ﬂ\øa∏»hÿ—BAõ”Çá&xÀù@ª®+œûË0§eØSÂNw¢LyÀù»NT‚™üÈV•&µ§M™∏CùÓÄãèß·!ã;!$Ê%åx `)d#-ˆ¡àH|sÚ5uï–°_æ?wpND}ˇÖ@` ßI-wJk†áL≤Û©‹zw‘f„GÁ≠t®2i#çÒ0†k£I›‘
+ç.X’Fµ∂√gO“.}+∂0gù9ZÛ’_Ô5Ω¯—– 6,9∆’$Õ,µ«-≤:Ì!	…∆âÛgˆOäπvÂöÍªÀ74<ª[ì2>|÷‰ô	2H‚sräUQ2G…]wΩnÒñ∂˙{+ˆ©Œ]v£!`Ë´:6_πÃù:Ωı‹óÜéÖu){8]◊ÖÉ˚jÆ~}C”P˚kN„÷‰l,ÿê’±.xÀë-_Ô>†™˛ÚÿŒì∆ã-ñqQì±ÖEõ7Ø
+ÀlŸ≥gsÖQ˜ˆÕÒ‘È®Fı∆|dç.	Òd¢Z§rV^<TH˚!äm	ófLev◊dz,‘c‘Càblypéﬁ¥øYeêı∑¬j›~w¥˜o¡WOt˜ö·"{O©;]_yjΩÒyÕ¥Q8†ücŸ;B€µµ!ë%•9[ã?YŸ+y˜ÖphÑ»ª†®&Ç√bgÀ),É©44›È“)ªÛs‚åh—6¸e‘®j◊Ωñ>ïJY }bàß«…œ>æÔˆôﬂƒÖL™πùﬂhÑ1Ä{®n˙ﬁº‘1áA~M’K‚ 8]'n«Jˆ˚#ÌØ¡´2"e¬¢i£Gœπ|ˇówÒ¯.ı¨YÒL `õÂ«≥GôΩÓ£ºT.w…xÙÎãsq`Ø7 ]`º∑A‰Rp’weeGù]√=ï¸lºi≠⁄∫«±∞€S…'∫Ni¸ù=x˜Ÿ3Ü⁄ï¿bæ3È¯}¶∫,N˜∑999q3MË-7ttÛÀ7?&µîÀ*W¡ 6˜„q®CU—’ÍõïMØÃOÁt/Ò∞¸Ωù9pòõmÀ#¬F-ü3{‰˛NY~IÑ›ÖÛ∑©∫8˛É‚¶\¡Ë]óÜÉøÒﬁπä3«BöüñBØ»àñ{eFœE∂uD@PÁÈïÂ\B·∞%Kπlãi˝
+„ƒÏ?6|˚`õ`ö–wÚ¥ìùıø Áuc¢‰O≈››πp‘¡.Íç‹ø&©'ﬁaËÕ<Ôí≠ı≤Nò‚Öéª@Ô¢~í]”$º¬–ã¡Ωﬁ®®fÆ]∞"Ö˚Vy‡⁄Á◊n.1ög«ù“9%ΩÅ2ˆ”%¿*z#‚º.y–ëåÊw2Ωıé4‘Eπ5z‹Ê^@á+qÔœË ;`•aØ≤≠t(úb1S)7˝?y¨“®(Æ,l”Tï[:G Í(≠U*»ÆF\i¿eDîÿ#∆hâ€àÉ ÊÄJÉàd4f\P…DG5
+nm¢®,¢∂M”–@+ãh4fr´ΩEŒ<0gN˝®wÍ|Ô÷˜Ó˚Ó˝ÓUJqW€
+πFàiµ{jÅﬂ_Õ’œÌc}™Ñ^∫∆ñ¡tæ‡RƒaÅÎä/›o∞á·ì´ùxÏ¢-xùÉÿŒtûY≥ÃeNf®Ä_`3πêŒ∞øôÔFÕ∆!>;åKkÕOd◊ﬁ ≠£·(á…N!h£¬I(ÔÖ50Ô9åÄY0Ê±∑œ	°∑ò’Í	-Ë£¬dãÓ∏a,∫¡FHz3Å.F≠I,kï˙ƒè^»V◊ØÅBä`!y2Q	#–O¿/f”0≥á·Tœw@'’¥"Ik"…ÑVYÛ3πÿ§4Iê}&ÏÉqB´¥≠_√(fëLöM›&3Ù»≈R´◊&Eˆkz¿&ÏÄhF°i¶êÿ÷'v◊ﬂä˘&ˆö5M)√»Õbà√“jT¢
+Ì,‰úì[¿	É‹·˛o˛Â	
+f˘„§ÀH©0
+g‡D¸7¡DtÖı‡“˙∏‚î¿¶ª0ä◊ÑÜæt©≤ÊnqtØ‹*(≠‘I£A7µ_”zr˝˙˜ña’§ Ù aˆ d‡⁄6´M™¨ûœS∂aØ’f ¿W}µf*LêÙ'Í)TÙk∫Ë£YbïñáøKF™ëÜ$—Bi3§G[Ì∆?∑'€f3_Hµºd'VSû˝}hßx[ÀãIè©Åƒ4âΩÏ∆±‡ç‹∫ê('Ä;∆b0˙£--
+…Ä1B‡pD¡<^˙o6Œ¿ñ¬Újt%π˚ÂS»kÜ0∞òWÏ&ô∏Ÿ9-2˝s¯Ω[Æº˜Áp≤ò¢õó ÓƒÒÓF“âs`+”p+∆k÷_◊ÕÈ§X˝Ì*ã^≥W¨ïˇ!f‹CU6˝Î^á=ÏDG:P⁄`8Ü`6Ã *äÏ™;~´ëg∑Ç≠%uã„8p|Óãö—?ÊŸ+8!Äh+?	Ü är¬R◊˘ô°˛Ëñ['+qTQ¿=ﬂ—nì¶‘†ä'£í¶t∞òÜ®£§‚á‰C"ÛÏ∆*∑IﬁÇ¢ú§∞´Qˆ∏ﬁºñüáno¸7=aC?mzë{\#k   ÖünTó⁄√4t>Sƒ#˜•.+©∑ÔË)y 3è°Õ:æ∑0≥Ó´K*«^^¯Õ"’&Ô=ÅB‘∆-´#Ïq∏e%ÃàÂk2(}˙ùdÚá%á„ lòVöÀîÄ’÷$É$"†V[Œ$ö˚m{¨∂å‚nö—JZúæ^ıﬁÖî ‡òvîë
+7√á0ö„=§UåÛ⁄È§éG≠my¡ãE“{â≤≈ôFç‘ÅK≈ ôÜØIõÍ¶‚¯˜àwô·F„…Ña¢âöFc Y™…“ÖÜxÓ°!H4Aòd¢∫Ë}~£ƒlëÜ8∞P(ß—˜„ÿO°-[–ÇôMÅåÜ`∏ !xÅå∑o—± ZQeWoTC(˚ˆ°#W≈∞fkÕ>|[Ö°L£¯:ÿª„™6≤fXá‹ª©∫å!†~5;ÑÿËåAÕ+S†<√ÓŸùÓÑ#´ÅWpñÛœY∫À+„”c◊l ˛ÏK{Ô∫=œØÍJéÒy€∆o ŒŒ<¸Ω∂@ıÌ°º¢·√ÜÌŸô≥'Kµ1˜T© ﬁL€ÆkAe¸ÒË»}	*To«1…Bkµü©:w¶Ómû◊Z>/ê[œ∞è¥œCœû≠¯Ò»wÖ¸˘ˆ<_8Tú^Ø—Å‘õSÌjçPif”kK»xèaØ%ª∫˙π
+ú¿ÙËBEËí-ü¨@«Ïë‚8⁄/‘Íóë⁄uˇKÙ§7¸“¬+“Ôã£Ó» ;Â¢pÛwn\>]Âi 1]mxTpPË,¢Í3Cü·$z¯!Eù£Ÿë‘˘êŒ´0˛§@x=é¯¨Éº €·äëM≥IãQ„uÊ‘∂Î≥TÓ82Cˆ:5Oæ˚rei	œ¶/e
+dpñãœ`àÂÁ˘nËËµÈò^2±§ﬂÖÖw`Ú}âX“!áQê»¡ªoirÂ‘CGWTa Ü C¡Û2ÿù9¿{†>œäÚR!µÆØQ»Ø·ûÏøÙ»¨2˛‰+ªËö⁄ﬁ5©2ãAj1ñX∞Æ¯¯≈√%ªr˜Ú’ÃæÕ)yY™¥Ä‹ê-Bfº6>ƒ˛oæ¡…’ ∫ZÍE0¶’.ˇÚ∞ﬁ^ﬁ`w—4á§ÈP+{IÃ&°ºBhˆÙÕ5ëß¬UËâ§yæú#À™ˇ—tK¯òÒå”8Ûl“‹ÁöÑÈ4~p†g»T Y,‘P¿MéÚr‰ŸKéü~Å·µ˜Z⁄Ôá‡AAhœ|Dr+´3¬W-rqçÓ0Õâo–!&bW¯
+Œ©â Éπ®Ω|¨å◊˝p´àÍ«Û©Qﬂ	E…y	âˆ¯=q/&6äReü ¡I|«u˘McûJÔ81÷Oä@`tä5|RK“„ Zπnﬂ©å'qæ“uzÉ6Ì´|÷ˆm⁄’éÏº¸≠¬Bf˜ë#πGT≈ÁÚKO
+'NiœúµW†ﬂˇTK»∆)1 ¿¬Êòp\MâÅﬁ˝öR∑ÔÇ/¶PÉ‘çOO~Jd3w–‚àäSıÛRç©v5ˇ#ΩÃÉö∏£8nƒ›Eäà˘uë≤3ª£•±ﬁ*¢0 "£êÒäZA1≈4TPp$∂xp‘E‚ÅGµ*ﬁÄÜƒ0Z!´8xTmu∞ı-˝ÖiÅ(≠µ3jgˇ»Œ‰Ì{øﬂ˚Ωﬂ˜}!ODòë°u¶ËòÔ◊_vêœKYt(ÑÛíMçã“Ú“ÛR∂ŸY<w”j.d~ÃºHUÍ|-Kn¬~FõΩ]ì«#√±¸˚ér≈’©É\mÇB¶<˚ªÚGÂâÌÁ˜ü‡¥íGÿ¿XÛ=∏:¯¶TwTftBú„ï$Ê—á˘™à	Á5W∂X)†„XÀí[P∆‹©:•øpvπèØÍPÈƒÓ:…ë{p¨…Ó§∞ÿÛ◊·‡
+“ﬂö`Ÿ0¡∑Æ8<˚˚˜2ÿ“l¬M/ÀxaßŸæ_`È*ê^‰I•ÕW¿¢:≠Î®5AÂmÙ¥ñ‘X€dâ7ÁÄne5„ŒBË"†FòÄô˙˛cÇe1qÆŒÏ›ØLs	bwùÂﬂopXÌK´◊p»k°ÕÍ’∫¿FÇkÒJ∂uäW ÉÕ≥º4Àπ~ÿ>O«cûåáÍ™¬s«\Œhƒè¬=÷Æô∏>÷ﬁ#◊Œπ;bæF2∆7h¨¢Ñå÷eZ”≤ú9ô]†)‚/Áü—^‚r∑lXü+†CMÃTyÇ*QHT%'©ˆ»ÿDP⁄CU#ˆ¨ëTö!˘éù∞É∑üÛÖtª[uøibÈù¬º-îAD˛Q∑“}µ◊*¢„∂Ú9ÍÏ‘ÏÑ¶\◊ı€3JKÏÀ¶üÓ«yz»›É*Ê/úL£éß_HùÊ6) %222GÀ'Ï…,÷ímNø
+-z2úJíK<=?—ÉEèÓÍiÙ‹<∆`ü†z‹HOﬂ∂‘ƒ£G⁄√õ≥7z&}ebfáû«ßn+úRnFXK]Zkï	%ä2q…8ºñâÃZòM»bvtpF7+~œéTAΩ;k◊7ÿÈç/27.ÿ%ÁCﬁ»,‡Æ\-;{@@â˛$aÌ7G"é')Ccg‹Ü{A5öR…‘u⁄äíVÉ÷Öƒ`ç{‚l-T çÌ…´yI√hbK∞èÅ@·TÈh*õ„ﬁ.∏/§C_PQCÈÿs xí¶V·œq:uü˛ºüao“Q√pÚè≠J	<&°p/ãv(+ä[ñ+C)ÔIâsπ¯’õ6•˛LZŸÓ˘‹O{èº<,ÄL<Oæè “C≥Q"~‚¢«˚(Üü)~:÷3∏7SA÷S∑ ±>}8—(m6Åo)∆ˇí%Ï€Æ“®Ò=t˙ïk/#—y©∑áŸd˚ºØÊ«B^ΩD<ylΩe≥„4œT@ÑaæBßï“¶[ı-dhcÿ6ø€LI§dÒ%e´Nq5vWïöˆÕﬁÑÛ‹∂‹ç9;≥6y›Ü4.nMﬁ9ûç≈KøÃ∏‰•Dù¬£‚√π≈1≈I¬™=Î o∫Åö»‡‚ÃÚßJX§lT¬ößÂ›!òdÑ˛u0˛†]kXX√#aûÅÁPÜeÑU…/ÃÜpC`!ïÃbræÓÿOƒ}»Èíß/∏C ôex2√Ûñ˘†b-3åzûyLÊ–˙3òIÈK+ån˜e∏+<ï=C◊ï(e≤X≈da›9ß˛Æ g•›}◊qπ>ÉÀl?zv¶™ÈWcOá√cTÛz¯AC`‡®”≤ÉW;€°’æ;µge⁄ÈÏüîwIÓJÍÖ™ﬂçıÜ™ﬂÄΩ ı—ûF˝v‹CtóLq;í^Ä›©£Ùk ÍXk;°ˇãêÎ±wg&<lèah ß·Ó“qIŸ÷Aùñ∂.y∫.Í`î—÷+ã˛≥W^|[ØDˆ+Z{≤k2H€Í∂Ï´˝·‹ó™–ÎÑ”¥FS¥áGŒ⁄S—«∏ö≠óéÁ∂æ⁄±˘ˆÊäj?∞ªíùdàÅù;±…x«û;¥\˛¶ñøáñÀ˝‰™˙{ÆlÓ∑˜±˜@“oB—oÜ(}è—$ÑÀ^Ò0€2Ãù¡óñÓå”ì,≥xÉ®¸#xH4Œ"5òY2s±x5úÂÿë5[‰ﬁåSR°≥¶‰Ó*§qrÆˆ-DÊ2¸Œ¿\µ‰O«Ó◊ÃÈ5[Õy9é=ƒ¬è[ÌŸø zèø˚endstreamendobj21 0 obj<</Length 16616>>stream
+q
+/GS0 gs
+0 TL/Fm0 Do
+Q
+BT
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+8.5 0 0 8.5 580.0446 27.545 Tm
+(2)Tj
+ET
+27 765 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 753.5 Tm
+[(6. M)-42 (E)-42 (D)-41.9 (I)-42 (D)20 (AS ANTE U)-41.9 (NA E)-42 (M)-42 (I)-42 (S)-41.9 (I)-21 (\323N A)20 (CCI)-42 (D)-42 (E)-41.9 (NT)103 (AL)]TJ
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+-0.001 Tc 0.244 Tw 8.82 0 0 9 27 734.86 Tm
+[(Limpie los derrames de inmediato siguiendo las precauciones de la)-1 ( )]TJ
+0.076 Tw 0 -1.111 Td
+[(Secci\363n )0.5 (8 )0.5 (de )0.5 (est)-21 (a hoja )0.5 (de )0.5 (datos )0.5 (de )0.5 (seguridad )0.5 (\(S)-21 (D)-21 (S\). )0.5 (A\355sle )0.5 (el )0.5 (\341rea )0.5 (de)-1 ( )]TJ
+0 Tw 0 -1.111 Td
+[(peligro e impida el ingreso de personal inneces)-20.9 (ario y sin protecci\363n.)]TJ
+/T1_1 1 Tf
+0.151 Tw 0 -1.359 Td
+(Limpieza de derrames:  )Tj
+/T1_0 1 Tf
+0.14 Tw [(Prevenga la penetraci\363n del material en el)-1 ( )]TJ
+-0.009 Tw 0 -1.111 Td
+[(suelo, el agua super\037cial y subterr\341nea. Absorba el derrame con ma\terial)-1 ( )]TJ
+0.129 Tw 0 -1.111 Td
+[(inerte \(como arena seca, arcilla o tierra\) y depos\355telo en un recip\iente)-1 ( )]TJ
+0.039 Tw 0 -1.111 Td
+[(adecuado para su eliminaci\363n. Lave el \341rea con agua y jab\363n. Re\coja el)-1 ( )]TJ
+0.022 Tw 0 -1.111 Td
+[(l\355quido del lavado con un material absorbente adecuado y depos\355tel\o en)-1 ( )]TJ
+0.084 Tw 0 -1.111 Td
+[(un recipiente para su eliminaci\363n. Detenga o reduzca la cont)-21 (aminaci\363n)-1 ( )]TJ
+0 Tw 0 -1.111 Td
+[(de todo tipo de agua. A\355sle el agua cont)-21 (aminada.)]TJ
+ET
+27 629.988 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+0 Tc 10 0 0 10 31 618.488 Tm
+[(7)124 (. MAN)-42 (E)-21 (J)-21 (O Y ALMA)20.1 (CE)-42 (NAM)-41.9 (I)-42 (E)-42 (NT)20 (O)]TJ
+0 0 0 1 k
+/GS1 gs
+-0.001 Tc 0.001 Tw 8.82 0 0 9 27 601.288 Tm
+(Manejo: )Tj
+/T1_0 1 Tf
+0 Tc 0.055 Tw 8.91 0 0 9 64.3898 601.288 Tm
+(Evite respirar el vapor o la niebla del roc\355o de este producto. )Tj
+0.065 Tw -4.196 -1.111 Td
+(Manipule y abra el recipiente de manera que se evite el derrame. Si el )Tj
+0.045 Tw 0 -1.111 Td
+[(recipiente tiene fugas, invi\351rt)-21 (alo para evit)-21 (arlas. L\341vese las manos antes )]TJ
+0 Tw 0 -1.111 Td
+[(de comer)41 (, beber)41 (, masticar c)20 (hicle, us)-21 (ar t)-21 (abaco o ir al ba\361o.)]TJ
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 8.82 0 0 9 27 558.264 Tm
+[(A)20 (lmacenamiento: )]TJ
+/T1_0 1 Tf
+0 Tc -0.048 Tw 8.91 0 0 9 103.1872 558.264 Tm
+[( Almac\351nelo en un lugar fresco y seco de t)-21 (al manera )]TJ
+-0.027 Tw -8.551 -1.111 Td
+[(que se evite la cont)-21 (aminaci\363n cruzada con otros pesticidas, fertilizantes, )]TJ
+0.174 Tw 0 -1.111 Td
+(alimentos y piensos. Almac\351nelo en el recipiente original y fuera del\ )Tj
+0 Tw 0 -1.111 Td
+(alcance de los ni\361os, preferiblemente en un lugar cerrado bajo llave.\)Tj
+ET
+27 515.624 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+9 0 0 10 31 504.124 Tm
+[(8. CONTR)-21 (OLE)-41.9 (S D)-42 (E E)-21 (X)-21 (P)-20.9 (OS)-42 (I)-21 (CI)-21 (\323N)-41.9 (/)-42 (PR)-21 (O)20 (TE)-21 (CCI)-21 (\323N PE)-41.9 (R)-42 (S)-21 (ONAL)]TJ
+0 0 0 1 k
+/GS1 gs
+0.17 Tw 8.91 0 0 9 27 486.924 Tm
+(Controles de ingenier\355a: )Tj
+/T1_0 1 Tf
+0.158 Tw [(Las )0.5 (plant)-21 (as )0.5 (donde )0.5 (se )0.5 (almacene )0.5 (o utilice )]TJ
+-0.041 Tw 0 -1.111 Td
+[(este material deben est)-21 (ar equipadas con una est)-21 (aci\363n de lavado de ojos )]TJ
+0 Tw 0 -1.111 Td
+(y una regadera de seguridad.)Tj
+/T1_1 1 Tf
+0.183 Tw 0 -1.447 Td
+(Ropa protectora: )Tj
+/T1_0 1 Tf
+0.17 Tw [( Los aplicadores y otros operadores deben us)-21 (ar )]TJ
+0.295 Tw 0 -1.111 Td
+[(camis)-21 (a de manga larga y pant)-21 (alones largos, calcetines, zapatos y )]TJ
+0.035 Tw 0 -1.111 Td
+[(guantes resistentes a productos qu\355micos hec)20 (hos de cauc)20 (ho de nitrilo, )]TJ
+0.259 Tw 0 -1.111 Td
+[(cauc)20 (ho de neopreno, barrera laminar)41 (, cloruro de polivinilo o V)41 (iton)]TJ
+0 Tw 5.1945 0 0 5.247 292.6366 426.897 Tm
+(\256)Tj
+8.91 0 0 9 297 423.9 Tm
+( )Tj
+8.91 0 0 9 297 423.9 Tm
+( )Tj
+8.91 0 0 9 27 413.9 Tm
+[(de \035 14 milipulgadas [0.3)-21 (6 mm] de espesor en todos los casos.)]TJ
+/T1_1 1 Tf
+0 -1.447 Td
+(General:)Tj
+/T1_0 1 Tf
+0.257 Tw ( Si el pesticida se introduce dentro de la ropa, qu\355tesela )Tj
+0.533 Tw 0 -1.111 Td
+[(inmediat)-21 (amente. Luego, l\341vese minucios)-20.9 (amente y p\363ngase ropa )]TJ
+0.389 Tw 0 -1.111 Td
+[(limpia. )0.6 (Qu\355tese )0.6 (el )0.5 (equipo )0.5 (de )0.6 (protecci\363n )0.6 (personal )0.6 (inmediat)-21 (amente )]TJ
+0.211 Tw 0 -1.111 Td
+(despu\351s de manejar este producto. Lave el exterior de los guantes )Tj
+0.184 Tw 0 -1.111 Td
+[(antes de quit)-21 (\341rselos. L\341vese minucios)-20.9 (amente y p\363ngase ropa limpia )]TJ
+0.097 Tw 0 -1.111 Td
+(lo antes posible. Siga las instrucciones del fabricante para la limpieza\ )Tj
+0.165 Tw 0 -1.111 Td
+(y el mantenimiento del equipo de protecci\363n personal. Si no existen )Tj
+0.036 Tw 0 -1.111 Td
+(instrucciones para la ropa lavable, lave con detergente y agua caliente.\ )Tj
+0.103 Tw 0 -1.111 Td
+(Lave el equipo de protecci\363n personal aparte y mant\351ngalo separado\ )Tj
+0 Tw 0 -1.2 Td
+(de otras prendas. )Tj
+ET
+27 297.436 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 285.936 Tm
+[(9. PR)-21 (OPI)-41.9 (E)-42 (D)20 (AD)-42 (E)-42 (S F\315S)-41.9 (I)-21 (C)41 (AS Y QU\315M)-41.9 (I)-21 (C)41 (AS)]TJ
+0 0 0 1 k
+/GS1 gs
+8.82 0 0 9 27 267.936 Tm
+[(A)20 (pariencia:)]TJ
+/T1_0 1 Tf
+8.91 0 0 9 74.936 267.936 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+11.679 0 Td
+(l\355quido color caf\351 claro)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 255.696 Tm
+(Olor:)Tj
+/T1_0 1 Tf
+8.91 0 0 9 47.9561 255.696 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+14.708 0 Td
+(levemente amargo )Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 243.456 Tm
+[(P)20 (unto de fusi\363n/Congelamiento:)]TJ
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 165.86 243.456 Tm
+( )Tj
+EMC 
+1.475 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 231.216 Tm
+[(P)20 (unto de ebullici\363n/)]TJ
+8.82 0 0 9 113.902 231.216 Tm
+( )Tj
+8.82 0 0 9 27 220.416 Tm
+(Rango de ebullici\363n:)Tj
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 114.6253 220.416 Tm
+( )Tj
+EMC 
+7.225 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 208.176 Tm
+(In\037amabilidad:)Tj
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 90.5824 208.176 Tm
+( )Tj
+EMC 
+9.923 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 195.936 Tm
+(L\355mites de in\037amabilidad)Tj
+8.82 0 0 9 134.1349 195.936 Tm
+( )Tj
+8.82 0 0 9 27 185.136 Tm
+(\(superior/inferior\):)Tj
+/T1_0 1 Tf
+8.91 0 0 9 105.6821 185.136 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+8.229 0 Td
+(no disponibles)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 172.896 Tm
+[(P)20 (unto de in\037amaci\363n:)]TJ
+/T1_0 1 Tf
+8.91 0 0 9 120.3318 172.896 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+6.585 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 160.656 Tm
+[(T)82 (emperatura de autoignici\363n:)]TJ
+/T1_0 1 Tf
+8.91 0 0 9 151.369 160.656 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+3.101 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 148.416 Tm
+[(T)82 (emperatura de descomposici\363n:)]TJ
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 167.7037 148.416 Tm
+( )Tj
+EMC 
+1.268 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 136.176 Tm
+(pH:)Tj
+/T1_0 1 Tf
+8.91 0 0 9 41.5175 136.176 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+15.43 0 Td
+[(7)145 (.18)]TJ
+/T1_1 1 Tf
+8.82 0 0 9 27 123.936 Tm
+[(V)20 (iscosidad cinem\341tica:)]TJ
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 124.6976 123.936 Tm
+( )Tj
+EMC 
+6.095 0 Td
+(\036uido no newtoniano)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 111.696 Tm
+(Solubilidad:)Tj
+/T1_0 1 Tf
+8.91 0 0 9 78.0934 111.696 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+11.325 0 Td
+(soluble en agua)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 99.456 Tm
+(Coe\036ciente de fragmentaci\363n:)Tj
+/T1_0 1 Tf
+8.91 0 0 9 155.5054 99.456 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+2.637 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 27 87.216 Tm
+[(P)20 (resi\363n de vapor:)]TJ
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0009>>> BDC 
+8.91 0 0 9 101.2459 87.216 Tm
+( )Tj
+EMC 
+8.727 0 Td
+(no disponible)Tj
+/T1_1 1 Tf
+8.82 0 0 9 315 758.25 Tm
+(Densidad:)Tj
+/T1_0 1 Tf
+8.91 0 0 9 357.4411 758.25 Tm
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+8.1 0 0 9 467 758.25 Tm
+(9.85-9.95 lb/gal \(1.18-1.19 g/ml\))Tj
+/T1_1 1 Tf
+8.82 0 0 9 315 746.01 Tm
+(Densidad relativa del vapor:)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+/T1_0 1 Tf
+8.91 0 0 9 467 746.01 Tm
+(no disponible )Tj
+/T1_1 1 Tf
+8.82 0 0 9 315 733.77 Tm
+(Caracter\355sticas de las part\355culas:)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+/T1_0 1 Tf
+8.91 0 0 9 467 733.77 Tm
+(no disponibles)Tj
+ET
+315 719.69 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 708.19 Tm
+[(1)31 (0. E)-42 (ST)103 (AB)-41.9 (I)-42 (LI)-42 (D)20 (AD Y R)-41.9 (EA)20 (C)19.9 (TIVI)-41.9 (D)20 (AD)]TJ
+0 0 0 1 k
+/GS1 gs
+-0.015 Tw 8.64 0 0 9 315 689.55 Tm
+[(CON)-42 (D)-41.9 (I)-21 (CI)-21 (ON)-42 (E)-42 (S A EVIT)103 (AR: )]TJ
+/T1_0 1 Tf
+-0.014 Tw [(T)103 (emperaturas extremas y la luz solar direct)-21 (a)]TJ
+0 Tw 8.91 0 0 9 582.9597 689.55 Tm
+(.)Tj
+/T1_1 1 Tf
+0.604 Tw -30.074 -1.447 Td
+[(E)-42 (ST)103 (AB)-41.9 (I)-42 (LI)-42 (D)20 (AD QU\315M)-42 (I)-21 (C)41 (A: )]TJ
+/T1_0 1 Tf
+0.56 Tw [(Est)-21 (able bajo todas las condiciones )]TJ
+0 Tw 0 -1.111 Td
+(normales de uso y almacenamiento.)Tj
+/T1_1 1 Tf
+0.228 Tw 0 -1.447 Td
+[(PR)-21 (OD)-41.9 (U)-21 (C)20 (T)20 (OS D)-42 (E D)-42 (E)-42 (S)-21 (COM)-42 (P)-21 (OS)-42 (I)-21 (CI)-21 (\323N PE)-42 (LI)-20.9 (G)-42 (R)-21 (OS)-21 (OS: )]TJ
+/T1_0 1 Tf
+0 Tw (Ninguno )Tj
+0 -1.111 Td
+(cuando se almacena y manipula seg\372n lo prescrito.)Tj
+/T1_1 1 Tf
+0.795 Tw 0 -1.447 Td
+[(I)-42 (N)-21 (COM)-42 (P)62 (A)82 (TI)-42 (B)-42 (I)-42 (LI)-41.9 (D)20 (AD CON O)20 (TR)-21 (OS MA)82 (TE)-42 (R)-41.9 (IALE)-42 (S: )]TJ
+/T1_0 1 Tf
+0 Tw (Agentes )Tj
+0 -1.111 Td
+[(o)20 (xidantes.)]TJ
+/T1_1 1 Tf
+0 -1.447 Td
+[(P)-21 (OLI)-41.9 (M)-42 (E)-42 (R)-42 (I)-42 (ZA)20 (CI)-21 (\323N: )]TJ
+/T1_0 1 Tf
+(No ocurrir\341.)Tj
+ET
+315 594.814 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 583.314 Tm
+[(1)98 (1. I)-42 (N)-41.9 (F)-21 (OR)-42 (MA)20 (CI)-21 (\323N T)20 (O)41 (X)-21 (I)-21 (COL)20 (\323G)-41.9 (I)-21 (C)41 (A)]TJ
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+0.368 Tw 8.73 0 0 9 315 566.114 Tm
+[(No hay informaci\363n to)20 (xicol\363gica disponible para este producto. La )]TJ
+0.269 Tw 0 -1.111 Td
+[(informaci\363n proporcionada se bas)-21 (a en una formulaci\363n de producto )]TJ
+0 Tw 0 -1.111 Td
+[(sust)-21 (ancialmente similar)41 (.)]TJ
+/T1_1 1 Tf
+9 0 0 9 315 533.81 Tm
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD ORAL \(LD)]TJ
+0.021 Tc -0.021 Tw 5.247 0 0 5.247 410.0569 532.813 Tm
+(50)Tj
+0 Tc 0 Tw 9 0 0 9 416.0646 533.81 Tm
+( para ratas\): )Tj
+/T1_0 1 Tf
+[( 4,9)-21 (6)-21 (0 mg/kg )]TJ
+/T1_1 1 Tf
+-11.229 -1.367 Td
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD D\311)-41.9 (R)-42 (M)-42 (I)-21 (C)41 (A \(LD)]TJ
+0.021 Tc -0.021 Tw 5.247 0 0 5.247 428.7675 520.509 Tm
+(50)Tj
+0 Tc 0 Tw 9 0 0 9 434.7753 521.506 Tm
+( para ratas\): )Tj
+/T1_0 1 Tf
+[( > 5,05)-21 (0 mg/kg)]TJ
+/T1_1 1 Tf
+0.395 Tw -13.308 -1.367 Td
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD P)-21 (OR I)-41.9 (N)-42 (HALA)20 (CI)-21 (\323N \(L)20.1 (C)]TJ
+0.021 Tc -0.021 Tw 5.247 0 0 5.247 475.3931 508.205 Tm
+(50)Tj
+0 Tc 0.395 Tw 9 0 0 9 481.4009 509.202 Tm
+( para ratas\): )Tj
+/T1_0 1 Tf
+0.367 Tw [(2.1 )0.6 (mg/)-42 (L)]TJ
+0 Tw ( )Tj
+-18.489 -1.111 Td
+(\(4 horas\))Tj
+/T1_1 1 Tf
+0 -1.367 Td
+[(I)-42 (R)-42 (R)-42 (IT)103.1 (A)20 (CI)-21 (\323N E)-42 (N L)20 (OS O)20.1 (J)-21 (OS: )]TJ
+/T1_0 1 Tf
+[( Irrit)-20.9 (aci\363n m\355nima )]TJ
+/T1_1 1 Tf
+0 -1.367 Td
+[(I)-42 (R)-42 (R)-42 (IT)103.1 (A)20 (CI)-21 (\323N E)-42 (N LA PI)-41.9 (E)-42 (L: )]TJ
+/T1_0 1 Tf
+[( No irrit)-20.9 (ante)]TJ
+/T1_1 1 Tf
+-0.022 Tw -0 -1.367 Td
+[(S)-42 (E)-42 (N)-42 (S)-41.9 (I)-42 (B)-42 (I)-42 (LI)-41.9 (ZA)19.9 (CI)-20.9 (\323N E)-42 (N LA PI)-42 (E)-41.9 (L: )]TJ
+/T1_0 1 Tf
+-0.021 Tw [( No es sensibilizante por cont)-21 (acto.)]TJ
+/T1_1 1 Tf
+0 Tw 0 -1.367 Td
+[(C)41 (AR)-21 (CI)-42 (N)-21 (OG)-41.9 (E)-42 (N)-42 (I)-21 (CI)-42 (D)20 (AD:)]TJ
+0 -1.111 Td
+[(IAR)-21 (C:)]TJ
+/T1_0 1 Tf
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+3.889 0 Td
+[(No incluido en la list)-20.9 (a)]TJ
+/T1_1 1 Tf
+-0.062 Tc 0.062 Tw -3.889 -1.111 Td
+[(E)-104 (PA)-62 (:)]TJ
+/T1_0 1 Tf
+0 Tc 0 Tw 2.314 0 Td
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+-0.063 Tw 8.64 0 0 9 350 429.986 Tm
+(Grupo E \226 Es improbable que sea carcin\363geno para los humanos )Tj
+0 Tw -4.051 -1.111 Td
+(\(imidacloprid\))Tj
+/T1_1 1 Tf
+9 0 0 9 315 409.986 Tm
+[(A)20 (CG)-42 (I)-42 (H:)]TJ
+/T1_0 1 Tf
+( )Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+3.889 0 Td
+[(No incluido en la list)-20.9 (a)]TJ
+/T1_1 1 Tf
+0.829 Tw -3.889 -1.367 Td
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD M)-42 (UT)103 (A)20 (G\311)-42 (N)-42 (I)-21 (C)41 (A: )]TJ
+/T1_0 1 Tf
+0.769 Tw (No hay evidencia de efectos )Tj
+0 Tw 0 -1.111 Td
+[(mut)-21 (ag\351nicos durante pruebas )]TJ
+/T1_2 1 Tf
+(in vivo)Tj
+/T1_0 1 Tf
+( e )Tj
+/T1_2 1 Tf
+(in vitro.)Tj
+/T1_1 1 Tf
+0.229 Tw 8.91 0 0 9 315 375.378 Tm
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD R)-42 (E)-41.9 (PR)-21 (OD)-42 (U)-21 (C)20 (TIV)62 (A:  )]TJ
+/T1_0 1 Tf
+0.212 Tw [(Se desconoce si caus)-21 (a defectos )]TJ
+0 Tw 0 -1.111 Td
+(reproductivos o de nacimiento a niveles de exposici\363n normales. )Tj
+ET
+315 352.738 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 341.238 Tm
+[(1)42 (2. I)-42 (N)-41.9 (F)-21.1 (OR)-41.9 (MA)20 (CI)-21 (\323N E)-21 (COL)20 (\323G)-41.9 (I)-21 (C)41 (A)]TJ
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+-0.02 Tc 0.17 Tw 8.73 0 0 9 315 323.238 Tm
+[(Este pesticida es alt)-21 (amente t\363)20 (xico para los invertebrados acu\341ticos y las)-20 ( )]TJ
+0.333 Tw 0 -1.2 Td
+[(abejas )0.5 (expuestos )0.6 (al )0.5 (trat)-21 (amiento )0.5 (directo )0.5 (o )0.5 (los )0.5 (residuos )0.5 (sobre )0.5 (cultivos/)]TJ
+0.045 Tw 0 -1.2 Td
+[(plant)-21 (as o malezas que \036orecen. Este producto qu\355mico tiene propiedades \y)-20 ( )]TJ
+0.043 Tw 0 -1.2 Td
+[(caracter\355sticas asociadas con los productos qu\355micos detect)-21 (ados en aguas)-20 ( )]TJ
+0.02 Tw 0 -1.2 Td
+[(subterr\341neas.)-20 ( )]TJ
+/T1_1 1 Tf
+0.078 Tw 0 -1.448 Td
+[(La siguiente informaci\363n corresponde al imidacloprid, ingrediente)-20 ( )]TJ
+0.02 Tw 0 -1.2 Td
+(activo:)Tj
+-0.001 Tc 0 Tw 8.82 0 0 9 315 245.406 Tm
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD A)20 (CU)41 (\301)82 (TI)-21 (C)40.9 (A)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 234.606 Tm
+[(P)20 (eces \(truc)19.9 (ha arco\355ris\) \(9)-21 (6 horas L)62 (C)]TJ
+0.021 Tc -0.021 Tw 5.1945 0 0 5.247 452.6396 233.609 Tm
+(50)Tj
+0 Tc 0 Tw 8.91 0 0 9 458.8054 234.606 Tm
+(\):  211 mg/kg)Tj
+-16.14 -1.2 Td
+[(Daphnia magna \(pulga de agua\) \(4)-21 (8 horas E)-21 (C)]TJ
+0.021 Tc -0.021 Tw 5.1945 0 0 5.247 490.2576 222.809 Tm
+(50)Tj
+0 Tc 0 Tw 8.91 0 0 9 496.4234 223.806 Tm
+[(\): 85 mg/)-42 (L)]TJ
+-20.362 -1.2 Td
+[(Mosquito \(24 horas E)-20.9 (C)]TJ
+0.021 Tc -0.021 Tw 5.1945 0 0 5.247 404.0629 212.009 Tm
+(50)Tj
+0 Tc 0 Tw 8.91 0 0 9 410.2287 213.006 Tm
+[(\):  0.0552 mg/)-42 (L;)]TJ
+/Span<</ActualText<FEFF0009>>> BDC 
+-10.688 -1.2 Td
+( )Tj
+EMC 
+3.255 0 Td
+[(\(28 d\355as E)-21 (C)]TJ
+-0.102 Tc 0.102 Tw 5.1945 0 0 5.247 389.9837 201.209 Tm
+(10)Tj
+0 Tc 0 Tw 8.91 0 0 9 395.5107 202.206 Tm
+[(\): 2.0)-21 (9 \265g/)-42 (L)]TJ
+-9.036 -1.2 Td
+[(Algas \(7)41 (2 horas E)-21 (C)]TJ
+5.1945 0 0 5.247 389.7717 190.409 Tm
+(25)Tj
+8.91 0 0 9 395.8284 191.406 Tm
+[(\): >1)102 (0 mg/)-41.9 (L)]TJ
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 177.582 Tm
+[(T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD A)62 (VIAR)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 315 166.782 Tm
+[(Codorniz de V)41 (irginia \(L)62 (C)]TJ
+0.021 Tc -0.021 Tw 5.1945 0 0 5.247 407.538 165.785 Tm
+(50)Tj
+0 Tc 0 Tw 8.91 0 0 9 413.7037 166.782 Tm
+(\): 152 mg/kg)Tj
+-11.078 -1.2 Td
+[(\301nade real o azul\363n \(L)62 (C)]TJ
+0.021 Tc -0.021 Tw 5.1945 0 0 5.247 405.5691 154.985 Tm
+(50)Tj
+0 Tc 0 Tw 8.91 0 0 9 411.7349 155.982 Tm
+(\): > 5,000 mg/kg \(t\351c.\))Tj
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 315 142.158 Tm
+[(O)20 (TRAS T)20 (O)41 (X)-21 (I)-21 (CI)-42 (D)20 (AD)-42 (E)-42 (S)]TJ
+/T1_0 1 Tf
+0 Tc 0.005 Tw 8.91 0 0 9 315 131.358 Tm
+[(Abeja: )0.5 (Nocivo )0.5 (para )0.5 (las )0.6 (abejas )0.5 (por )0.5 (cont)-21 (acto )0.5 (directo, )0.5 (pero )0.5 (no )0.5 (se )0.5 (esperan )]TJ
+-0.051 Tw 0 -1.2 Td
+[(problemas )0.5 (cuando )0.6 (no )0.6 (se )0.5 (roc\355a )0.5 (en )0.6 (cultivos )0.6 (\036orales )0.5 (o )0.6 (cuando )0.6 (se )0.5 (us)-20.9 (a )0.5 (como )]TJ
+0 Tw 0 -1.2 Td
+[(trat)-21 (amiento de semillas.)]TJ
+ET
+endstreamendobj22 0 obj<</BaseFont/HWTJKT+AkzidenzGroteskPro-It/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 43 0 R/LastChar 118/Subtype/Type1/ToUnicode 44 0 R/Type/Font/Widths[271 0 0 0 0 0 0 0 0 0 0 0 0 0 229 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 229 0 0 0 0 542 542 0 0 313 0 271 0 458]>>endobj43 0 obj<</Ascent 998/CapHeight 706/CharSet(/space/period/i/n/o/r/t/v)/Descent -264/Flags 96/FontBBox[-117 -264 1304 998]/FontFamily(Akzidenz-Grotesk Pro Regular)/FontFile3 45 0 R/FontName/HWTJKT+AkzidenzGroteskPro-It/FontStretch/Normal/FontWeight 400/ItalicAngle -13/StemV 76/Type/FontDescriptor/XHeight 471>>endobj44 0 obj<</Filter/FlateDecode/Length 265>>stream
+Hâ\ê¡j√0ÜÔ~
+€CqJ∂Å	îÆÖ∫çe{ «V2Cc«9‰Ìßÿ•É	l}ñÙ€ñ¯©ym¨â¿?ÇS-FËç’'7Ö–·`,€ó†çä˜S⁄’(=„$nó)‚ÿÿﬁ1!ÄRräaÅÕQª∑åøç¡ÿ6ﬂßvºùΩø·à6Bu{∫Ë*˝õxíÌMyói˛*æèP¶Û>F9çìó
+É¥2Qê’ .d5C´ˇÂü≥™Î’èLîkmQê#>g>W/â…Áxï‚óÃt∑x*ì#>d>¨\eÆ“˚˜ó÷ü–¿‡—¶öC†”TSkkS∆‚cﬁy ’∫ÿØ  P\Âendstreamendobj45 0 obj<</Filter/FlateDecode/Length 887/Subtype/Type1C>>stream
+Hâlëh[U«ÔM{Ô÷S÷¯‘ÆkzˇP∂ŒX[ÒGÖQÏ&Æ¶]m\7‘¡3Ô&yº$/ﬁ˜í4ÌlE)´´å÷nkÎÜîç‚~–97‹∞–1ëÕe(ä`´ã÷¸√ÅAÔ€n@ÔÀÇ‚˚„rŒ˜>ﬂsŒÉ†“ Ñù˝·PW¯ëcP◊hjp;3mj;ô˘Ë∂€∞…©áŒÜ aØ«i*¢J€Äº;à 8≠ﬂÎºR„$◊-ﬁ›Q*\ﬁn∏ß»63ùgz,nì«[Zû"[)≥„fB#››€öIG"Az›¢Ez©EYñjÕ$◊-5S6±Ã®ùS%3ôŒÿîë43cLMŸa«©õ¶%0OÃË?‰f≤«Ãê§ö')”&å -°Aí45=öUS”vêÿLMY	’ñ5·≤S&#F•B4 Ù¨jÎYJr&3,óÔ˙˝k™ˇe)≥(°©òû¢î%ƒ[O–r»ÚÆ©¶[™e—‰kÆÍZîƒ6›BƒîÑ≤çefXƒ›Z£ˇÔ‹c≤§öxÏ˘æp>MIã‰GÅ¸ ®!"ÿ	˙¿K†T…ˇ zdJ¡;‡{Ä˝4º¡€∆óúﬂó†|Z™Øt∆ÓÏ*ça~P\UD;üB¸W,à¯\·Ì¸*Õ¨)·ΩÂò∑ôcÁ™‚F¬Õ|!ôÀrOÚVÓQ6b[x–mÏäéë„SRˇ¯Œ.ÂúmE?·∏xXŸÇ,®à}≤•ÌÚÓµN«è˛s|≥c(Â M¸ﬂáxÂ¸ÖÍÿû¸ÅëQ´±S\B?‡Ø¯94q|ÚÃâıøèGûËÌ»¸ﬂ˝˘Fæp™Ø√Bë_)Vxø"÷~€¬˝|À-æâ7µœ›ÎDÁ”¢U<(é*x-Ø9≥:$jD’VQ-`∏˚Ïü-ßjZ~+WÎøÚ…˝+¯2˝‡Ï˚ÀÎ.~t~bæ˛–ÙÅÒ∆cÀh|‰›—Ø∆˙åÄÓÉU‘é}°±/˘ÌÎº)óoVÔ‰6m¯,oBœ ≠›˜ç¥Çªƒ<z;6ñ\ˇÚ¬¿•ÖìSì3ÅŸkhøΩoˇP}fxÚƒëâπ…Ø…ªˇå}‹Wæ"tf$ÌI,JuÜSá:ßÚL´ÿ7,ıiö>9ã≈–QßÎèÊCÔ≠	Ãm?¸&¸À[U®.ﬁSòÒzùÛ˜Ò_îø ÙHúendstreamendobj8 0 obj<</Length 27381>>stream
+q
+/GS0 gs
+0 TL/Fm0 Do
+Q
+BT
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+8.5 0 0 8.5 580.0446 27.545 Tm
+(1)Tj
+ET
+27 585 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 573.5 Tm
+[(1. I)-42 (D)-41.9 (E)-42 (NTI)-42 (FI)-21 (C)41 (A)20 (CI)-21 (\323N)]TJ
+0 0 0 1 k
+/GS1 gs
+0.052 Tc -0.047 Tw 9 0 0 9 27.0449 554.25 Tm
+[(N)21 (O)42 (MBRE)47 ( DEL)47 ( P)42 (R)21 (O)42.1 (DU)21 (C)62 (T)62 (O)47 (:)52 ( )]TJ
+0 Tc 0 Tw 14.275 0 Td
+[(A)20 (cronyx 4 F)]TJ
+0.052 Tc -0.052 Tw 8.91 0 0 9 27.0444 539.5 Tm
+[(DES)21.1 (C)42 (RIP)21.1 (C)42 (I)21 (\323)42 (N)47 (:)52 ( )]TJ
+-0.001 Tc 0 Tw 8.82 0 0 9 155.52 539.5 Tm
+(Insecticida l\355quido)Tj
+0.005 Tc -0.005 Tw 9 0 0 9 27.0449 524.75 Tm
+(N.)Tj
+0 Tc 0 Tw 5.247 0 0 5.247 35.927 527.747 Tm
+(O)Tj
+0.005 Tc 9 0 0 9 40.1088 524.75 Tm
+[( D)-47 (E R)-47 (E)-26 (G.)5 ( D)-46.9 (E E)-47 (P)57.1 (A:)5 ( )]TJ
+-0.001 Tc 0.001 Tw 8.82 0 0 9 155.52 523.775 Tm
+[(91)42 (23)-21 (4-1)63 (6)-21 (4)]TJ
+0.01 Tc -0.01 Tw 8.91 0 0 9 27.0444 508.05 Tm
+[(I)-42 (D)-42 (E)-42 (NTI)-42 (FI)-21 (C)41 (A)20 (CI)-21 (\323N)5 ( )]TJ
+0 Tc 0 Tw 8.91 0 0 9 105.0229 508.05 Tm
+( )Tj
+0.01 Tc -0.005 Tw 8.91 0 0 9 27.0444 497.25 Tm
+[(D)-42 (E)5 ( LA)5 ( COM)-42 (P)62 (A\321\315A)5 (:)]TJ
+0 Tc 0 Tw 9 0 0 9 155.52 508.05 Tm
+[(A)20 (tticus, LL)20.1 (C)]TJ
+/T1_0 1 Tf
+0 -1.2 Td
+[(9)-21 (4)-21 (0 NW Cary Parkway)41.1 (, Suite 200 )]TJ
+( )Tj
+0 -1.2 Td
+[(Cary)41 (, N)-21 (C 2)20 (7513, E)-41.9 (E. U)-41.9 (U.)]TJ
+ET
+27 471.65 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 31 460.15 Tm
+[(2. I)-42 (D)-41.9 (E)-42 (NTI)-42 (FI)-21 (C)41 (A)20 (CI)-21 (\323N D)-41.9 (E PE)-42 (LI)-21 (G)-42 (R)-21 (OS)]TJ
+0 0 0 1 k
+/GS1 gs
+11 0 0 11 27 438.31 Tm
+[(ADVE)-42 (RTE)-41.9 (N)-21 (CIA)]TJ
+/T1_0 1 Tf
+8.82 0 0 9 27 428.31 Tm
+[(P)20 (erjudicial si se inhala )]TJ
+5.88 0 0 6 111.7061 428.31 Tm
+(\(H332\))Tj
+8.82 0 0 9 27 416.15 Tm
+(Puede ser perjudicial si se ingiere )Tj
+5.88 0 0 6 155.4349 416.15 Tm
+[(\(H3)-21 (03\))]TJ
+8.82 0 0 9 27 403.99 Tm
+[(Alt)-21 (amente t\363)20 (xico para la vida acu\341tica, con efectos de larga duraci\363n )]TJ
+5.88 0 0 6 27 393.99 Tm
+[(\(H4)-21 (00+H41)102 (0\))]TJ
+/T1_1 1 Tf
+-0.001 Tc 8.82 0 0 9 27 379.49 Tm
+[(CLAS)-42 (I)-42 (FI)-21 (C)41 (A)20 (CI)-21 (\323N D)-42 (E R)-42 (I)-41.9 (E)-42 (S)-21 (G)-21 (O)]TJ
+7 0 0 7 27 370.24 Tm
+(Riesgos para la salud)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+11.796 0 Td
+(Categor\355a)Tj
+/T1_0 1 Tf
+-0.004 Tc -11.796 -1.143 Td
+[(T)103 (o)20 (xicidad aguda, inhalaci\363n)]TJ
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+13.851 0 Td
+(4)Tj
+-13.851 -1.271 Td
+[(T)103 (o)20 (xicidad aguda, oral)]TJ
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+13.851 0 Td
+[(5)-4 ( )]TJ
+/T1_1 1 Tf
+-0.001 Tc 3.583 2.414 Td
+(Riesgos f\355sicos)Tj
+/T1_0 1 Tf
+0 Tc /Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 16.225 0 Td
+(Categor\355a)Tj
+/T1_0 1 Tf
+-0.004 Tc 14.34 Tw -16.225 -1.143 Td
+(Ninguno.)Tj
+/Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+18.386 0 Td
+(-)Tj
+/T1_1 1 Tf
+-0.001 Tc 0 Tw -18.386 -1.575 Td
+[(P)20 (eligros para el medio ambiente)]TJ
+/T1_0 1 Tf
+0 Tc /Span<</ActualText<FEFF0009>>> BDC 
+( )Tj
+EMC 
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 16.225 0 Td
+(Categor\355a)Tj
+/T1_0 1 Tf
+-0.004 Tc 0 Tw 6.51 0 0 7 149.04 343.216 Tm
+[(P)20 (eligroso para el medio ambiente acu\341tico,)]TJ
+0 Tc 6.51 0 0 7 266.9279 343.216 Tm
+( )Tj
+-0.004 Tc 6.51 0 0 7 149.04 335.216 Tm
+(   a corto plazo  )Tj
+0 Tc 11.719 Tw /Span<</ActualText<FEFF0009>>> BDC 
+7 0 0 7 193.0729 335.216 Tm
+( )Tj
+EMC 
+11.99 0 Td
+(1)Tj
+-0.004 Tc 0 Tw 6.51 0 0 7 149.04 324.192 Tm
+[(P)20 (eligroso para el medio ambiente acu\341tico,)]TJ
+0 Tc 6.51 0 0 7 266.9279 324.192 Tm
+( )Tj
+-0.004 Tc 6.51 0 0 7 149.04 316.192 Tm
+(   a largo plazo )Tj
+0 Tc 12.046 Tw /Span<</ActualText<FEFF0009>>> BDC 
+7 0 0 7 190.7815 316.192 Tm
+( )Tj
+EMC 
+(1)Tj
+/T1_1 1 Tf
+-0.001 Tc 0 Tw 8.82 0 0 9 27 295.68 Tm
+[(R)-42 (I)-42 (E)-42 (S)-21 (G)-21 (OS P)62.1 (ARA L)20 (OS QU)-41.9 (E N)-21 (O S)-42 (E R)-42 (E)-21 (QU)-42 (I)-42 (E)-42 (R)-41.9 (E CLAS)-41.9 (I)-42 (FI)-21 (C)41 (A)19.9 (CI)-20.9 (\323N)]TJ
+/T1_0 1 Tf
+0 Tc 8.91 0 0 9 27 285.68 Tm
+[(Nocivo para las abejas por cont)-21 (acto directo.)]TJ
+-0.045 Tw 0 -1.447 Td
+[(No lo mezcle ni permit)-21 (a que entre en cont)-21 (acto con agentes o)20 (xidantes, ya )]TJ
+0 Tw 0 -1.111 Td
+[(que puede ocurrir una reacci\363n qu\355mica peligros)-21 (a.)]TJ
+/T1_1 1 Tf
+-0.001 Tc 0.001 Tw 8.82 0 0 9 27 249.632 Tm
+[(PR)-42 (E)-21 (C)41 (A)41 (U)-21 (CI)-21 (ON)-42 (E)-42 (S)]TJ
+/T1_0 1 Tf
+0 Tc -0.02 Tw 0 -1.111 Td
+(Evite respirar la niebla/vapores/roc\355o. \332selo solamente a la intem\perie en )Tj
+0 Tw 0 -1.111 Td
+(un \341rea bien ventilada. )Tj
+5.88 0 0 6 112.994 229.632 Tm
+[(\(P261+P2)20 (71\))]TJ
+-0.091 Tw 8.82 0 0 9 27 217.4 Tm
+[(Evite )0.5 (la emisi\363n al )0.5 (medio )0.5 (ambiente )0.5 (de manera )0.5 (no )0.5 (acorde a )0.5 (las indicaciones )]TJ
+0 Tw 0 -1.111 Td
+[(de la etiquet)-21 (a del producto. )]TJ
+5.88 0 0 6 132.4769 207.4 Tm
+[(\(P2)20 (7)41 (3\))]TJ
+/T1_1 1 Tf
+0.263 Tw 9 0 0 9 27 195.168 Tm
+[(S)-42 (I S)-42 (E I)-41.9 (N)-42 (HALA: )]TJ
+/T1_0 1 Tf
+0.244 Tw [(S)-21 (aque a la persona al aire fresco y mant\351ngala )]TJ
+0.281 Tw 0 -1.111 Td
+[(en una posici\363n c\363moda para respirar)41 (. Obtenga atenci\363n m\351dica. )552 ( )]TJ
+0 Tw 6 0 0 6 27 175.168 Tm
+[(\(P3)-21 (0)-21 (4+P3)-20.9 (4)-21 (0+P31)41 (7\))]TJ
+/T1_1 1 Tf
+0.042 Tc -0.042 Tw 9 0 0 9 27 162.936 Tm
+[(SI)42 ( SE)42 ( IN)21 (GIERE)42 (:)]TJ
+/T1_0 1 Tf
+0 Tc 0 Tw 7.631 0 Td
+( Obtenga atenci\363n m\351dica )Tj
+6 0 0 6 199.7435 162.936 Tm
+[(\(P3)-21 (0)47 (1+P31)41 (7\) )]TJ
+9 0 0 9 27 150.704 Tm
+(Recoja los derrames. )Tj
+6 0 0 6 109.8888 150.704 Tm
+[(\(P3)-21 (91\))]TJ
+9 0 0 9 128.0625 150.704 Tm
+( )Tj
+0.458 Tw -11.229 -1.359 Td
+(Elimine el contenido y/o el recipiente de conformidad con los )Tj
+0.534 Tw 0 -1.111 Td
+(reglamentos locales. Para obtener instrucciones espec\355\037cas de )Tj
+0 Tw 0 -1.111 Td
+[(eliminaci\363n, consulte la etiquet)-20.8 (a del producto.   )]TJ
+6 0 0 6 209.2655 118.472 Tm
+[(\(P5)-21 (0)47 (1\))]TJ
+9 0 0 9 227.1572 118.472 Tm
+( )Tj
+ET
+315 585 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+8.4 0 0 10 319 573.5 Tm
+[(3. COM)-41.9 (P)-21 (OS)-42 (I)-21 (CI)-21 (\323N)-42 (/)-42 (I)-42 (N)-42 (F)-21 (OR)-41.9 (MA)20 (CI)-21 (\323N S)-21 (OB)-42 (R)-42 (E L)20 (OS I)-41.9 (N)-21 (G)-42 (R)-42 (E)-42 (D)-42 (I)-41.9 (E)-42 (NTE)-42 (S)]TJ
+ET
+0 0 0 1 K
+0.5 w 
+/GS2 gs
+q 1 0 0 1 315 556.61 cm
+0 0 m
+54.36 0 l
+S
+Q
+q 1 0 0 1 315.25 546.396 cm
+0 0 m
+0 9.964 l
+S
+Q
+q 1 0 0 1 369.36 556.61 cm
+0 0 m
+123.84 0 l
+S
+Q
+q 1 0 0 1 369.36 546.396 cm
+0 0 m
+0 9.964 l
+S
+Q
+q 1 0 0 1 493.2 556.61 cm
+0 0 m
+44.64 0 l
+S
+Q
+q 1 0 0 1 493.2 546.396 cm
+0 0 m
+0 9.964 l
+S
+Q
+q 1 0 0 1 537.84 556.61 cm
+0 0 m
+48.24 0 l
+S
+Q
+q 1 0 0 1 537.84 546.396 cm
+0 0 m
+0 9.964 l
+S
+Q
+q 1 0 0 1 585.83 546.396 cm
+0 0 m
+0 9.964 l
+S
+Q
+q 1 0 0 1 315 546.146 cm
+0 0 m
+54.36 0 l
+S
+Q
+q 1 0 0 1 315.25 526.932 cm
+0 0 m
+0 18.964 l
+S
+Q
+q 1 0 0 1 369.36 546.146 cm
+0 0 m
+123.84 0 l
+S
+Q
+q 1 0 0 1 369.36 526.932 cm
+0 0 m
+0 18.964 l
+S
+Q
+q 1 0 0 1 493.2 546.146 cm
+0 0 m
+44.64 0 l
+S
+Q
+q 1 0 0 1 493.2 526.932 cm
+0 0 m
+0 18.964 l
+S
+Q
+q 1 0 0 1 537.84 546.146 cm
+0 0 m
+48.24 0 l
+S
+Q
+q 1 0 0 1 537.84 526.932 cm
+0 0 m
+0 18.964 l
+S
+Q
+q 1 0 0 1 585.83 526.932 cm
+0 0 m
+0 18.964 l
+S
+Q
+q 1 0 0 1 315 526.682 cm
+0 0 m
+54.36 0 l
+S
+Q
+q 1 0 0 1 369.36 526.682 cm
+0 0 m
+123.84 0 l
+S
+Q
+q 1 0 0 1 493.2 526.682 cm
+0 0 m
+44.64 0 l
+S
+Q
+q 1 0 0 1 537.84 526.682 cm
+0 0 m
+48.24 0 l
+S
+Q
+BT
+0 0 0 1 k
+/GS1 gs
+6.64 0 0 8 317.482 548.378 Tm
+(Nombre com\372n)Tj
+6.8 0 0 8 366.571 548.378 Tm
+( )Tj
+0.738 0 Td
+(Nombre qu\355mico)Tj
+19.32 0 Td
+(N.)Tj
+3.9644 0 0 4.664 509.6232 551.042 Tm
+(o)Tj
+-0.041 Tc 0.041 Tw 6.8 0 0 8 512.1009 548.378 Tm
+[( CA)-41 (S)]TJ
+0 Tc 0 Tw 4.151 0 Td
+(Composici\363n)Tj
+/T1_0 1 Tf
+7.76 0 0 8 317.482 537.914 Tm
+(Imidacloprid)Tj
+-0.005 Tc 0.005 Tw 7.44 0 0 8 371.592 537.914 Tm
+(1-[\(6-cloro-3-piridinil\)metil]-N-nitro-2-)Tj
+0 Tc 0 Tw 7.44 0 0 8 490.5328 537.914 Tm
+( )Tj
+-0.005 Tc 0.005 Tw 7.44 0 0 8 371.592 528.914 Tm
+(imidazolidinimina)Tj
+0 Tc 0 Tw 6.64 0 0 8 495.5738 537.914 Tm
+[(13)-21 (8261-41-3 )]TJ
+6.8 0 0 8 544.0092 537.914 Tm
+[(3)-21 (9.5-42.0% )]TJ
+ET
+315 511.632 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 500.132 Tm
+[(4. M)-42 (E)-42 (D)-41.9 (I)-42 (D)20 (AS D)-42 (E PR)-41.9 (I)-42 (M)-42 (E)-42 (R)-21 (OS A)41 (UX)-20.9 (I)-42 (LI)-21 (OS)]TJ
+0 0 0 1 k
+/GS1 gs
+/T1_0 1 Tf
+0.161 Tw 9 0 0 9 315 481.492 Tm
+[(Cuando llame al centro de control de into)20 (xicaciones o al m\351dico, o )]TJ
+0.035 Tw 0 -1.111 Td
+[(cuando vaya a recibir el trat)-21 (amiento, tenga a la mano el recipiente o la )]TJ
+0.02 Tw 0 -1.111 Td
+[(etiquet)-21 (a del producto. T)103 (ambi\351n puede llamar al 1-8)-21 (00-424-93)-20.9 (00 para )]TJ
+0 Tw 0 -1.111 Td
+[(pedir informaci\363n sobre el trat)-20.8 (amiento m\351dico de emergencia. )]TJ
+/T1_1 1 Tf
+0.155 Tw 0 -1.359 Td
+[(S)-42 (I S)-42 (E I)-42 (N)-42 (HALA: )]TJ
+/T1_0 1 Tf
+0.144 Tw [(T)82 (raslade a la persona afect)-20.9 (ada a un \341rea con aire )]TJ
+0.134 Tw 0 -1.111 Td
+(fresco. Si la persona no respira, llame al 911, a su n\372mero local de \)Tj
+-0.013 Tw 0 -1.111 Td
+(emergencias o a una ambulancia, luego administre respiraci\363n arti\037\cial. )Tj
+-0.004 Tw 0 -1.111 Td
+[(Llame a un centro de control de into)20 (xicaciones o a un m\351dico para que )]TJ
+0 Tw 0 -1.111 Td
+[(le recomiende un trat)-20.9 (amiento.)]TJ
+/T1_1 1 Tf
+0.042 Tc 0.083 Tw 0 -1.359 Td
+[(SI)42 ( SE)42.1 ( IN)21 (GIERE)42.1 (:)42 ( )]TJ
+/T1_0 1 Tf
+0 Tc 0.116 Tw [( Llame inmediat)-21 (amente a un centro de control de )]TJ
+0.087 Tw 0 -1.111 Td
+[(into)20 (xicaciones o a un m\351dico para que le recomiende un trat)-21 (amiento. )]TJ
+-0.004 Tw 0 -1.111 Td
+[(Si la persona afect)-21 (ada puede tragar)41.1 (, p\355dale que beba a sorbos un vaso )]TJ
+0.004 Tw 0 -1.111 Td
+(de agua. No induzca el v\363mito, a menos que as\355 lo indique el centr\o de )Tj
+0.089 Tw 0 -1.111 Td
+[(control de into)20 (xicaciones o el m\351dico. No d\351 nada por la boca a una )]TJ
+0 Tw 0 -1.111 Td
+(persona que est\351 inconsciente. )Tj
+/T1_1 1 Tf
+0.113 Tw 0 -1.359 Td
+[(N)-21 (O)20 (T)103 (A P)62 (ARA E)-42 (L M\311)-42 (D)-41.9 (I)-21 (CO: )]TJ
+/T1_0 1 Tf
+0.105 Tw [( No hay un ant\355doto espec\355\037co. T)82 (rate al )]TJ
+0 Tw 0 -1.111 Td
+(paciente seg\372n los s\355ntomas. )Tj
+ET
+315 299.996 270 -15.5 re
+f
+BT
+0 0 0 0 k
+/GS0 gs
+/T1_1 1 Tf
+10 0 0 10 319 288.496 Tm
+[(5. M)-42 (E)-42 (D)-41.9 (I)-42 (D)20 (AS P)62 (ARA COM)-41.9 (B)20 (A)82 (TI)-42 (R I)-42 (N)-21 (CE)-41.9 (N)-42 (D)-42 (I)-21 (OS)]TJ
+0 0 0 1 k
+/GS1 gs
+8.91 0 0 9 315 269.856 Tm
+[(P)20 (unto de in\037amaci\363n \(CC\): )]TJ
+/T1_0 1 Tf
+0.021 Tc -0.021 Tw (NC)Tj
+/T1_1 1 Tf
+0 Tc 0 Tw 0 -1.362 Td
+[(L\355mites de in\037amaci\363n \(LFL-U)-42 (FL\):)]TJ
+/T1_0 1 Tf
+( No determinados.)Tj
+/T1_1 1 Tf
+0 -1.362 Td
+(Riesgos de incendio y explosi\363n:)Tj
+/T1_0 1 Tf
+( Ninguno conocido.)Tj
+/T1_1 1 Tf
+0.04 Tw 0 -1.362 Td
+(Medio de extinci\363n:)Tj
+/T1_0 1 Tf
+0.037 Tw ( Medio adecuado para fuego circundante. Roc\355o )Tj
+-0.046 Tw 0 -1.111 Td
+[(de agua, espuma, niebla, C)-20.9 (O)]TJ
+0 Tw 5.1945 0 0 5.247 423.9098 223.0982 Tm
+(2)Tj
+-0.046 Tw 8.91 0 0 9 426.9382 223.0952 Tm
+(, espuma de alcohol o polvo qu\355mico seco.)Tj
+/T1_1 1 Tf
+0.13 Tw -12.563 -1.362 Td
+(Equipo para combatir incendios:)Tj
+/T1_0 1 Tf
+0.12 Tw ( Los bomberos deben equiparse )Tj
+0.145 Tw 0 -1.111 Td
+[(con aparatos de respiraci\363n aut\363nomos de )0.5 (presi\363n positiva y equipo )]TJ
+0 Tw 0 -1.111 Td
+(completo de protecci\363n contra incendios.)Tj
+/T1_1 1 Tf
+0.038 Tw 0 -1.362 Td
+(Instrucciones para combatir incendios:)Tj
+/T1_0 1 Tf
+0.035 Tw ( Evacue a todo el personal )Tj
+0.073 Tw 0 -1.111 Td
+[(no neces)-21 (ario del \341rea y combat)-21 (a el fuego desde una dist)-20.9 (ancia segura )]TJ
+0.077 Tw 0 -1.111 Td
+[(contra el viento. Contenga el agua cont)-20.9 (aminada o el agua us)-21 (ada para )]TJ
+0.136 Tw 0 -1.111 Td
+[(combatir el incendio; no permit)-21 (a que es)-21 (a agua penetre en des)-20.9 (ag\374es )]TJ
+0.201 Tw 0 -1.111 Td
+(ni v\355as \036uviales. Se pre\037eren los sistemas de extinci\363n con \espuma )Tj
+0.259 Tw 0 -1.111 Td
+[(o qu\355mico seco para prevenir da\361os ambient)-21 (ales por escurrimiento )]TJ
+0 Tw 0 -1.111 Td
+(excesivo de agua.)Tj
+/T1_1 1 Tf
+0.082 Tw 0 -1.362 Td
+[(P)20 (roductos de descomposici\363n peligrosos:)]TJ
+/T1_0 1 Tf
+0.076 Tw ( La combusti\363n normal )Tj
+0 Tw 0 -1.111 Td
+[(puede producir \363)20 (xidos de carbono.)]TJ
+/T1_1 1 Tf
+-0.027 Tw 8.37 0 0 9 315 84.0808 Tm
+[(Clasi\036caciones de la N)-42 (FP)62 (A:)]TJ
+/T1_0 1 Tf
+-0.025 Tw [( S)-21 (alud \226 1/)-42 (In\036amabilidad \226 1/)-42 (Reactividad - 0)]TJ
+ET
+/PlacedPDF /MC0 BDC 
+q
+257.742 413 39.258 38.343 re
+W n
+0 0 0 0 k
+/GS0 gs
+q 1 0 0 1 269.5859 425.4857 cm
+0 0 m
+-0.03 0.207 l
+0.046 0.231 1.848 0.752 2.734 0.752 c
+2.911 0.752 3.042 0.729 3.134 0.686 c
+3.506 0.847 5.153 1.537 6.435 2.045 c
+5.935 2.26 l
+5.983 2.514 l
+5.991 2.516 6.731 2.544 7.056 2.677 c
+7.593 2.896 8.489 3.26 9.002 3.984 c
+9.047 4.048 9.1 4.126 9.164 4.22 c
+9.524 4.749 10.207 5.753 11.131 6.568 c
+6.157 6.568 l
+6.157 4.58 l
+8.413 3.477 l
+5.668 3.09 l
+5.036 2.196 l
+4.183 2.905 l
+2.017 2.708 l
+1.952 2.907 l
+3.787 3.942 l
+3.837 6.568 l
+-0.058 6.568 l
+-0.058 6.834 l
+3.843 6.834 l
+3.872 8.367 l
+1.593 9.58 l
+1.592 9.581 1.407 9.696 1.127 9.696 c
+1.029 9.696 0.927 9.681 0.828 9.653 c
+0.653 9.596 0.42 9.539 0.41 9.536 c
+0.314 9.722 l
+0.514 9.885 1.531 10.703 1.855 10.703 c
+1.881 10.703 1.906 10.699 1.927 10.69 c
+2.118 10.62 3.188 10.121 3.633 9.911 c
+3.553 10.315 3.369 10.981 3.089 11.198 c
+2.652 11.541 0.952 12.856 0.936 12.869 c
+0.895 12.902 l
+0.895 13.459 l
+3.23 12.073 l
+3.236 12.455 3.205 13.361 2.857 13.934 c
+2.388 14.707 2.031 15.405 2.027 15.412 c
+1.987 15.488 l
+2.298 15.731 l
+3.388 14.093 l
+3.721 15.116 l
+4.178 15.228 l
+4.149 15.067 l
+4.069 14.609 3.894 13.337 4.055 12.933 c
+4.23 12.496 4.786 10.483 4.972 9.804 c
+5.97 11.202 l
+5.974 11.336 5.99 11.886 5.941 12.277 c
+5.881 12.738 5.795 14.792 5.79 14.879 c
+5.786 14.99 l
+6.202 14.99 l
+6.507 12.798 l
+8.398 14.939 l
+8.398 14.385 l
+8.374 14.355 l
+7.679 13.501 6.599 12.027 6.657 11.704 c
+6.663 11.67 6.669 11.635 6.675 11.602 c
+6.757 11.164 6.817 10.844 6.501 10.171 c
+6.397 9.949 6.305 9.748 6.228 9.577 c
+6.556 9.908 6.989 10.294 7.265 10.35 c
+7.28 10.351 l
+7.362 10.356 7.447 10.358 7.538 10.361 c
+7.918 10.373 8.351 10.384 8.661 10.642 c
+9.063 10.981 10.055 12.062 10.065 12.073 c
+10.238 11.943 l
+8.645 9.535 l
+8.588 9.533 l
+8.582 9.532 7.893 9.502 7.633 9.222 c
+7.366 8.938 6.337 7.784 6.157 7.584 c
+6.157 6.834 l
+11.451 6.834 l
+12.182 7.405 13.043 7.828 14.003 7.828 c
+14.108 7.828 14.215 7.823 14.319 7.814 c
+14.502 7.795 l
+14.432 7.63 l
+14.344 7.422 14.148 7.084 13.998 6.834 c
+14.049 6.834 l
+15.738 7.342 l
+15.74 7.163 l
+15.74 7.138 15.743 6.501 15.285 5.664 c
+14.992 5.125 14.455 4.422 13.493 3.765 c
+14.991 2.709 l
+13.471 1.992 l
+15.573 1.808 l
+14.967 1.019 l
+16.123 1.019 l
+16.159 -0.086 l
+h
+24.304 6.686 m
+22.945 8.014 9.144 21.492 7.786 22.82 c
+6.426 21.492 -7.373 8.014 -8.733 6.686 c
+-7.373 5.358 6.426 -8.12 7.786 -9.449 c
+9.145 -8.12 22.945 5.358 24.304 6.686 c
+f
+Q
+/CS0 cs 1  scn
+q 1 0 0 1 260.8534 432.1722 cm
+0 0 m
+1.36 1.328 15.159 14.805 16.519 16.134 c
+17.877 14.805 31.677 1.328 33.037 0 c
+31.677 -1.328 17.878 -14.807 16.519 -16.135 c
+15.159 -14.807 1.36 -1.328 0 0 c
+16.519 19.171 m
+-3.112 0 l
+16.519 -19.172 l
+36.147 0 l
+h
+f
+Q
+0.746 0.676 0.668 0.898 k
+q 1 0 0 1 283.6353 432.3201 cm
+0 0 m
+-0.051 0 l
+-0.054 -0.005 -0.059 -0.013 -0.063 -0.018 c
+h
+f
+Q
+0 0 0 1 k
+q 1 0 0 1 269.528 432.3201 cm
+0 0 m
+0 -0.267 l
+3.895 -0.267 l
+3.9 0 l
+h
+f
+Q
+q 1 0 0 1 275.7427 432.3201 cm
+0 0 m
+0 -0.267 l
+4.975 -0.267 l
+5.078 -0.174 5.185 -0.085 5.294 0 c
+h
+f
+Q
+q 1 0 0 1 275.7427 433.0697 cm
+0 0 m
+0.18 0.201 1.209 1.353 1.476 1.638 c
+1.736 1.918 2.425 1.948 2.431 1.95 c
+2.488 1.951 l
+4.082 4.359 l
+3.908 4.489 l
+3.899 4.479 2.906 3.397 2.504 3.058 c
+2.194 2.8 1.761 2.789 1.381 2.777 c
+1.29 2.774 1.205 2.773 1.124 2.768 c
+1.108 2.766 l
+0.832 2.711 0.399 2.324 0.071 1.993 c
+0.148 2.164 0.24 2.365 0.344 2.587 c
+0.66 3.26 0.6 3.579 0.519 4.018 c
+0.512 4.05 0.506 4.086 0.5 4.12 c
+0.442 4.443 1.522 5.917 2.218 6.771 c
+2.241 6.801 l
+2.241 7.355 l
+0.35 5.214 l
+0.046 7.405 l
+-0.37 7.405 l
+-0.366 7.295 l
+-0.362 7.208 -0.275 5.154 -0.216 4.692 c
+-0.167 4.301 -0.183 3.752 -0.187 3.618 c
+-1.185 2.22 l
+-1.371 2.899 -1.927 4.912 -2.102 5.349 c
+-2.263 5.753 -2.088 7.025 -2.008 7.483 c
+-1.979 7.643 l
+-2.436 7.532 l
+-2.769 6.509 l
+-3.858 8.147 l
+-4.169 7.904 l
+-4.13 7.828 l
+-4.126 7.821 -3.769 7.123 -3.3 6.351 c
+-2.952 5.777 -2.921 4.87 -2.927 4.489 c
+-5.262 5.875 l
+-5.262 5.318 l
+-5.22 5.285 l
+-5.204 5.272 -3.504 3.957 -3.068 3.614 c
+-2.788 3.397 -2.604 2.73 -2.523 2.328 c
+-2.968 2.536 -4.039 3.036 -4.23 3.106 c
+-4.25 3.115 -4.276 3.119 -4.301 3.119 c
+-4.626 3.119 -5.643 2.301 -5.843 2.139 c
+-5.747 1.952 l
+-5.737 1.955 -5.503 2.012 -5.329 2.07 c
+-5.23 2.097 -5.128 2.112 -5.029 2.112 c
+-4.75 2.112 -4.565 1.997 -4.564 1.996 c
+-2.285 0.783 l
+-2.314 -0.749 l
+-2.32 -1.016 l
+-2.37 -3.642 l
+-4.204 -4.676 l
+-4.139 -4.877 l
+-1.974 -4.678 l
+-1.121 -5.389 l
+-0.489 -4.495 l
+2.256 -4.107 l
+0 -3.004 l
+h
+f
+Q
+q 1 0 0 1 280.226 428.2822 cm
+0 0 m
+-0.619 -0.197 -0.807 -0.256 -0.927 -0.424 c
+-1.051 -0.59 -1.522 -1.286 -1.694 -1.543 c
+-4.108 -0.504 l
+-3.887 -0.475 -3.643 -0.432 -3.478 -0.364 c
+-2.915 -0.135 -1.973 0.248 -1.414 1.035 c
+-1.368 1.101 -1.314 1.181 -1.25 1.277 c
+-0.6 2.229 1.122 4.766 3.363 4.766 c
+3.395 4.766 3.427 4.766 3.459 4.765 c
+3.272 4.401 2.934 3.866 2.93 3.859 c
+2.741 3.559 l
+4.812 4.18 l
+4.733 3.592 4.249 1.713 1.315 0.429 c
+0.733 0.231 0.309 0.097 0 0 c
+4.327 -1.777 m
+4.933 -0.988 l
+2.831 -0.804 l
+4.351 -0.087 l
+2.853 0.968 l
+3.816 1.627 4.352 2.329 4.645 2.868 c
+5.103 3.704 5.1 4.342 5.1 4.367 c
+5.098 4.546 l
+3.409 4.038 l
+3.346 4.02 l
+3.35 4.025 3.355 4.033 3.358 4.038 c
+3.508 4.288 3.704 4.625 3.792 4.834 c
+3.862 4.998 l
+3.679 5.018 l
+3.575 5.026 3.468 5.032 3.363 5.032 c
+2.403 5.032 1.542 4.61 0.811 4.038 c
+0.702 3.952 0.595 3.864 0.491 3.771 c
+-0.434 2.957 -1.116 1.952 -1.476 1.423 c
+-1.539 1.33 -1.593 1.252 -1.637 1.188 c
+-2.151 0.463 -3.047 0.1 -3.583 -0.119 c
+-3.91 -0.253 -4.649 -0.281 -4.657 -0.282 c
+-4.705 -0.536 l
+-4.205 -0.752 l
+-5.487 -1.26 -7.134 -1.95 -7.507 -2.11 c
+-7.599 -2.068 -7.729 -2.045 -7.906 -2.045 c
+-8.792 -2.045 -10.594 -2.566 -10.671 -2.589 c
+-10.64 -2.797 l
+5.519 -2.883 l
+5.483 -1.777 l
+h
+f
+Q
+0 0 0 0 k
+q 1 0 0 1 283.4207 431.196 cm
+0 0 m
+0 0.15 0.145 0.27 0.324 0.27 c
+0.503 0.27 0.648 0.15 0.648 0 c
+0.648 -0.151 0.503 -0.273 0.324 -0.273 c
+0.145 -0.273 0 -0.151 0 0 c
+1.617 1.266 m
+-0.454 0.645 l
+-0.265 0.946 l
+-0.26 0.952 0.078 1.487 0.265 1.851 c
+0.232 1.852 0.201 1.852 0.168 1.852 c
+-2.073 1.852 -3.795 -0.685 -4.444 -1.637 c
+-4.508 -1.732 -4.562 -1.813 -4.61 -1.878 c
+-5.167 -2.666 -6.109 -3.049 -6.673 -3.279 c
+-6.838 -3.346 -7.081 -3.389 -7.303 -3.417 c
+-4.889 -4.457 l
+-4.716 -4.2 -4.245 -3.503 -4.122 -3.338 c
+-4.002 -3.169 -3.815 -3.111 -3.194 -2.914 c
+-2.886 -2.817 -2.462 -2.683 -1.88 -2.485 c
+1.054 -1.201 1.538 0.678 1.617 1.266 c
+f
+Q
+0 0 0 1 k
+q 1 0 0 1 284.0685 431.196 cm
+0 0 m
+0 0.15 -0.145 0.27 -0.324 0.27 c
+-0.502 0.27 -0.648 0.15 -0.648 0 c
+-0.648 -0.151 -0.502 -0.273 -0.324 -0.273 c
+-0.145 -0.273 0 -0.151 0 0 c
+f
+Q
+EMC 
+Q
+/CS1 cs 1  scn
+/GS0 gs
+0 603.86 612 36.439 re
+f
+BT
+0 0 0 0 k
+/T1_2 1 Tf
+0 Tw 16 0 0 16 142.377 622.43 Tm
+[(H)-21 (OJ)20 (A D)-21 (E D)20 (AT)41 (O)-21 (S D)-21 (E S)-20.9 (E)-21 (G)-42 (U)-42 (R)-42 (I)-31 (D)20 (AD)]TJ
+7 0 0 7 164.9025 610.43 Tm
+[(LLAMAD)20 (AS D)-20.9 (E E)-42 (M)-42 (E)-42 (R)-42 (G)-42 (E)-42 (N)-21 (C)-20.9 (IA AL: 1-8)-21 (00-424-93)-20.9 (00 \(C)-20.9 (H)-42 (E)-42 (MTR)-42 (E)-21 (C\))]TJ
+ET
+/PlacedGraphic /MC1 BDC 
+EMC 
+q
+27 649.173 558 121.775 re
+W n
+/CS1 cs 1  scn
+q 1 0 0 1 191.7089 709.1242 cm
+0 0 m
+-3.006 -4.075 l
+-3.422 -4.631 -3.711 -5.233 -3.861 -5.835 c
+-4.115 -6.854 -4.092 -6.947 -3.743 -7.965 c
+-12.125 -7.965 l
+-9.801 -5.696 -9.037 -4.863 -7.407 -2.593 c
+9.011 20.006 l
+8.129 21.673 l
+21.513 21.673 l
+25.706 -3.89 l
+25.973 -5.418 26.542 -6.854 27.284 -7.965 c
+12.419 -7.965 l
+13.251 -6.854 13.39 -6.669 13.551 -6.02 c
+13.724 -5.326 13.805 -4.446 13.688 -3.797 c
+13.013 0 l
+h
+12.29 4.909 m
+10.567 14.912 l
+3.538 4.909 l
+h
+f
+Q
+q 1 0 0 1 252.325 725.101 cm
+0 0 m
+-1.135 0.463 -2.166 0.787 -4.342 0.787 c
+-12.446 0.787 l
+-13.928 0.787 -14.785 0.324 -15.142 -1.111 c
+-19.132 -17.135 l
+-19.49 -18.57 -18.864 -19.033 -17.382 -19.033 c
+-10.991 -19.033 l
+-6.453 -19.033 -5.631 -18.709 -3.907 -17.922 c
+-6.379 -23.942 l
+-24.625 -23.942 l
+-29.441 -23.942 -31.55 -21.627 -29.959 -15.236 c
+-26.914 -3.01 l
+-25.323 3.381 -22.06 5.696 -17.244 5.696 c
+0.539 5.696 l
+h
+f
+Q
+q 1 0 0 1 264.3427 714.0328 cm
+0 0 m
+-1.937 -7.78 l
+-2.641 -10.605 -2.547 -11.716 -2.28 -12.874 c
+-15.432 -12.874 l
+-14.588 -11.716 -13.941 -10.605 -13.237 -7.78 c
+-8.393 11.67 l
+-7.69 14.495 -7.784 15.606 -8.329 16.764 c
+16.03 16.764 l
+21.216 16.764 23.325 15.19 22.091 10.234 c
+20.731 4.77 l
+19.647 0.417 17.458 0.186 15.004 0 c
+16.958 -8.335 l
+17.411 -10.234 17.586 -11.762 18.282 -12.874 c
+5.639 -12.874 l
+3.473 0 l
+h
+1.222 4.909 m
+7.613 4.909 l
+9.049 4.909 9.523 5.141 9.881 6.576 c
+10.78 10.188 l
+11.138 11.624 10.779 11.855 9.343 11.855 c
+2.952 11.855 l
+h
+f
+Q
+q 1 0 0 1 290.6176 722.0909 cm
+0 0 m
+1.59 6.391 4.853 8.706 9.669 8.706 c
+26.62 8.706 l
+31.435 8.706 33.544 6.391 31.953 0 c
+28.909 -12.226 l
+27.318 -18.616 24.055 -20.932 19.238 -20.932 c
+2.289 -20.932 l
+-2.527 -20.932 -4.637 -18.616 -3.044 -12.226 c
+h
+7.781 -14.125 m
+7.425 -15.56 8.05 -16.023 9.531 -16.023 c
+14.44 -16.023 l
+15.922 -16.023 16.779 -15.56 17.137 -14.125 c
+21.126 1.899 l
+21.483 3.334 20.858 3.797 19.376 3.797 c
+14.468 3.797 l
+12.986 3.797 12.129 3.334 11.771 1.899 c
+h
+f
+Q
+q 1 0 0 1 333.0116 725.703 cm
+0 0 m
+-0.093 0 l
+-4.878 -19.219 l
+-5.709 -22.553 -5.72 -23.155 -5.093 -24.544 c
+-12.225 -24.544 l
+-10.906 -23.155 -10.618 -22.553 -9.787 -19.219 c
+-5.059 -0.232 l
+-4.229 3.103 -4.218 3.705 -4.845 5.094 c
+11.04 5.094 l
+17.061 -19.08 l
+17.199 -19.08 l
+21.893 -0.232 l
+22.723 3.103 22.734 3.705 22.108 5.094 c
+29.239 5.094 l
+27.921 3.705 27.632 3.103 26.802 -0.232 c
+20.747 -24.544 l
+6.114 -24.544 l
+h
+f
+Q
+q 1 0 0 1 370.3046 712.7365 cm
+0 0 m
+-5.757 14.448 l
+-6.697 16.81 -6.94 17.134 -7.682 18.061 c
+7.554 18.061 l
+7.381 17.736 7.219 17.458 7.138 17.134 c
+6.873 16.069 7.465 14.726 7.824 13.754 c
+10.97 5.742 l
+18.105 13.939 l
+19.527 15.56 19.897 16.857 20.243 18.061 c
+28.671 18.061 l
+25.906 16.255 25.524 15.838 23.651 13.707 c
+11.15 -0.602 l
+9.685 -6.484 l
+8.982 -9.308 9.075 -10.42 9.343 -11.578 c
+-3.809 -11.578 l
+-2.965 -10.42 -2.318 -9.308 -1.615 -6.484 c
+h
+f
+Q
+q 1 0 0 1 415.9116 722.1835 cm
+0 0 m
+5.807 4.724 l
+7.727 6.298 8.595 7.363 9.091 8.614 c
+18.307 8.614 l
+16.039 7.317 13.991 5.789 11.955 4.121 c
+2.065 -3.983 l
+8.422 -16.949 l
+9.28 -18.709 9.86 -19.913 11.158 -21.025 c
+-5.05 -21.025 l
+-4.439 -18.755 -4.625 -18.385 -5.611 -16.394 c
+-7.768 -12.04 l
+-14.107 -17.227 l
+-16.028 -18.802 -16.965 -19.774 -17.461 -21.025 c
+-26.214 -21.025 l
+-24.397 -19.867 -23.414 -19.265 -20.209 -16.625 c
+-9.74 -8.058 l
+-16.143 4.538 l
+-17.489 7.132 -17.906 7.502 -19.25 8.614 c
+-2.579 8.614 l
+-2.982 6.993 -2.819 5.974 -2.39 5.094 c
+h
+f
+Q
+Q
+q
+162.831 649.173 286.339 121.775 re
+W n
+/CS1 cs 1  scn
+q 1 0 0 1 168.1935 712.8061 cm
+0 0 m
+16.534 -48.707 72.393 -22.818 v
+116.186 -22.818 l
+88.48 -56.167 42.899 -46.952 v
+-2.681 -37.737 0 0 y
+f
+Q
+0 0 0 0.4 k
+q 1 0 0 1 214.2208 765.4623 cm
+0 0 m
+-3.575 -6.143 l
+-55.561 -15.724 -47.479 -63.749 v
+-39.253 -112.634 30.263 -109.584 45.01 -98.394 c
+42.329 -104.537 40.094 -106.731 v
+-35.079 -131.348 -49.935 -63.962 v
+-59.88 -11.848 0 0 v
+f
+Q
+0 0 0 0.8 k
+q 1 0 0 1 196.1226 770.9473 cm
+0 0 m
+8.491 -2.852 10.055 -4.169 v
+-26.812 -12.945 -33.292 -45.855 v
+-32.174 -12.725 0 0 v
+f
+Q
+/CS1 cs 1  scn
+q 1 0 0 1 175.3484 671.065 cm
+0 0 m
+16.773 -25.066 60.543 -21.556 v
+62.281 -19.309 62.483 -18.208 v
+26.453 -26.481 0 0 v
+f
+Q
+Q
+q
+27 649.173 558 121.775 re
+W n
+/CS1 cs 1  scn
+q 1 0 0 1 285.6986 692.6212 cm
+0 0 m
+-43.441 0 l
+-40.802 3.072 l
+1.979 3.072 l
+h
+f
+Q
+0 0 0 0.7 k
+q 1 0 0 1 399.0006 683.1478 cm
+0 0 m
+-1.521 -6.007 l
+-5.405 -6.007 l
+-5.906 -8.009 l
+-6.073 -8.701 -6.156 -9.296 -6.156 -9.797 c
+-6.156 -10.274 -6.061 -10.727 -5.87 -11.156 c
+-16.061 -11.156 l
+-15.727 -10.822 -15.43 -10.411 -15.167 -9.922 c
+-14.905 -9.434 -14.679 -8.796 -14.488 -8.009 c
+-13.987 -6.007 l
+-29.219 -6.007 l
+-27.825 -0.393 l
+-11.127 11.728 l
+-1.007 11.728 l
+-3.904 0 l
+h
+-10.614 7.593 m
+-21.378 0 l
+-12.473 0 l
+h
+f
+Q
+q 1 0 0 1 418.5166 675.9251 cm
+0 0 m
+-0.286 -1.121 -0.429 -2.026 -0.429 -2.717 c
+-0.429 -3.099 -0.37 -3.504 -0.25 -3.933 c
+-10.405 -3.933 l
+-10.072 -3.457 -9.768 -2.926 -9.493 -2.342 c
+-9.219 -1.758 -8.963 -0.978 -8.725 0 c
+-4.97 15.018 l
+-4.827 15.566 -4.72 16.096 -4.648 16.609 c
+-4.577 17.121 -4.541 17.508 -4.541 17.771 c
+-4.541 17.985 -4.559 18.205 -4.595 18.432 c
+-4.63 18.658 -4.661 18.831 -4.684 18.951 c
+15.125 18.951 l
+14.696 14.553 l
+14.219 14.719 13.682 14.862 13.087 14.982 c
+12.491 15.101 11.764 15.161 10.906 15.161 c
+3.79 15.161 l
+2.467 9.797 l
+8.689 9.797 l
+9.619 9.797 10.328 9.814 10.816 9.849 c
+11.305 9.883 11.954 9.949 12.765 10.048 c
+11.513 5.113 l
+11.013 5.358 10.464 5.568 9.869 5.744 c
+9.273 5.919 8.557 6.007 7.723 6.007 c
+1.502 6.007 l
+h
+f
+Q
+/CS1 cs 1  scn
+q 1 0 0 1 440.0036 725.2772 cm
+0 0 m
+0 4.673 l
+-1.746 4.673 l
+-1.746 5.653 l
+2.844 5.653 l
+2.844 4.673 l
+1.146 4.673 l
+1.146 0 l
+h
+3.527 0 m
+3.527 5.653 l
+5.315 5.653 l
+6.343 1.76 l
+7.378 5.653 l
+9.166 5.653 l
+9.166 0 l
+8.075 0 l
+8.075 4.507 l
+6.854 0 l
+5.818 0 l
+4.604 4.507 l
+4.604 0 l
+h
+f
+Q
+/PlacedGraphic /MC2 BDC 
+EMC 
+Q
+q
+216.599 413.488 37.856 37.855 re
+W n
+q 1 0 0 1 238.3993 440.3502 cm
+0 0 m
+0 -0.005 l
+-0.004 -0.075 -0.016 -0.143 -0.032 -0.21 c
+-1.331 -8.993 l
+-1.383 -9.736 -1.992 -10.322 -2.739 -10.322 c
+-3.488 -10.322 -4.102 -9.729 -4.149 -8.982 c
+-5.449 -0.195 l
+-5.462 -0.137 -5.472 -0.076 -5.475 -0.016 c
+-5.477 0 l
+-5.475 0 l
+-5.477 0.024 -5.478 0.047 -5.478 0.07 c
+-5.478 1.066 -4.251 1.874 -2.739 1.874 c
+-1.226 1.874 0.002 1.066 0.002 0.07 c
+0.002 0.047 0.001 0.024 0 0 c
+-2.739 -16.005 m
+-3.899 -16.005 -4.842 -15.01 -4.842 -13.783 c
+-4.842 -12.556 -3.899 -11.561 -2.739 -11.561 c
+-1.578 -11.561 -0.636 -12.556 -0.636 -13.783 c
+-0.636 -15.01 -1.578 -16.005 -2.739 -16.005 c
+-2.872 7.993 m
+-4.184 6.682 -17.489 -6.623 -18.801 -7.935 c
+-17.489 -9.246 -4.184 -22.552 -2.872 -23.863 c
+-1.561 -22.552 11.744 -9.246 13.056 -7.935 c
+11.744 -6.623 -1.561 6.682 -2.872 7.993 c
+f
+Q
+0 0 0 1 k
+q 1 0 0 1 235.6605 428.789 cm
+0 0 m
+-1.16 0 -2.103 -0.995 -2.103 -2.222 c
+-2.103 -3.449 -1.16 -4.443 0 -4.443 c
+1.161 -4.443 2.103 -3.449 2.103 -2.222 c
+2.103 -0.995 1.161 0 0 0 c
+f
+Q
+Q
+q
+216.599 413.488 37.855 37.855 re
+W n
+0 0 0 1 k
+q 1 0 0 1 235.6605 442.2242 cm
+0 0 m
+-1.512 0 -2.74 -0.808 -2.74 -1.804 c
+-2.74 -1.827 -2.738 -1.851 -2.737 -1.874 c
+-2.738 -1.874 l
+-2.737 -1.89 l
+-2.733 -1.95 -2.723 -2.011 -2.71 -2.069 c
+-1.41 -10.856 l
+-1.364 -11.603 -0.75 -12.196 0 -12.196 c
+0.747 -12.196 1.355 -11.61 1.408 -10.867 c
+2.707 -2.084 l
+2.723 -2.017 2.734 -1.949 2.739 -1.88 c
+2.739 -1.874 l
+2.74 -1.851 2.741 -1.827 2.741 -1.804 c
+2.741 -0.808 1.513 0 0 0 c
+f
+Q
+/CS0 cs 1  scn
+q 1 0 0 1 235.527 416.4869 cm
+0 0 m
+-1.311 1.311 -14.617 14.617 -15.928 15.928 c
+-14.617 17.24 -1.311 30.545 0 31.856 c
+1.311 30.545 14.616 17.24 15.928 15.928 c
+14.616 14.617 1.311 1.311 0 0 c
+0 34.856 m
+-18.928 15.928 l
+0 -2.998 l
+18.928 15.928 l
+h
+f
+Q
+Q
+endstreamendobj17 0 obj<</Metadata 46 0 R>>endobj18 0 obj<</Metadata 47 0 R>>endobj19 0 obj<</Metadata 48 0 R>>endobj48 0 obj<</Length 10407/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 79.328f76e, 2022/08/01-19:10:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:egGr="http://ns.esko-graphics.com/grinfo/1.0/"
+            xmlns:egInk="http://ns.esko-graphics.com/inkinfo/1.0/"
+            xmlns:egLayL="http://ns.esko-graphics.com/laylist/1.0/"
+            xmlns:egLay="http://ns.esko-graphics.com/layer/1.0/"
+            xmlns:egPagL="http://ns.esko-graphics.com/pagerangelist/1.0/"
+            xmlns:egPag="http://ns.esko-graphics.com/pagerange/1.1/">
+         <dc:format>application/postscript</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Print</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Nanke Wiekert</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmp:MetadataDate>2018-09-19T05:45:48-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-09-19T05:45:48-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2018-09-19T05:45:48-05:00</xmp:CreateDate>
+         <xmp:CreatorTool>Esko DeskPack 18.0.0.32 Jun  4 2018</xmp:CreatorTool>
+         <xmpMM:InstanceID>xmp.iid:8adf629b-25c8-4fde-a952-483444fdb54f</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:8adf629b-25c8-4fde-a952-483444fdb54f</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:d6ad1831-ad61-496e-a54e-8d08cf8d21ac</stRef:instanceID>
+            <stRef:documentID>xmp.did:d6ad1831-ad61-496e-a54e-8d08cf8d21ac</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:d6ad1831-ad61-496e-a54e-8d08cf8d21ac</stEvt:instanceID>
+                  <stEvt:when>2018-09-19T05:45:10-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2017 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:8adf629b-25c8-4fde-a952-483444fdb54f</stEvt:instanceID>
+                  <stEvt:when>2018-09-19T05:45:48-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2017 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>0.965894</stDim:w>
+            <stDim:h>0.995870</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Black</rdf:li>
+               <rdf:li>PANTONE 179 C</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>PANTONE 179 C</xmpG:swatchName>
+                           <xmpG:type>SPOT</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>LAB</xmpG:mode>
+                           <xmpG:L>52.941200</xmpG:L>
+                           <xmpG:A>64</xmpG:A>
+                           <xmpG:B>48</xmpG:B>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
+         <egGr:trapped>False</egGr:trapped>
+         <egGr:nrpages>1</egGr:nrpages>
+         <egGr:startlogpage>1</egGr:startlogpage>
+         <egGr:units>mm</egGr:units>
+         <egGr:vsize>25.295</egGr:vsize>
+         <egGr:hsize>24.534</egGr:hsize>
+         <egGr:margtop>0</egGr:margtop>
+         <egGr:margbot>0</egGr:margbot>
+         <egGr:margleft>0</egGr:margleft>
+         <egGr:margright>0</egGr:margright>
+         <egGr:vshrink>1.000000</egGr:vshrink>
+         <egGr:hshrink>1.000000</egGr:hshrink>
+         <egGr:readerspread>False</egGr:readerspread>
+         <egGr:screenreg>False</egGr:screenreg>
+         <egGr:inks>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>black</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>black</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>82.5</egInk:angle>
+                  <egInk:r>0.137420654</egInk:r>
+                  <egInk:g>0.122756958</egInk:g>
+                  <egInk:b>0.126052856</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>179</egInk:name>
+                  <egInk:type>pantone</egInk:type>
+                  <egInk:book>pms1000c</egInk:book>
+                  <egInk:egname>179</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>45</egInk:angle>
+                  <egInk:r>0.894381344</egInk:r>
+                  <egInk:g>0.239542603</egInk:g>
+                  <egInk:b>0.186786488</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+            </rdf:Seq>
+         </egGr:inks>
+         <egLayL:layers>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egLay:name>Layer 1</egLay:name>
+                  <egLay:printable>True</egLay:printable>
+                  <egLay:locked>False</egLay:locked>
+               </rdf:li>
+            </rdf:Seq>
+         </egLayL:layers>
+         <egPagL:pagelist>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egPag:start>0</egPag:start>
+                  <egPag:end>0</egPag:end>
+                  <egPag:inks>
+                     <rdf:Seq>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>2</rdf:li>
+                     </rdf:Seq>
+                  </egPag:inks>
+               </rdf:li>
+            </rdf:Seq>
+         </egPagL:pagelist>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj47 0 obj<</Length 6548/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 79.328f76e, 2022/08/01-19:10:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>application/postscript</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Print</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>(Deb Pauley)</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmp:MetadataDate>2021-08-25T13:05:56-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2021-08-25T13:05:56-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2021-08-25T13:05:56-05:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 25.3 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>xmp.iid:783acccf-450d-4a0e-bda2-2e809e05dba5</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:783acccf-450d-4a0e-bda2-2e809e05dba5</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:7714bbb3-cb4b-9e4b-a7cc-ba1f08c54dbc</stRef:instanceID>
+            <stRef:documentID>xmp.did:09a6dae5-d973-4c6c-9883-0fe9bfce3a2a</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:783acccf-450d-4a0e-bda2-2e809e05dba5</stEvt:instanceID>
+                  <stEvt:when>2021-08-25T13:05:56-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 25.3 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <illustrator:CreatorSubTool>Adobe Illustrator</illustrator:CreatorSubTool>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>6.000000</stDim:w>
+            <stDim:h>2.000000</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Black</rdf:li>
+               <rdf:li>PANTONE 1815 C</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>PANTONE 1815 C</xmpG:swatchName>
+                           <xmpG:type>SPOT</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>LAB</xmpG:mode>
+                           <xmpG:L>30.196098</xmpG:L>
+                           <xmpG:A>39</xmpG:A>
+                           <xmpG:B>21</xmpG:B>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj46 0 obj<</Length 12838/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 79.328f76e, 2022/08/01-19:10:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:egGr="http://ns.esko-graphics.com/grinfo/1.0/"
+            xmlns:egInk="http://ns.esko-graphics.com/inkinfo/1.0/"
+            xmlns:egInkCovL="http://ns.esko-graphics.com/inkcovlist/1.0/"
+            xmlns:egLayL="http://ns.esko-graphics.com/laylist/1.0/"
+            xmlns:egLay="http://ns.esko-graphics.com/layer/1.0/"
+            xmlns:egExtFL2="http://ns.esko-graphics.com/extfileslist/2.0/"
+            xmlns:egExtFL="http://ns.esko-graphics.com/extfileslist/1.0/"
+            xmlns:egPagL="http://ns.esko-graphics.com/pagerangelist/1.0/"
+            xmlns:egPag="http://ns.esko-graphics.com/pagerange/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Enviroment</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2017-12-19T16:32:13-06:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-12-19T16:32:13-06:00</xmp:ModifyDate>
+         <xmp:CreateDate>2017-12-19T09:01:28-06:00</xmp:CreateDate>
+         <xmp:CreatorTool>Esko DeskPack 16.1.1.117 Jun 21 2017</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:fbb47991-189e-8947-a024-5995ae76d7cf</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:6f3f6fb4-e7d5-43d1-96eb-16990149ebe1</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:d1c078a0-2746-42b2-b0d1-25aedff8fb1e</stRef:instanceID>
+            <stRef:documentID>xmp.did:1b6690ed-28a8-c141-9479-b6a9cf6be651</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6f3f6fb4-e7d5-43d1-96eb-16990149ebe1</stEvt:instanceID>
+                  <stEvt:when>2017-12-19T09:01:26-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2017 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:Type>Document</illustrator:Type>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>2.000000</stDim:w>
+            <stDim:h>2.000000</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+               <rdf:li>PANTONE 179 C</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>PANTONE 179 C</xmpG:swatchName>
+                           <xmpG:type>SPOT</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>LAB</xmpG:mode>
+                           <xmpG:L>52.941177</xmpG:L>
+                           <xmpG:A>64</xmpG:A>
+                           <xmpG:B>48</xmpG:B>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+         <pdfx:CreatorVersion>21.0.2</pdfx:CreatorVersion>
+         <egGr:trapped>False</egGr:trapped>
+         <egGr:nrpages>1</egGr:nrpages>
+         <egGr:startlogpage>1</egGr:startlogpage>
+         <egGr:units>mm</egGr:units>
+         <egGr:vsize>50.8</egGr:vsize>
+         <egGr:hsize>50.8</egGr:hsize>
+         <egGr:margtop>0</egGr:margtop>
+         <egGr:margbot>0</egGr:margbot>
+         <egGr:margleft>0</egGr:margleft>
+         <egGr:margright>0</egGr:margright>
+         <egGr:vshrink>1.000000</egGr:vshrink>
+         <egGr:hshrink>1.000000</egGr:hshrink>
+         <egGr:readerspread>False</egGr:readerspread>
+         <egGr:screenreg>False</egGr:screenreg>
+         <egGr:inks>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>cyan</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>cyan</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>22.5</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0</egInk:r>
+                  <egInk:g>0.680969238</egInk:g>
+                  <egInk:b>0.938095093</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>magenta</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>magenta</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>52.5</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.926116943</egInk:r>
+                  <egInk:g>0</egInk:g>
+                  <egInk:b>0.548477173</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>yellow</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>yellow</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>7.5</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>1</egInk:r>
+                  <egInk:g>0.948699951</egInk:g>
+                  <egInk:b>0</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>black</egInk:name>
+                  <egInk:type>process</egInk:type>
+                  <egInk:book>process</egInk:book>
+                  <egInk:egname>black</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>82.5</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.137420654</egInk:r>
+                  <egInk:g>0.122756958</egInk:g>
+                  <egInk:b>0.126052856</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <egInk:name>179</egInk:name>
+                  <egInk:type>pantone</egInk:type>
+                  <egInk:book>pms1000c</egInk:book>
+                  <egInk:egname>179</egInk:egname>
+                  <egInk:frequency>120</egInk:frequency>
+                  <egInk:angle>45</egInk:angle>
+                  <egInk:dotshape/>
+                  <egInk:r>0.900841117</egInk:r>
+                  <egInk:g>0.236248672</egInk:g>
+                  <egInk:b>0.184039339</egInk:b>
+                  <egInk:attribute>normal</egInk:attribute>
+                  <egInk:printingmethod>unknown</egInk:printingmethod>
+               </rdf:li>
+            </rdf:Seq>
+         </egGr:inks>
+         <egInkCovL:coverage>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+               <rdf:li rdf:parseType="Resource"/>
+            </rdf:Seq>
+         </egInkCovL:coverage>
+         <egLayL:layers>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egLay:name>Layer 1</egLay:name>
+                  <egLay:printable>True</egLay:printable>
+                  <egLay:locked>False</egLay:locked>
+               </rdf:li>
+            </rdf:Seq>
+         </egLayL:layers>
+         <egExtFL2:files>
+            <rdf:Bag/>
+         </egExtFL2:files>
+         <egExtFL:files>
+            <rdf:Bag/>
+         </egExtFL:files>
+         <egPagL:pagelist>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <egPag:start>0</egPag:start>
+                  <egPag:end>0</egPag:end>
+                  <egPag:inks>
+                     <rdf:Seq>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>2</rdf:li>
+                        <rdf:li>3</rdf:li>
+                        <rdf:li>4</rdf:li>
+                        <rdf:li>5</rdf:li>
+                     </rdf:Seq>
+                  </egPag:inks>
+               </rdf:li>
+            </rdf:Seq>
+         </egPagL:pagelist>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj16 0 obj<</BaseFont/HWTJKT+AkzidenzGroteskPro-BoldEx/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 49 0 R/LastChar 85/Subtype/Type1/ToUnicode 50 0 R/Type/Font/Widths[375 0 0 0 0 0 0 0 375 375 0 0 0 415 0 0 854 854 854 854 854 0 0 0 854 854 354 0 0 0 0 0 0 896 0 938 917 833 0 1000 938 375 458 0 688 1146 917 1000 0 0 875 812 771 958]>>endobj49 0 obj<</Ascent 998/CapHeight 706/CharSet(/space/parenleft/parenright/hyphen/zero/one/two/three/four/eight/nine/colon/A/C/D/E/G/H/I/J/L/M/N/O/R/S/T/U)/Descent -282/Flags 32/FontBBox[-229 -282 1791 998]/FontFamily(Akzidenz-Grotesk Pro Bold Ext)/FontFile3 51 0 R/FontName/HWTJKT+AkzidenzGroteskPro-BoldEx/FontStretch/Expanded/FontWeight 700/ItalicAngle 0/StemV 236/Type/FontDescriptor/XHeight 530>>endobj50 0 obj<</Filter/FlateDecode/Length 355>>stream
+Hâ\íÕäÉ0ÄÔyä€C±öÑ∂ B±-xÿ÷›∞…ÿ÷¢=¯ˆ;„î.l@ÛÖÃ|Ã$I ÍT˘ní…{lìl;Ô"å√=ZêW∏u^§ôtùù´Âo˚&àìÎyú†Ø|;à<ó…néSúÂÍËÜ+¨EÚƒŒﬂ‰Í´¨◊2©Ô!¸@~í[Y“Aã¢ó&º6=»dI€T˜ªiﬁ`Œ_ƒÁ@fÀ:ÂbÏ‡`çÖÿ¯à|ã£ê˘G!¿ª˚Ÿû”Æ≠˝n¢»3
+ﬁnqBﬁ3ÔâÃ‚Û	Yqº¢xï2ßƒsF¨ò±f÷ƒÏW‰WÏW‰WGÊ#≤fß&ßfè&èfè&è6ÃÜx«º#fø&øfø&øfø^¸%sIÃ}iÍKüôœƒf<¿‹p_Ü˙2\è°z◊c®√ı‡D˛8Y:z|!ÚyØˆ#^ÈÚåñª§[Ï<<_ZÇƒ,˙ƒØ  FÆÖendstreamendobj51 0 obj<</Filter/FlateDecode/Length 2258/Subtype/Type1C>>stream
+HâlTPWÌzìµÒ◊Dz∞ßïè¨ ¢+âQ$Ä¡éD%80ø¡ûaF>FÂ#TDqETJ4´—hd¡∞âb÷¨ü≤V„™Â'õ∏ÓZµπ=‹°vﬂò™≠⁄‘VWuΩ˜Ó}Á‹{œΩè¶<‹(ö¶ß'ÆNKJNé+(7Â‚Ú%äŸ*[
+ñ)ÊŸÕÖ∆≈]NÅ™ñVßx®æø‚±O˙j˛=ZŒL£®Æì„UΩóZ:Ò¨Ô∏ˆIîõ1ùñèIÒÊí2≈îõgï"√√ﬂî ä5è†I))Ò°R\a°¥¬e¥H+dã¨ÿdc®îñg≤H9Êb´d1ÁXÌEñ≤ÕE%•VYëJsÆb(íàá5OvmK`ôdŒ˘/r®ÙæπT*2îI≈f´§»ƒ«Xö-áHEf£)ß,D2%÷…™ä-Ö+±
+]ÿ≈fE Vdr"e≈d3XM6Y≤õïãﬂ≈˜?Q˝í»&+YíãsM≈≤¨ÑWÿ¶B˘’R)sëMÉ≈"eπN]ÑY.ê¨fó!€L^—XÃ•J∂+k£¸ˇô√V¶ïï»R4AŒ°(ö|‘8ö‚(j¢Â„FÕ†(7*»ùöÌNEπS”à‘{T*UGP7hâN¢{›¢›
+‹˛Íæƒ=ﬂ˝Äáß«Jè
+èóÃTÊ◊Ã:∆ t2W5ö÷õçf´úsÍ˚‘ó}4˘˚˜π◊{®5Ω≥Fç8ƒ„|ÿ…¿3J8»√|ÿÕ8˜∞NÕØ÷0…^£ÒÆ∫váÿF◊ÿiıu‘ÚsaBLÄôÃjØá0ADÕÉπ–X∏ﬁgæîÅ(òˆca*
+"áØÆ÷9¯Ô–ÎÚ8S¿ z≈ 'Ç&ö!XSû√õê,¿ÚPàCxC‰ú€a#ƒ”™7l‰!œrIvSC!àv|èx∞°ah∆A|}—äG #2`ÇTäX”Ã#ùà„qf]æ◊	Ø√0≠}E.È†Õ1è$4‰ÌòG∞ãmfK™5´RŸñΩÕ˝ŸÔõZw\‹ÔÈ,&¨ı√∂Á‡O;xC~…ñ!SWW°k⁄ﬂ∫ª∑Ì\˚πÁ‹Ô>u∞ß”ÛZs_Ø ìÉ˛Ñ•hA~-Í≈˝∞bkΩn∞aˇ˘øk{nlM+ÿ`3ñÈ§5¡´K|
+◊lZ5[‡í* fæ$AËÇn¬4∑zlÎ6◊lP u÷¸ƒ∫rm2ıw6Ë∞Ù£]©G2zM>ÀÆ>∑¡Ì˜0~Áπ˚∫'}ÕwN	¿°◊·¥&Ò€=èO¸(@Æﬂão˘a‰Ê»ÖbIAïÚqîmô⁄€˙y«⁄Û√-__ù©C_ç´&§rQ™ŒN;Ü¿ã'πæ¶Í∞Éu˙9g1§.#//K!äGìLP¿pIõI‹¿Å ~4¨ï«à‹≠QyB‡=§‡º8ìÔ¡ÙÌP>ü∫08,¿\,<ÅSq2Ó,≈ƒà'∂à&ÒÎsïòÿÃñ˛ãWZ˙ÔÙoZ-Ó≈C¸πÈ`”âs_èÏΩ	„[◊Á˝*!Ë¢t,©ñzæ‚´ŸD9ßÈ≠˚éZƒz¸ÌVkùàaüB\!Di·¡Pi0{ÒˆbÙùéÀam—K∏ﬁŸ◊Ø´ÇY|,2µy´¢w›∫˝œ¶c∑ÔVÕ'm8\)…4å¿sí±ìY(G≤N¡
+La9+©·Í;=ÍÌçózOkphLœ@ó¶X⁄5Ω»2·–¡„\Õ]®b∏6D´…CèÜ´Õ|u[Ây„gûWó!›áiZg∫á„0¥—◊Ûu ¿m|¥DôôÌOüË.∂Ì<Ç’áß.µ/^Èß-àk¯ÛJ›∆éíœo	É≠_˝˛¥xyË/çG¥7Gä„zt\m=!‚‡-zÿ°Á«Ùj˚‚è-›#:˘Æﬁ>#Ù÷>N} ﬁHüsÌZuû·â˜Dˆ7u9_ËÜ◊5∆ñ
+˘µâÈ"C†Ä!√‡	ë¥„Koàv÷£ÆÖ(ÁZT∑@‰ÿ¶1=À›µAJ ëà£!¢&MÓMÚVcùø¡hHaW}õÄû⁄îƒC∫Ã˛öëC¬ø.oO^Ÿ~H˚lÓÜ4µıÙ¯Ù†_√-Ê#ªh—ª∫®‡j§◊	ÿÖAê
+”üû∫4"N.yõÂ⁄àê ÕD7oáwë∑·24„Œ1=4”0ÈdéåΩﬁN√5ó√W¥NC=ƒ™›‰L"rÊ∞ˆZ{e•X^°‘ïjì»#†π~Ûì˛ã∫Å?4~{\P´X+ÍaÅ⁄E¶dé7,¿1µõ\P`ˇ}Ù∫˝!ã	N&®ë∂´zÃsíÆX≠!åÈå3ùÂjæ·xÓ∫—‡ÙdÒ±Í…†L¸UNèú√›µêˆJÖz4É◊OY7¨üä˜óﬁ¡F-FÜ»Y©∫˜≤¬¬0Axw¬¨h1Ë±	fia‚?ZáüÍ¿Ô«=0„k˜‘Úo£?.∆9Ô√§ø;Úô†w∫—ütz&)_3ó»J;úﬁ∏N2||7L8+\±~ˆ·AÒÒä¶≠sﬂ´r6É†Å@lfÑzÜáÕ—Œm >]Û¶Ì’BU]≈á‚∆
+•z≠Wh8…ë7Ì™ at3‰ÚX‘eï0NÔ ◊ı‡öÓÃ`√ÂV"pngpõπü	8ò˘ª”¬≈ágFjñ∂äPﬂR∑kkwŸ	ü¢ÅÙ„ô{=[åÛZHø˛» 7ˇ˚ h=S{vugR˚€U˜;j˜Ai∑Ç®yj`^o=]-í’{ã˚mÑk˚(†v¯∏˜2˘è¯∏˜2˝á˚2˜è¸∏˜í¯∏≤áv˜1w¯Êw»˘V¸\qãJ∞S˚‡˜ZäÍ˜HÛ≠≈…”œéÂÂ¯˚ê¸!`âQ_dgaLä}zNã≥_b∞á∏æ¯%r§¯•§˜ûï§˚u§òü≥ç¯í˜Cô˜3
+˜˜d¶ùí¯˙+ ≠º≤&endstreamendobj13 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA false/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj9 0 obj[/Separation/PANTONE#20179#20C 34 0 R<</C0[100.0 0.0 0.0]/C1[52.9412 64.0 48.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 100.0 -128.0 127.0 -128.0 127.0]>>]endobj52 0 obj<</CreationDate(D:20230316090129-05'00')/Creator(Adobe InDesign 18.0 \(Macintosh\))/ModDate(D:20230316090130-05'00')/Producer(Adobe PDF Library 17.0)/Trapped/False>>endobjxref
+0 53
+0000000000 65535 f
+0000000016 00000 n
+0000000124 00000 n
+0000018480 00000 n
+0000000000 00000 f
+0000018543 00000 n
+0000019743 00000 n
+0000020849 00000 n
+0000092532 00000 n
+0000153738 00000 n
+0000057960 00000 n
+0000057736 00000 n
+0000057849 00000 n
+0000153626 00000 n
+0000058606 00000 n
+0000059408 00000 n
+0000150101 00000 n
+0000119964 00000 n
+0000120001 00000 n
+0000120038 00000 n
+0000035377 00000 n
+0000073869 00000 n
+0000090537 00000 n
+0000021943 00000 n
+0000058136 00000 n
+0000058311 00000 n
+0000052584 00000 n
+0000052995 00000 n
+0000038238 00000 n
+0000038275 00000 n
+0000054653 00000 n
+0000053352 00000 n
+0000053633 00000 n
+0000055006 00000 n
+0000058488 00000 n
+0000066544 00000 n
+0000066643 00000 n
+0000067316 00000 n
+0000060182 00000 n
+0000060278 00000 n
+0000060862 00000 n
+0000061514 00000 n
+0000068015 00000 n
+0000090908 00000 n
+0000091227 00000 n
+0000091561 00000 n
+0000137185 00000 n
+0000130560 00000 n
+0000120075 00000 n
+0000150452 00000 n
+0000150859 00000 n
+0000151283 00000 n
+0000153912 00000 n
+trailer<</Size 53/Root 1 0 R/Info 52 0 R/ID[<EC30A426A08F44A98208D0E34504FC19><DB1FCF841975426F9FB4B693DC7EAAEC>]>>startxref154094%%EOF
