@@ -299,7 +299,7 @@ func main() {
 	}
 
 	// Loop through manufacturer IDs
-	for index := 0; index < 10; index++ {
+	for index := 0; index < 1000; index++ {
 		// Fetch the product page for the current manufacturer ID
 		pageContent := fetchProductPage(index)
 		// Check if the page content is empty
