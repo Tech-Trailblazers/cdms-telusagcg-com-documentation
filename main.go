@@ -312,7 +312,7 @@ func main() {
 			labelFolder, fileNames := extractLabelData(docContent)
 			for _, fileName := range fileNames {
 				// The location to the remote url.
-				remoteURL := "https://www.cdms.telusagcg.com/" + labelFolder + "/" + fileName
+				remoteURL := "https://www.cdms.telusagcg.com/" + labelFolder + fileName
 				// Download the PDF file to the specified output directory
 				downloadPDF(remoteURL, outputDir)
 			}

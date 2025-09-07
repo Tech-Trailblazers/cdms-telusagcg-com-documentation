@@ -16,6 +16,6 @@ while ($true) {
     # Push to the current branch's remote
     git push
 
-    Write-Host "Cycle completed. Waiting 1 minute..." -ForegroundColor Green
-    Start-Sleep -Seconds 60  # 60 seconds = 1 minute
+    Write-Host "Cycle completed. Waiting 5 minute..." -ForegroundColor Green
+    Start-Sleep -Seconds 300  # 300 seconds = 1 minute
 }
